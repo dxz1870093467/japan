@@ -1,0 +1,230 @@
+
+1. 我  Watashi  わたし　私
+　　我的朋友 Watashi no tomodachi   わたしの友達
+2. 家人 kazoku  かぞく　家族
+　　我家是三个人 Watashinokazoku wa sannindesu 　わたしのかぞくはさんにんです　私の家族はさん・にんです
+3. 父亲 Chichi ちち　父親
+　　我父亲今年63岁 Chichi wa ima rokuju sansaidesu
+4. 母亲 haha  はは　母親
+　　母亲节 haha no hi ははのひ　母親のひ
+5. 父亲（敬称） Otosan　 おとうさん　お父さん
+　　父亲的生日  otosan no tanjobi  お父さん・のたんじょび　　おとうさんの誕生日
+6. 母亲（敬称） okasan  おかあさん　お母さん
+   妈妈做的饭菜 okasan no ryori  おかあさんのりょうり　お母さんの料理
+7. 儿子 musuko  むすこ　息子　
+　　儿子的朋友 musuko no tomodachi むすこのともだち　息子の友達
+8. 女儿 musume  むすめ　娘
+　　我女儿是大学生 nusume wa daigakusei desu むすめはだいがくせいです　娘私は大学生です
+9. 公司 kaisha  かいしゃ　会社
+　　公司不是学校 kaisha wa gakko janai  かいしゃはがっこうじゃない
+10.先生 san さん　男生/女士
+   田中先生/女士　たなかさん　　田中さん
+11.老师/医生/律师  sensei  せんせい　　先生
+　　日语老师   nihongo no sensei  にほんごのせんせい　　日本語の先生
+12.工作  hataraku  はたらく　　働く
+　　我想在学校工作 gakko de hatarakitai desu  がっこうで　はたらきたいです　学校では働きたいです
+13.休息  yasumu   休む
+　 我没有休息时间  yasumu jikan ga nai やすむじかんがない　　休む時間がない
+14.日本  nihon  にほん　日本
+　　去日本 nihon ni iku  にほんにいく　日本に行く
+15.日本人 nihonjin  にほんじん　日本人
+　　我男朋友是日本人 kareshi ga nihonjin desu 　かれしがにほんじんです　彼氏が日本人です
+16.日语 nihongo にほんご　日本語
+　　我在学习日语 nihongo o benkyo shi teru 　にほんごをべんきょうしてる　　にほんごを勉強してる
+17.一点点 sukoshi  すこし　少し
+　　请给我一点时间  sukoshi jikan o kudasai  すこしじかんをください　少し時間をください
+18.我们 watashitachi  わたしたち　私たち
+　　我们三个人 watashitachi sannin わたしたちさんにん　　私たち三人
+19.英语 eigo えいご　英語
+　　英语很难  eigo ga muzukashi  えいごがむずかしい　英語が難しい
+20.说话（动词） hanasu 　はなす　話す
+　　请说慢一点  yukkuri hanashite kudasai ゆっくりはなしてください　　ゆっくり話してください
+21.爱好（名词） shumi  しゅみ　趣味
+　　你的爱好是什么  shumi wa nanidesu ka? しゅみはなんですが　　趣味はなんですが
+22.运动（名词）supotsu スポーツ
+　　运动员 supotsu senshu 　スポーツせんしゅ　スポーツ選手
+23.做（动词） suru  する　
+   烹饪 ryori o suru りょりをする　料理をする
+24.足球  sakka 　サッカー
+　　足球俱乐部  sakka  サッカークラブ　　サッカー俱楽部
+25.棒球  yakyu 　やきゅう　　野球
+　　我对棒球不感兴趣  wotashi wa yakyu ni kyommi ga arimasen
+                   わたしはやきゅうにきょうみがありません　　私は野球に興味がありません
+26.喜欢（名——形动） suki 　すき
+　　喜欢的人 suki na hito  すきなひと 　好きな人
+27.也  mo  も
+　　我也不知道  boku mo shiranai  ぼくもしらない　　ぼくも知らない
+28.假期（名-形动）  hima  ひま　暇
+　　闲暇时间  hima na jikan  ひまなじかん　　暇な時間
+29.时候，时刻（名词） toki  とき　時
+　　那时 ano toki  あのとき　　あの時
+30.电影（名词） eiga  えいが　　映画
+　　看电影 eiga o miru 　えいがをみる　　映画を見る
+31.看（动词） miru 　みる　見る
+　　看电视  terebi o miru 　テレビをみる　　テレビを見る
+32.经常（副词） yoku よく
+　　我经常去男朋友家玩  kareshi no ie ni yoku asobiniiku
+                    かれしのいえによくあそびにいく　　彼氏の家によく遊びに行く
+32.年轻的 （形容词） wakai わかい　若い
+　　年轻的女生 wakai jiosei  わかいじょせい　　若い女性
+33.哥哥 ani あに　兄
+　　哥哥的小孩 ani no kodomo 　あにのこども　　兄の子供
+34.姐姐  ane  あね　姉
+　　我和姐姐吵架了  ane to kenka shimashita  あね　と　けんか　しました　　姉と喧嘩しました
+35.弟弟（名词） ototo 　おとうと　弟
+　　我弟弟上小学三年级  ototo wa shogaku sannensei desu
+                    おとうと　は　しょうがくさんねんせいです　　弟は小学生三年生です
+36.妹妹（名词）imoto 　いもうと　妹
+　　妹妹的婚礼  imoto no kekkonshiki  いもうとけっこんしき　妹の結婚式
+37.学生（名词）gakusei がくせい　学生
+　　大学生 daigakusei  大学生
+38.上班族（名词） kaishain 　かいしゃいん　　会社員
+　　我老公是上班族  otto wa kaishain desu 　
+        　　　　　おっと　は　かいしゃいんです　　夫は会社員です
+39.居住（动词）sumu  すむ　　住む
+　　你现在住在哪里？ ima doko ni sunde imasu ka?
+                 いま　どこ　に　住んで　いますか？　今どこに住んでいます　か？
+40.妻子（名词） tsuma 　つま　妻
+　　我和我的妻子结婚5年了  tsuma to kekkon shite gonendesu
+                       つま　と　けっこん　して　ごねんです　　妻と結婚して五年です
+41.丈夫（名词） otto おっと　夫
+   我丈夫去出差了  otto ga shutcho ni ikimashita
+                おっと　が　しゅっちょう　に　いきました　　夫が出張に行きました
+42.工作（名词） shigoto しごと　仕事
+　　我想辞职  shigoto o yametai  しごと　を　やめたい　仕事を辞めたい
+43.电视机（名词） terebi  テレビ
+　　电视节目 terebibangumi   テレビばんぐみ　テレビ番組
+44.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
