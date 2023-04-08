@@ -94,7 +94,44 @@
 　　我想辞职  shigoto o yametai  しごと　を　やめたい　仕事を辞めたい
 43.电视机（名词） terebi  テレビ
 　　电视节目 terebibangumi   テレビばんぐみ　テレビ番組
-44.
+44.收音机  rajio  ラジオ
+　　听收音机 rajio o kiku  ラジオ　を　きく　ラジオを聞く
+45.现在  ima  いま　今
+　　现在几点了  ima nanjidesuka  いまなんじですか　　今何時ですか
+46.春天  haru  はる　　春
+　　我期待春天  haru ga tanoshimidesu
+　　          はる　が　たのしみです　　春が楽しみです
+47.夏天  natsu 　なつ　夏
+　　今年夏天  kotoshi no natsu  ことしのなつ　　今年の夏
+48.秋天  aki  あき　　秋
+　　秋天快到了  mosugu aki ga kimasu
+        　　　もうすぐ　あき　が　きます　　もうすぐ　秋　が　来ます
+49.冬天 fuyu  ふゆ　　冬
+　　冬天很冷  fuyu wa samui 　ふゆ　は　さむい　　冬は寒い
+50.寒冷的 samui  さむい　寒い
+　　寒冷的季节  samui kisetsu   さむいきせつ　　さむい季節
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
