@@ -1,0 +1,324 @@
+1.一起 isshoni  いっしょに　 一緒に
+  要不要一起吃饭  isshoni ranchi ni ikanai
+               　いっしょに　ランチ　に　いかない？　一緒に　ランチ　に　行かない
+2.学习 benkyo- べんきょう　勉強
+　学习日语 nihongo o benkyo- suru
+        にほんご　を　べんきょう　する　　日本語を勉強する
+3.学校 gakko- がっこう　　学校
+　日语学校  nihongo gakko- 　日本語学校
+4.作业 shukudai 　しゅくだい　宿題
+　做作业  shukudai o suru  宿題　を　する
+5.赏花 hanami  はなみ　花見
+　明天我要和朋友去赏花  ashita tomodachi to o hanami ni iku
+                   　あした　ともだち　と　お　はなみ　に　いく　　
+                   　明日　友達　と　お　花見にいく　
+6.总是（副词）itsumo  いつも
+　假期里我总是一个人  kyu-jitsu wa itsumo hitori desu
+                   きゅうじつ　は　いつも　ひとり　です　　休日はいつも一人です
+7.难（形容词） muzukashi- むずかしい　　難しい
+　日语很难 nihongo wa muzukashi- 　にほんごは　むずかしい　日本語は難しい
+8.简单（名——形动） kantan  かんたん　簡単
+  简单的料理 kantan na ryo-ri 　かんたん　な　りょうり　　簡単　な　料理
+9.书 hon ほん　本
+　看书 hon oyomu 　ほんをよむ　　本を読む
+10.词典 jisho じしょ　辞書
+　电子词典 denshijisho  でんしじしょ　電子辞書
+11.笔记  no-to
+　借一下你的笔记 　no-to kashite  貸して
+12.卡片  ka-do 　
+ 小卡片  chi-sai ka-do  ちいさい
+13.铅笔  enpitsu 　えんぴつ　　鉛筆
+  一只铅笔  enpitsu ippon  えんぴつ　いっぽん　鉛筆一本　　
+14.这个 kore これ
+　　这是我的手机  kore wa watashi no keitaidesu
+               これはわｔし　の　けいたいです　　これは私の携帯です
+15.那个（代词） sore それ
+　　那时什么？　それはななんですか？　
+16.告诉（动词） oshieru  おしえる　　教える
+　　请告诉我你的手机号码  keitai bango- oshiete
+                     けいたいばんご　おしえて　　携帯番号教えて
+17.兴趣（名词） kyo-mi 　きょうみ　興味
+　　不敢兴趣 kyo-mi ga nai  きょうみ　が　ない　興味がない
+18.有 a-ru 　ある
+　　感兴趣 kyo-mi ga- aru  きょうみがある　　興味がある
+19.朋友 tomodachi ともだち　友達
+　　朋友很多 tomodachi ga o-i  ともだちがおおい　　友達が多い
+20.最好的朋友  shin yu- 　しんゆう　親友
+　 我最好的朋友很可爱  watashi no shin yu- wa kawaiidesu
+                    わたし　の　しんゆう　は　かわいいです　　私の親友は可愛いです
+21.有时  tokidoki ときどき
+　　有时我会做梦  tokidoki yume o mimasu
+                ときどき　ゆめを　みます　　ときどき夢　を　見ます
+22.将来  sho-rai  しょうらい　将来
+　将来想做的事  sho-rai yaritai koto
+              しょうらい　やりたい　こと　　将来　やりたい　こと
+23.车票，入场卷  kippu  きっぷ　切符
+　　买票  kippuwokau  きっぷをかう　　切符を買う
+24.买  kau 　買う
+　　买车 kuruma o kau 　くるまをかう　　車を買う
+25.卖  uru 　うる　売る
+  卖房子 ie o uru  いえをうる　　家を売る　
+26.帮忙 tetsudau  てつだう　　手伝う
+　帮朋友搬家 yu-jin no hikkoshi o tetsudau
+            ゆうじん　の　ひっこしを　てつだう　　友人の引っ越しを手伝う
+27.汉字 kanji かんじ　漢字
+　　汉字的读法  kanji no yomikata  かんじ　の　よみかた　　漢字の読み方
+28.记住 oboeru  おぼえる　　覚える
+　　记住单词  tango o oboeru  たんごをおぼえる　　単語を覚える
+29.可爱的  kawaii  かわいい　可愛い
+　　可爱的狗  kawaii inu  かわいいいぬ　　可愛い犬
+30.写 kaku  かく　書く
+　　写信  tagamiwokaku  　てがみをかく　手紙を書く
+31.邮件 me-ru  メール
+　　发邮件  me-ru o okuru 　　　メールを送る
+32.文件 fairu 　ファイル
+　　上传文件 fairu o appuro-do suru  ファイルをアップロードする
+33.电视句  dorama  ドラマ
+　　美剧  amerika dorama  アメリカドラマ
+34.舞蹈 dansu  ダンス
+　　舞蹈教师 　dansu kyo-shitsu  ダンス教室
+35.知道，明白（动词） wakaru  わかる　　分かる
+　　我不明白 wakarimasen  わかりません　　分かりません
+36.甜的 amai  あまい　　甘い
+　　我想吃甜食  amaimono ga tabetai
+            　あまいもの　が　たべたい　　甘いもの食べたい
+37.苦的  nigai  にがい　　苦い
+　　苦咖啡  nigai ko-hi-  にがいコーヒー　　苦いコーヒー
+38.辣的 karai  からい　辛い
+　　辣的拉面  karai ra-men  からい　
+39.酸的 suppai  すっぱい　酸っぱい
+　　酸葡萄 　suppai budo- すっぱい　ブドウ　　酸っぱいブドウ
+40.上周 senshu- せんしゅ　先週
+　　上周日  senshu- no nichiyo-bi  せんしゅ　の　にちようび　　先週の日曜日
+41.这周 konshu- こんしゅう　今週
+　　这周末 konshu- matsu  こんしゅうまつ　　今週末
+42.下周 raishu-  らいしゅう　　来週
+　　下周有个朋友的婚礼  raishu- yu-jin no kekkonshiki ga arimasu
+                    らいしゅう　ゆうじん　の　けっこんしき　が　あります
+                    来週友人の結婚式が　あります
+43.早餐 asagohan  あさごはん　朝ご飯
+　　吃早餐 asagohan o tabe ru　 あさごはんをたべる 　朝ご飯を食べる
+44.午餐 hirugohan ひるごはん　　昼ご飯
+　　午餐饭盒  hirugohan no bento- 　ひるごはん　の　べんとう　　昼ご飯の弁当
+45.晚餐 bangohan 　ばんごはん　 晩ご飯
+　　你晚饭吃了什么？  bangohan nani tabeta no? 　ばんごはん　なに　たべた　の？　晩ご飯何か食べたの？
+46.吃（动词） taberu  たべる　　食べる
+　　吃蛋糕  ke-ki o taberu 　ケーキをたべる　　ケーキを食べる
+47.喝（动词） nomu  のむ　飲む
+　　喝果汁  ju-su o nomu 　ジュースを飲む
+48.菜单 menyu- メニュー
+　　星巴克菜单 sutaba no menyu- スタバのメニュー
+49.味道 aji  あじ　味
+　　味道怎么样  aji wa do- 　あじはどう　
+50.食物 tabemono  たべもの　食べ物
+　　讨厌食物 kiraina tabemono きらいなたべもの　　嫌いな食べ物
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

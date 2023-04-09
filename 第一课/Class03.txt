@@ -1,1 +1,348 @@
-101.
+101.下个月 raigetsu らいげつ　来月
+　　 我下个月要买车  raigetsu kuruma o ko-nyu shimasu
+                  らいげつ　くるま　を　こうにゅ　しまし　　来月　車を購入します
+102.旅行 ryoko- 　りょこう　　旅行
+　　 海外 旅行  gaigairyoko-  かいがいりょこう　　海外旅行
+103.什么样（形动） don na  どんな
+　　 你想要什么样的车 don na kuruma ga hoshi-desuka?
+                  どんな　くるま　が　ほしいですか？　　どんな　車が　欲しいですか？
+104.有趣的（形动） omoshiroi  おもしろい　　面白い
+　　有趣的漫画 omoshiroi manga  おもしろい　まんが　　面白い漫画
+105.无聊的（形容） tsumaranai  つまらない
+　　无聊的小说 tsumaranai  sho-setsu 　
+                        つまらない　しょせつ　　つまらない　小説
+106.美术馆（名词） bijutsukan  びじゅつかん　美術館
+　　我想去美术馆  bijutsukan びじゅつかん　に　いきたい
+　　　　　　　　　　　　　　　　美術館に行きたい
+107.电影院（名词）　eigakan  えいがかん　　映画館
+　　　电影院的爆米花 eigakan poppuko-n 　えいがかんの　ポップコーン　　
+108.博物馆 （名词） hakubutsukan  はくぶつかん　　博物館
+　　　著名博物馆  yu-meina hakubutsukan
+                ゆうめい　な　はくぶつかん　　有名　な　博物館
+109.远（形容） to-i  とおい　遠い
+　　离家远 ie kara to-i  いえからとおい　　家から遠い
+110.近（形容） Chikai 　ちかい　近い
+ 　　靠近车站  eki ni chikai  　えきにちかい　　駅に近い
+111.建筑 biru  ビル
+　　大建筑  o-kina biru  おおきな　ビル　　大きなビル
+112.道路  michi  みち　道
+　　狭窄的道路 semai michi 　せまい　みち　　狭い道
+113.左 hidari  ひだり　左
+　　左耳  hidari no mimi ひだり　の　みみ　　左の耳
+114.右 migi  みぎ　右
+　　右边  migigawa 　みぎがわ　　右側
+115.问题  shitsumon 　しつもん　質問
+　　 你有什么问题吗？  nanika shitsumon arimasu ka?
+                   なにか　しつもん　ありますか？  何か　質問　ありますか？
+116.周一  getsuyo-bi   げつようび　　月曜日
+　  本周星期一  konshu- no getsuyo-bi  こんしゅう　の　げつようび　今週の月曜日
+117.周二  kayo-bi  かようび　　火曜日
+　　周二早上  kayo-bi no asa  　かようびのあさ　　火曜日の朝
+118.周三  suiyo-bi  すいようび　水曜日
+　　下周三  raishu- no suiyo-bi  らいしゅう　の　すいようび　　来週の水曜日
+119.周四  mokuyo-bi  もくようび　　木曜日
+　　上周四  senshu- mokuyo-bi  せんしゅう　の　もくようび　　先週の木曜日
+120.周五  kin yo-bi  きんようび　金曜日
+　　周五13：00  きんようび　の　じゅうさんじ　　金曜日の十三時
+121.周六  doyo-bi  どようび　土曜日
+　　周六早上7点  doyo-bi asa shichiji   どようび　あさ　しちじ　　土曜日　朝　七時
+122.周日 　nichiyo-bi  にちようび　　日曜日
+　　明天是星期天  ashita wa nichiyo-bi desu
+               あした　は　にちようび　です　　明日は日曜日です
+123.星期几  nan'yo-bi  なんようび　何曜日
+　　今天是星期几？ kyo- wa nanyo-bi desuka
+                きょう　は　なんようび　ですか　　今日は何曜日ですか
+124.车站 eki えき　駅
+　　东京车站  to-kyo- eki  　とうきょう　えき　　東京駅
+125.酒店 hoteru ホテル
+　　酒店早餐 hoteru no cho-shoku  ホテルのちょうしょく　　ホテルの朝食
+126.迟的 慢的 osoi おそい　　遅い
+　　工作很慢  shigoto ga osoi 　しごとが　おそい　　仕事が遅い
+127.早 hayai はやい　　早い
+　　早点睡 hayakuneru はやくねる　　早く寝る
+128.没问题  daijo-bu だいじょうぶ　　大丈夫
+　　时间ok吗？ jikan daijo-bu じかんだいじょうぶ　　時間大丈夫？
+129.已经 mo- もう
+　　已经9点了  mo- kujida  もうくじだ　もう九時だ
+130.公车 basu バス
+　　乘公车 basu ni noru  バスにのる　　バスに乗る
+131.汽车 kuruma くるま　車
+　　汽车钥匙 くるまのキ一
+132.自行车 jitensha  じてんしゃ　　自転車
+　　我想买一辆自行车 jitensha o kaou to omotteimasu
+                 じてんしゃ　を　かおう　と　おもって　います　　自転車　を　買おう　と　おもって　います
+133.电车 densha でんしゃ　電車
+　　电车里 densha no naka  でんしゃのなか　　電車の中
+134.新干线 shinkansen  しんかんせん　新幹線
+　　乘新干线去  shinkansen de iku  しんかんせんでいく　新幹線で行く
+135.出租车 takushi- タクシー
+　　 出租车司机  takushidoraiba-　　タクシードライバー
+136.地铁 chikatetsu  ちかてつ　　地下鉄
+　　乘坐地铁上班  chikatetsu de shukkin shimasu
+               ちかてつ　で　しゅっきん　します　　地下鉄　で　出勤します
+137.船 fune  ふね　船
+　　小船 chiisai fune  ちいさい　ふね　　小さい船
+138.乘坐 noru のる　乗る
+　　乘车 kuruma ni noru  くるま　に　のる　　車に乗る
+139. 飞机 hiko-ki  ひこうき　　飛行機
+　　　飞机需要两个小时  hiko-ki de nijikan wa kakarimasu
+                    ひこうき　で　にじかん　は　かかります　飛行機　で　二時間　かかります
+140. 是 hai はい
+　　　是的， 明白了 はい　わかりました　　
+141. 不 i-e いいえ
+　　　不，那不是我的钱包 iie , sore wa watashi no kaban janai
+                    いいえ、それ　は　わたし　の　かばん　じゃない　　いいえ、　それ　は　私のカバンじゃない
+142.尚未 mada まだ　
+　　我还未吃饭  mada gohan  tabe tenai
+            まだ　ごはん　たべ　でない　　　まだ　ご飯食べて　ない
+143.动物园 do-butsuen 　どうぶつえん　　動物園
+　　我想去动物园 　do-butsuen ni ikitai 　
+                どうぶつえん　に　いきたい　動物園に行きたい
+144.银行 ginko- ぎんこう　銀行
+　　我在银行工作过 ginko- de hataraita koto ga aru
+                ぎんこう　で　はたらいた　こと　が　ある　　銀行で働いたことがある
+145.新的 atarashi-  あたらしい　新しい
+　　 新鞋　atarashi- kutsu  あたらしいくつ 　新しい靴
+146.旧的  furui ふるい　古い
+　　旧智能手机 furui sumaho  ふるい　スマホ　古いスマホ
+147.美味的 oishi- おいしい　美味しい
+　　美味的咖啡 oishi- ko-Hi- おいしい
+148.难吃的  mazui  まずい
+　　难吃的炒饭 mazui cha-han  まずい
+149.今晚 konban こんばん　　今晩
+　　今晚吃肉吧  konban o niku o tabeyou
+            こんばんおにくをたべよう　　今晩お肉を食べよう
+150.昨晚 yu-be ゆうべ　
+　　昨晚发生地震了  yu-be jishin ga atta   ゆうべ　じしんがあった　　昨夜地震があった
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
