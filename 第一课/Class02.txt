@@ -1,0 +1,329 @@
+51.温暖的 （形容词） attakai  あたたかい　　暖かい
+　　热食  attakai nomimono  あたたかいのみもの　　暖かい飲み物
+52.热的 (形容词) atsui  あつい　　暑い
+　　今天很热 kyo wa atsui ne  きょはあついね　今日は暑いね
+53.季节（名词）kisetsu きせつ　季節
+　　你喜欢什么时候的季节  kisetsu wa itsu ga sukidesu ka?
+                      きせつ　は　いつ　が　すきですか？　　季節はいつが　好きですか？
+54.什么时候 itsu いつ　
+　　爸爸什么时候回来  otosan itsu kaette kuru no?
+                   おとうさん　いつ　かえって　くるの？　　お父さん　いつ　かえって　くるの
+55.为什么？ doshite 　どうして
+　　为什么要那样做？ doshite sonna koto suru to?
+                  どうしてそんなこと　するの
+56.滑雪 suki スキー
+　　我每年都会和家人一起去滑雪 　まいとし　かぞくで　スキー　に　いきます
+                        　　毎年家族スキーに行きます
+57.过分的，糟糕的 hidoi  ひどい
+　　真过分  hontoni hidoi  ほんとにひどい　本当にひどい
+58.好的  i  いい
+　　好大学 i daigaku 　いいだいがく　いい大学
+59.不好的  warui  わるい　　悪い
+　　不好的结果 warui kekka  わるい　けっか　悪い結果
+60.天气  tenki 　てんき　天気
+　　好的天气  i tenki desu ne いいてんきですね　　いい天気ですね
+61.前天  ototoi  おととい　　一昨日
+　　我前天去吃了寿司  ototoi o sushi tabe ni ikimashita
+                   おととい　お　すし　たべ　に　いきました　　一昨日お寿司食べに行きました
+62.昨天 kino きのう　昨日
+　　昨天晚上  kino no yoru  きのう　の　よる　　昨日の夜
+63.今天 kyo きよう　今日
+   今天的晚饭  kyo- no yu-han  きょう　の　ゆうはん　　　今日の夕飯
+64.明天 ashita 　あした　　明日
+　　你明天有安排吗  ashita yotei aru?  あした　よてい　ある？　明日予定ある？
+65.后天 asatte   あさって　明後日
+　　后天十一点钟  asatte ju-ichiji  あさって　じゅういちじ　　明後日十一時
+66.厉害的  sugoi  すごい
+　　好厉害哦  すごいですね　
+67.雨  ame  あめ　雨
+　　下雨的天 あめ　の　ひ　　雨の日
+68.晴  hare  はれ　晴れ
+　　晴天  hare no hi  はれ　の　ひ　　晴れ　の　日
+69.多云  kumori  くもり　　曇り
+　　最近都是阴天，真讨厌  saikin kumori bakaride iyadesu
+                      さいきんくもり　ばかりで　いやです　　最近曇りばかりで嫌です
+70.雷  kaminari   かみなり　　雷
+　　我非常害怕打雷  kaminari ga hijo ni kowaidesu
+                 かみなり　が　ひじょう　に　こわいです　雷が非常に怖いです
+71.雪 yuki ゆき　雪
+　　下雪 ゆきがふる　雪が降る
+72.同事 do-ryo- どうりょう　同僚
+　　公司同事 kaisha no do-ryo- 　かいしゃのどうりょう　　会社の同僚
+73.国家 kuni  くに　国
+　　邻国  tonari no kuni  となりのくに　隣の国
+74.去 iku いく　行く
+　　去学校  gakko- ni iku  がっこう　に　いく　学校に行く
+75.来 kuru くる　来る
+　　改天在来玩呦  mata asobi ni kitene  また　あそび　に　きてね　　また遊びに来てね
+76.漂亮，整洁（形容）  kirei きれい　綺麗
+　　美丽的花朵  kirei  na hana  きれいなはな　綺麗な花
+77.每天 mainichi まいにち　毎日
+　　我每天都和男朋友见面  かれし　と　まいにち　あって　います　　彼氏と毎日会っています
+78.每天早上  maiasa  まいあさ　　毎朝
+　　我每天早上都喝牛奶  maiasa gyu-nyu- o nonde imasu 　
+                　　まいあさ　ぎゅうにゅう　を　飲んで　います　　毎朝牛乳を飲んでいます
+79.每天晚上  maiban  まいばん　毎晩
+　　我每天晚上喝啤酒  maiban bi-ru o nomimasu
+                   まいばん　ビール　を　のみます　　毎晩ビールをのみます
+80.喉咙  nodo 　のど　喉
+　　喉咙痛  nodo gaitai  喉が痛い
+81.这里（代词）  koko  ここ　
+　　离这里远  koko kara to-i  ここ　から　とおい    ここからとおい
+82.那里（代词） soko 　そこ
+　　哪里的包  soko ni aru kaban  そこにあるカバン　
+83.哪里（代词）doko どこ
+　　你现在在哪里？ ima doko?  いまどこ？
+84.很多 takusan  たくさん
+　　很多人  takusan no hito たくさんのひと　　たくさんの人
+85.热闹的（形容词） nigiyaka  にぎやか　賑やか
+　　热闹的地方　nigiyakana basho  にぎやかなばしょ　　賑やかな場所
+86.愉快的（形容词）tanoshi- たのしい　楽しい
+　　愉快的一天 tanoshi- ichinichi 　たのしいいちにち　楽しい一日
+87.店铺（名词）mise みせ　店
+　  人气店铺 ninki no o mise にんきのおみせ　人気のお店
+88.百货公司 depa-to デパート
+　　去百货公司 depa-to ni iku デパートにいく　デパートに行く
+89.餐厅 resutoran 　レストラン
+　　高档餐厅 ko-kyu- resutoran  こうきょうレストラン
+90.多 o-i おおい　多い
+　　朋友多  tomodachi ga o-i 　ともだちがおおい　友達が多い
+91.少 sukunai すくない　少ない
+ 　量少 ryo- ga sukunai 　りょうがすくない  量が少ない
+92.大的 o-ki- おおきい　大きい
+　　大的窗户 o-ki- mado 大きい窓
+93.小的（形容词） ちいさい　小さい
+   小的时候  chi-sai toki 　ちいさいとき　小さい時
+94.高的，贵的（形容词）takai たかい　高い
+　　价格高 nedan ga takai  ねだんがたかい　値段が高い
+95.低的（形容词）hikui ひくい　低い
+　　个子矮 segahikui せがひくい　背が低い
+96.便宜的（形容词）yasui やすい　安い
+　　便宜的食物 yasui tabemono  やすいたべもの　安い食べ物
+97.稍微（副词）chotto 　ちょっと
+　　我有点惊讶 chotto bikkuri shita  ちょっと　びっくり　した
+98.上个月 sengetsu 　せんげつ　先月　
+   我上个月搬家了  sengetsu hikkoshimashita 　せんげつ　ひっこしました　先月引っ越しました
+99.本月 kongetsu 　こんげつ　今月
+　　本月10号  kongetsu no tooka 　こんげつ　の　とおか　今月の十日
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
