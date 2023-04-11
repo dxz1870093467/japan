@@ -25,7 +25,275 @@
                   味噌汁　に　納豆　を　入れます
 10.章鱼烧 takoyaki  たこやき　　たこ焼き
 　　美味的章鱼烧  oishi- takoyaki  おいしい　たこやき　　美味しい　たこ焼き
-　　　    　
+11.乌冬面  udon  うどん
+　　我喜欢乌冬面 udon ga daisukidesu
+                うどん　が　だいすきです
+                うどん　が　大好きです
+12.咖喱  kare-  カレー
+　　咖喱饭 kare-raisu  　カレー　ライス
+13.披萨  piza  ピザ
+　　披萨外卖  takuhai piza  たくはい　ピザ　　宅配ピザ
+14.炸鸡  karaage  からあげ　　唐揚げ
+　　炸鸡便当 karaage bento-  からあげべんとう　　唐揚げ弁当
+15.炒饭 cha-han  チャーハン
+　　冷冻炒饭  reito- cha-han
+            れいとう　チャーハン　　冷凍チャーハン
+16.零食 okashi 　おかし　　お菓子
+　　我吃太多零食了  okashi o tabe sugite shimatta
+                 おかし　を　たべ　すぎて　しまった
+17.巧克力  chokore-to チョコレート
+　　巧克力蛋糕   chokore-to ke-ki  チョコレート　ケーキ
+18.面包  pan  パン
+　　面包店 pan-ya 　パン屋
+19.甜点 deza-to  デザート
+　　要不要吃甜点 deza-to wa ikagadesu ka?
+              デザート　は　いかがですか？　
+20.沙拉  sarada  サラダ
+　　我点了沙拉  sarada o chu-mon shimashita
+              サラダを　ちゅうもん　しました　　　サラダ　を　注文　しました
+21.意大利面 pasuta パスタ
+　　炒意大利面  pasuta o itameru 　パスタ　を　いためる；パスタを　炒める
+22.三明治  sandoitchi  サンドイッチ
+　　便利店的三明治 konbini no sandoitchi コンビニ　の　サンドイッチ
+23.寿司 sushi すし　寿司
+　　回转寿司 kaitenzushi  かいてんずし　回転寿司
+24.生鱼片  sashimi  さしみ　　刺身
+　　我今天想吃生鱼片 kyo- wa o sashimi ga tabetai na
+                 きょうは　お　さしみ　が　たべたい　な
+                 今日はお刺身が食べたいな
+25.甜甜圈  do-natsu  ドーナツ
+　　甜甜圈店  do-natsu no o mise  ドーナツ　の　おみせ　
+                                ドーナツ　の　お店
+26.冰淇淋 aisukuri-mu  アイスクリーム
+　　手工冰淇淋 tedzukuri aisukuri-mu 　
+27.蛋糕 ke-ki  ケーキ
+　　芝士蛋糕 chi-zu ke-ki チーズ　ケーキ
+28.口香糖 gamu  ガム
+　　咀嚼口香糖 gamu okamu 　ガムをカム
+29.汤  su-pu スープ
+　　蔬菜汤 yasai su-pu  やさい　スープ　　野菜スープ
+30.饮料  nomimono  のみもの　　飲み物
+　　我想去卖饮料  nomimono o kai ni ikimasu
+31.牛奶 gyu-nyu- ぎゅうにゅう　　牛乳
+　　我的买牛奶  gyu-nyu- kawa nakya
+             ぎゅうにゅう　かわ　なきゃ　　牛乳かわなきゃ
+32.酒  o sake 　おさけ　お酒
+　　酒量差  osake ni yowai 　おさけ　に　よわい　　お酒に弱い
+33.啤酒  bi-ru  ビール
+　　1瓶酒 bi-ru ippon ビール　いっぽん　ビール　一本
+34.咖啡 ko-hi-  コーヒー
+　　咖啡豆 ko-hi- mame 　コーヒー　まめ　　コーヒー豆
+35.可乐  ko-ra  コーラ
+　　我困的时候喝可乐  nemui toki wa ko-ra nonde imasu
+                  ねむい　とき　は　コーラ　のんで　います
+                  眠い時は　コーラ　飲んで　います
+36.茶  ocha  おちゃ　　お茶
+　　下次去喝茶好吗  kondo ocha demo ikimasen ka?
+                 こんど　おちゃ　でも　いきません　か？
+                 今度　お茶　でも　行きません　か？
+37.红茶 ko-cha こうちゃ　紅茶
+　　红茶包 ko-cha pakku  こうちゃ　パック　　紅茶パック
+38.红酒 wain  ワイン
+　  喝红酒 wain o nomu 　ワインをのむ　ワインを飲む
+39.水  mizu  みず　　水
+　　请给我一杯水  o mizu kudasai  お水ください
+40.冰 koori  こおり　氷
+　　刨冰 kakigo-ri かきごおり　 かき氷
+41.果汁 ju-su  ジュース
+　　番茄汁 tomato ju-su  トマトジュース
+42.香烟 tabako  タバコ
+　　吸烟 tobako osuu タバコ　をすう　　タバコを吸う
+43.水果 kudamono 　くだもの　　果物
+　　水果罐头 kudamono no kandzume
+           くだもののかんづめ　　　果物の缶詰
+44.柠檬 remon 　レモン
+　　柠檬的香味 remon no kaori  レモンの香り
+45.牛油果 abokado アボカド
+　　牛油果吐司 abokado to-suto アボカド　トースト
+46.蓝莓 buru-beri-  ブルーベリー
+　　蓝莓果酱  buru-beri- jamu ブルーベリー　ジャム
+47.橙子 mikan  みかん
+　　橙子汁 mikan ju-su みかんジュース
+48.香蕉  banana  バナナ
+　　香蕉蕉牛奶  bananamiruku  バナナミルク
+49.西瓜 suika  スイカ　　
+　　我想买两个西瓜 watashi wa suika o niko kaimashita
+                わたし　は　スイカ　を　にこ　かいました
+                私はスイカを買いました
+50.草莓 ichigo 　イチゴ
+　　草莓三明治 ichigo sando　イチゴサンド
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
