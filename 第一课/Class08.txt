@@ -1,0 +1,135 @@
+1.筷子 o hashi お箸
+　 用筷子吃饭 o hashi de taberu  おはし　で　たべる　　お箸で食べる
+2.勺子 supu-n スプーン
+　冰淇淋用勺子吃  aisu wa supu-n de taberu  　
+                アイスはスプーンでたべる
+                アイスはスプーン　で　食べる
+3.叉子 fo-ku  フォーク
+  小叉子 chi-sai fo-ku ちいさい　フォーク　　小さいフォーク
+4.画  e  え　絵
+　画画  ewokaku  えをかく　絵を描く
+5.花  hana  はな　　花
+　 美丽的花 kireinahana  きれいなはな　　綺麗な花
+6.树 ki  き　木
+　树枝  ki no eda  きのえだ　　木の枝
+7.草 kusa  くさ　　草　
+　请告诉我这种草的名字  kono kusa no namae o oshietekudasai
+                    この　くさ　の　なまえ　を　おしえてください
+                   　この　草　の　名前　を　教えて　ください
+
+8....开始  hajimaru  はじまる　　始まる
+　独居生活开始了  hitorigurashi ga hajimatta
+               ひとるぐらし　が　はじまった
+               一人暮らし　が　はじまった
+9.开始.. hajimeru はじめる　始める
+　朋友夫妇一见面一定会开始吵架   yu-jin fu-fu wa, au to kanarazu kenka o hajimemasu
+                            ゆうじんふうふ　は　あうと　かならず　けんか　を　はじめます
+                            友人夫婦　は　会う　と　必ず　喧嘩　を　始めます
+10.参加  sanka  さんか　　参加
+　　参加婚礼  kekkonshiki ni sankashimasu
+            けっこんしき　に　さんかします
+            結婚式　に　参加します
+11.生活  seikatsu　　せいかつ　　生活
+　　新婚生活 shinkon seikatsu 　しんこん　せいかつ　　新婚生活
+12.各种各样 iroiro  いろいろ
+　　各种场景 iroirona bamen 　いろいろな　ばめん　　いるいるな　場面
+13.回忆  omoide  おもいで　　思い出
+　　家人的回忆 kazoku to no omoide  かぞくとの　おもいで   家族との思い出
+14.名字 namae  なまえ　　名前
+　　你叫什么名字 onamae wa nandesuka  おなまえはなんですか　　お名前は何ですか
+15.场所 basho ばしょ　場所
+　　公共场所 ko-kyo- no basho 　こうきょう　の　ばしょ　　公共の場所
+16.说明 setsumei  せつめい　　説明
+　　详情说明 kuwashiku setsumei suru  くわしく　せつめい　する　　詳しく説明する
+17.温柔，情切  yasashi- やさしい　　優しい
+　　温柔的人  yasashi- hito  優しいひと
+18.穿 kiru きる　着る
+　　穿西装 su-tsu o kiru  スーツを着る
+19.脱  nugu 　ぬぐ　脱ぐ
+　　脱鞋 kutsu o nugu 　くつをぬぐ　　靴を脱ぐ
+20.说 iu  いう　言う
+　　你刚才说什么？  ima nante itta no?  いまなんて　いった　の？　　今なんて言ったの？
+21.读 yomu よむ　読む
+　　看书 hon wo yomu 　ほんをよむ　本を読む
+22.小说 sho-setsu  しょうせつ　小説
+　　我平时不怎么看小说 fudan amari sho-setsu wa yomanai
+                   ふだん　あまり　しょうせつ　は　よまない
+                   普段　あまり　小説　は　読まない
+23.杂志 zasshi  ざっし　雑誌
+　　时尚杂志 fasshon zasshi  ファッション　ざっし　　ファッション雑誌
+24.作家 sakka  さっか　作家
+   喜欢的作家  sukina sakka  好きなさっか
+25.公园 ko-en 　こうえん　公園
+　　家附近的公园 ie no chikaku no ko-en
+              いえ　の　ちかく　の　こうえん
+              家の近くの公園
+26.便利店 konbini  コンビニ
+　　我在便利店工作 konbini de  hataraite imasu コンビニで　働いて　います
+27.认真 majime  まじめ　真面目
+　　认真的性格  majimena seikaku まじめな　せいかく　　真面目な性格
+28.人 hito ひと　人
+　　风趣的人 omoshiroi hito 　おもしろい　ひと　面白い人
+29.物 mono  もの　物
+　　甜的东西 amai mono あまいもの　　甘い物
+30.火 hi ひ
+　　火上浇油  hi ni abura wo sosogu
+            ひに　あぶら　を　そそぐ
+            火に油を注ぐ
+31.去年 kyonen きょねん　　去年
+　　去年夏天 kyonen no natsu 　きょねんのなつ　　去年の夏
+32. 今年 kotoshi  ことし　今年
+　　今年的圣诞节 ことしのクリスマス
+33.明年 rainen らいねん　来年
+　　明年四月 rainen shigatsu らいねん　しがつ　　来年四月
+34.大学 daigaku だいがく　大学
+　　我现在大学一年级 watashi wa ima, daigaku ichinenseidesu
+                  わたしは　いま　だいがく　いちねんせいです
+                  私は今、大学一年生です
+35.长的 nagai ながい　　長い
+　　长头发 nagai　kami  長い髪
+36.短的 mijikai みじかい　短い
+　　短发 mijikai kami  みじかい　かみ　　短い髪
+37.歌  uta 　うた　歌
+   我想变的擅长唱歌  uta ga umakunaritaidesu
+                  うた　が　うまくなりたいです
+                  歌　が　上手く　なりたいです
+38.唱  utau 　歌う
+  唱歌 uta o utau  うたをうたう　　歌を歌う
+39.站 tatsu  たつ　　立つ
+　　一站起来就眼前就发黑  　tatsu to me no mae ga kuraku narimasu
+                       たつ　と　めの　まえ　が　くらく　なります
+                       立つ　と　目の　前　が　くらく　なります
+40.坐 suwaru  すわる　座る
+　　请坐 suwatte kudasai  　すわって　ください　　座ってくたさい
+41.谁 dare  だれ　　誰
+   他没有告诉任何人那件事  kare wa sono koto o darenimo iwanakatta
+                       かれ　は　その　こと　を　だれにも　いわなかった
+                       彼は　その　こと　を　誰にも　言わなかった
+42.眼镜  megane  メガネ
+　　我想买眼镜  megane o kaitai 　めがねをかいたい　　眼鏡を買いたい
+43.方便 benri べんり　便利
+　　方便的厨房电器  benrina kitchin kaden
+                べんりな　キツチン　かでん
+44.不便 fuben ふべん　　不便
+　　因为新冠而不便的生活  koronauirusu de fuben na seikatsu
+                     コロナウイルス　で　不便　な　生活
+45.擅长 jo-zu  じょうず　上手
+　　你很会做饭 ryo-ri ga jo-zuda ne
+            りょうり　が　じょうずだ　ね
+            料理が　上手だね
+46.不擅长 heta　へた　下手
+　　我不擅长打扫 katadzuke ga hetadesu
+              かたづけ　が　へたです
+              片付け　が　へたです
+47.打扫 so-ji そうじ　掃除
+　　打扫机器人 so-ji robotto 掃除ロボット
+48.有名 yu-mei 　ゆうめい　有名
+　　名店的点心  yu-meina o-mise no okashi
+             ゆうめいな　おみせ　の　おかし
+             有名な　お店の　お菓子
+49.客人 okyakusan  おきゃくさん　　お客さん
+   几乎没有什么客人的店  hotondo okyakusan inai omise
+                     ほとんど　おきゃくさん　いない　おみせ
+                     ほとんど　お客さん　いない　お店
+50.冷的，冷淡的  tsumetai つめたい　　冷たい
+   冷淡的态度 tsumetai taido 冷たい態度
