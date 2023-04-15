@@ -1,0 +1,230 @@
+1.鼻子 hana  はな　　鼻
+　 大象的鼻子很长  zo- wa hana ga nagai
+                ぞう　は　はな　が　ながい
+                象　は　鼻　が　長い
+2.嘴巴 kuchi くち　口
+  合你的口味吗？  o kuchi ni aimasu ka
+               お　くち　に　あいます　か？
+               お　口　に　合います　か？
+3.舌头 shita  した　　舌
+　舌头的颜色 shita no iro  したのいろ　　舌の色
+4.牙齿 ha 　は　歯
+　牙齿治疗 ha no chiryo- 　はのちりょう　　歯の治療
+5.耳朵 mimi 　みみ　耳
+　 耳塞 mimi sen  耳栓
+6.脖子 kubi　くび　首
+　脖子长 kubi ga nagai  くび　が　ながい　　首が長い
+7.肚子 onaka  おなか　　お腹
+　我吃饱了  onaka-ippaidesu
+          おなかいっぱいです
+8.腿 ashi あし　脚
+　右腿 migi ashi  みぎあし　右脚
+9.膝盖 hiza 　ひざ　　膝
+　弯曲膝盖 hiza ひざ　を　まげる　　膝を　曲げる
+10.脚  ashi  あし　足
+　 脚的尺寸  ashi no saizu  あしのサイズ
+11.累  tsukareru  つかれる　　疲れる
+　　我有点累...  chotto tsukareta  ちょっと　つかれた　　ちょっと疲れた
+12.睡觉 neru  ねる　寝る
+　　他还在睡觉  kare wa mada nete iru
+             かれ　は　まだ　寝て　いる
+             彼は　まだ　寝て　いる
+13.起床 okiru おきる　　起きる
+　　早上8点起床 asa hachiji ni okiru
+             あさ　はちじ　に　おきる
+             朝　八時　に起きる
+14.进入 hairu　　はいる　 入る
+　　进入大学 daigaku ni hairu
+           だいがく　に　はいる
+           大学　に　入る
+15.出去 deru  でる　出る
+　　出门 soto ni deru
+        そと　に　でる
+        外に　出る
+16.健康  kenko- けんこう　健康
+　　健康的饮食 kenko- tekina shokuji
+            けんこう　てきな　しょくじ
+            健康　的な　食事
+17.运动 undo-  うんどう　運動
+　　运动会  undo-kai 　運動会
+18.步行  aruku  あるく　　歩く
+　　步行30分钟回家  sanjyuppun aruite kaeru
+                 さんじうっぷん　あるいて　かえる
+                 三十分　歩いて　帰る
+19.跑 hashiru  はしる　　走る
+　　我以跑步脚就痛  hashiru to ashigaitaidesu
+                はしる　と　あしが　いたい　です
+                走る　と　あしが　痛い　です
+20.健身房  jimu  じむ　ジム
+　　这个周末我要去健身房  konshu-matsu wa jimu ni iku
+                     こんしゅうまつ　は　ジム　に　いく
+                     今週末　は　ジム　に　行く
+21.高尔夫 gorufu  ゴルフ
+　　高尔夫俱乐部  gorufu kurabu  ゴルフ　クラブ
+22.慢跑   jogingu  ジョギング
+　　慢跑  jogingu o suru  ジョギング　を　する
+23.柔道 ju-do-  じゅうどう　　柔道
+　　我的女儿正在学习柔道  musume ga ju-do- naratte imasu
+                     むすめ　が　じゅうどう　ならって　います
+                     娘　が　柔道　習って　ならって　います
+24.游泳 suiei 　すいえい　　水泳
+　　我想尝试游泳  suiei o yatte mitaidesu
+               すいえい　を　やって　みたいです
+               水泳　を　やって　みたいです
+25.最近 saikin  さいきん　最近
+　　最近怎么样？  saikin do-？  さいきんどう？　　最近どう？
+26.问卷调查  anke-to　　アンケート
+　　关于零食的问卷调查  okashi ni tsuite no anke-to
+                    おかし　に　ついて　の　アンケート
+                    お菓子　に　ついて　の　アンケート
+27.结果  kekka  けっか　　結果
+　　健康检查结果 kenko-shinda no kekka
+              けんこう しんだんの　けっか
+              健康診断の　結果
+28.领带 nekutai  ネクタイ
+　　前天我买了一条领带  kono mae nekutai o katta
+                    この　まえ　ネクタイを　かった
+                    この　まえ　ネクタイを　買った
+29.西装 su-tsu 　スーツ
+　　购买西装 su-tsu o ko-nyu- suru
+           スーツ　を　購入　する
+           スーツ　を　こうにゅう　する
+30.生日 tanjo-bi  たんじょうび　　誕生日
+　　生日礼物 tanjo-bipurezento 　たんじょうび　プレゼント　誕生日プレゼント
+31.适合 niau  にあう　似合う
+　　这件衣服我穿起来好看吗？  kono fuku, watashi ni niau kane
+                         この　ふく　わたしに　にあう　かね
+                         この　服　私　に　似合う　かね
+32.玩 asobu 　あそぶ　　遊ぶ
+　　我们一起玩吧  issho ni asobou
+               いっしょ　に　あそぼう
+               一緒に　遊ぼう
+33.玩具  omocha  おもちゃ　
+　　婴儿玩具  akachan-yo- no omocha
+            あかちゃん　よう　の　おもちゃ
+            赤ちゃん　用の　おもちゃ
+34.结婚 kekkon けっこん　結婚
+　　我学生是的的朋友结婚了  　gakusei jidai no yu-jinga kekkon shite ita
+                         がくせい　じだい　の　ゆじんが　けっこん　して　いた
+                         学生　時代　の　ゆうじん　結婚　して　いた
+35.祝贺  oiwai  お祝い
+　　生日祝贺  tanjo-bi oiwai  たんじょうび　おいわい　　誕生日のお祝い
+36.外遇  uwaki 　うわき　 浮気
+　　我发现了男朋友外遇了  kareshi no uwaki o mitsukete shimatta
+                     かれし　の　うわき　を　みつけて　しまった
+                     彼氏の浮気を　見つけて　しまった
+37.房间  heya  へや　　部屋
+　　我的房间 watashi no heya  わたし　の　へや　　私の部屋
+38.厕所 toire  トイレ
+　　车站厕所  eki no toire  えき　の　トイレ　　駅のトイレ
+39.洗手间  o tearai  おてあらい　　お手洗い
+　　我要去下洗手间  chotto o tearai ni itte  kimasu
+　　　            ちょっと　お　てあらい　に　いって　きます
+40.电梯 erebe-ta-  エレベーター
+　　公司电梯 kaisha no erebe-ta-  かいしゃ　の　エレベーター　　　会社のエレベーター
+41.自动扶梯  esukare-ta-  エスカレーター　　
+　　超市里的自动扶梯 su-pa-nai no esukare-ta- 　スーパーない　の　エスカレーター
+42.自动售货机  jido-hanbaiki 　じどうはんばいき　自動販売機
+　　在自动售货机上买果汁 jido-hanbaiki de ju-su o kau
+                    じどうはんばいき　で　ジュース　を　かう
+                    自動販売機　で　ジュース　を　買う
+43.装饰 kazaru  かざる　　飾る
+　　在自己家装饰画  jitaku ni e o kazaru
+                 じたく　に　えを　かざる
+                 自宅に　絵　を　飾る
+44.礼物 purezento  プレゼント
+　　给自己的礼物  jibun e no purezento  じぶんへの　プレゼント　　自分への　プレゼント
+45.钟表  tokei  とけい　時計
+　  手表 udedokei うでどけい　　腕時計
+46.出色，优秀  suteki  すてき　素敵
+　　出色的女性 suteki na josei  すてき　な　じょせい　　素敵　な　女性
+47.照片 shashin  しゃしん　　写真
+　　拍照  shashinwotoru  しゃしんをとる　　写真を撮る
+48.时尚，有品位  oshare  おしゃれ　　お洒落
+　　时尚的咖啡馆 osharena kafe  おしゃれな　カフェ　　お洒落な　カフェ
+49.自己  jibun  自分
+　　自己的人声生 jibunno jinsei　じぶんの　じんせい　　自分の人生
+50.盘子  osara  おさら　　お皿
+　　洗盘子 osara no arau  おさら　の　あらう　　お皿の洗う
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

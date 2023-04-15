@@ -25,7 +25,286 @@
    我经常做茄子料理  yoku nasu ryo-ri o tsukurimasu
                   よく　ナス　りょうり　を　つくり　ます
                   よく　ナス　料理　を　作り　ます
-11.
+11.土豆  jagaimo  ジャガイモ
+　　土豆皮  jagaimo no kawa 　
+          ジャガイモ の　かわ　　ジャガイモ　の　皮
+12.青椒  pi-man  ピーマン
+　　青椒赛肉  pi-man no nikudzume
+            ピーマン　の　にくづめ　　ピーマン　の　肉詰め
+13.番茄 tomato  トマト
+   番茄酱 tomato so-su  トマト　ソース
+14.卷芯菜  kyabetsu 　キャベツ
+　　切卷芯菜  kyabetsu o kiru
+            キャベツ　を　きる　　キャベツを切る
+15.白菜  hakusai 　　はくさい　　白菜
+　　白菜经常用在火锅里
+    hakusai wa itsumo nabe de tsukau koto ga o-i
+    はくさい　は　いつも　なべ　で　つかう　こと　が　おおい
+    白菜　は　いつも　鍋で　使う　こと　が　多い
+16.豆腐  to-fu  とうふ　　豆腐
+　　豆腐汉堡  to-fu hanba-gu  とうふ　ハンバーグ　　豆腐ハンバーグ
+17.豆芽 moyashi  もやし
+　　豆芽很便宜  moyashi ga yasui 　もやしが　やすい　　もやしが　安い
+18.鸡蛋 tamago たまご　　卵
+　  鸡蛋三明治  tamago sando   たまご　サンド　　　卵サンド　
+19.培根 be-kon 　ベーコン
+　　厚片培根  be-kon no atsu giri   ベーコンのあつぎり　　ベーコンの厚切り
+20.芝士 chi-zu  チーズ
+　　芝士吐司 chi-zu to-suto  チーズ　トースト
+21.果酱  jamu  ジャム　
+　　草莓酱 ichigo jamu 　イチゴジャム
+22.香肠  uin na-  ウインナー
+　　香肠可以冷冻吗？  uin na- wa reito- dekimasu ka?
+                  ウインナー　は　れいとう　できます　か？
+                  ウインナー　は　冷凍　できます　か？
+23.鱼 sakana  さかな　　魚
+　　烤鱼 sakana o yaku 　さかな　を　やく　　魚を焼く
+24.虾  ebi  エビ　
+　　天妇罗虾 ebi no tenpura  エビの天ぷら
+25.使用 tsukau  つかう　　使う
+　　使用个人电脑 pasokon  o tsukau  パソコン　を　使う
+26.知道 shiru しる　　知る
+　　我不知道我的丈夫的年收入  otto no nenshu- o shirimasen
+                         おっと　の　ねんしゅう　を　知りません
+                         夫　の　年収　を　知りません
+27.见面  au  あう　　会う
+　　我想在见他一面  mo-ichido kare ni aitai
+               もういちど　かれ　に　　あいたい
+               もう一度　彼氏　に　会いたい
+28.迎接 mukaeru  むかえる　迎える
+   我去车站接你  eki made mukae ni iku yo
+               えき　まで　むかえ　に　いく　よ
+               駅　まで　迎える　に　行くよ
+29.机场 ku-ko- くうこう　　空港
+　　成田机场 narita ku-ko- なりた　くうこう　成田空港
+30.出差 shutchuo- 　しゅつちょう　
+　　他经常出差 kare wa yoku shutcho- shimasu
+            かれ　は　よく　しゅつちょう　します
+31.加班 zangyo- 　ざんぎょう　　残業
+　　加班费 zangyo- dai 　ざんぎょう　だい　 残業代
+32.职员 sutaffu  スタッフ
+　　销售人员 eigyo- sutaffu  えいぎょう　スタッフ　　営業スタッフ
+33.复印机  kopi-ki  コピー機
+　　使用复印机 kopi-ki o tsukau  コピー機を　使う
+34.计算机 konpyu-ta-  コンピューター
+　　计算机系统 konpyu-ta- shisutemu  コンピューター　システム
+35.科长 kacho-  かちょう　　課長
+　　人事科长 jinjika no kacho- 　じんじか　の　かちょう　　人事課の課長
+36.部长 bucho-  ぶちょう　部長
+　　营业部长 eigyo- bucho- 　えいぎょう　ぶちょう　　営業部長
+37.社长 shacho- しゃちょう　社長
+　　两年前，公司的社长换了人  ninen mae ni kaisha no shacho- ga kawarimashita
+                         にねん　まえ　に　かいし　の　しゃちょう　が　かわりました
+                         二年前に　会社　の　社長　が　変わり　ました
+38.派对  pa-ti-　　パーティー
+　　万圣节派对  harouin pa-ti-  ハロウィンパーティー
+39.电话 denwa  でんわ　電話
+　　我接到一个朋友的电话  tomodachi kara denwa ga kakatte  kimashita
+                     ともだち　から　でんわ　が　かかって　きました
+                     友達　から　電話　が　かかって　きました
+40.疼痛的  itai  いたい　痛い
+　　头疼  atama ga itai  頭が痛い　　
+41.头发 kami  かみ　髪
+   洗头发 kami o arau  　かみをあらう　　髪を洗う
+42.肩膀 kata  かた　肩
+　　肩膀僵硬  kata kori  肩こり
+43.背部 senaka せなか 背中
+   背部粉刺 senaka nikibi  せなかニキビ　背中ニキビ
+44.腰 koshi  こし　腰
+　　腰痛  koshi no itami  こしのいたみ　腰の痛み
+45.手 te て　手
+　　右手 migite  右手
+46.手指 yubi ゆび　指
+　　手指粗 yubi ga futoi 指が太い ゆび　が　ふとい
+47.指甲  tsume  つめ　　爪
+　　剪指甲 tsume o kiru 　つめ　を　きる　　爪を切る
+48.头部 atama  あたま　　頭
+　　头脑转的快  atama no kaiten ga hayai
+             あたま　の　かいてん　が　はやい
+             頭　の　回転　が　速い
+49.脸  kao  かお　顔
+　　我想把脸变小 kao o chi-saku shitaidesu
+              かお　を　小さく　したいですか
+              顔を小さく　したいです
+50.眼睛 me め　目
+　　闭上眼睛 me o tojiru  めをとじる　目を閉じる
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　
+　　
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
