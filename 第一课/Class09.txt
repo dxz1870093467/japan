@@ -1,0 +1,134 @@
+1.驾驶  unten  うんてん　運転
+　开车 kuruma o　unten suru  車を運転する
+2.梅雨 tsuyu つゆ　梅雨
+　 梅雨的季节 tsuyu no jiki　つゆ　の　じき  梅雨の時期
+3.伞 kasa かさ　　傘
+　因为下雨，我把伞借给了同事 　o-ame de do-ryo- ni kasa o kashimashita
+                         おおあめ　で　どうりょう　に　かさ　を　かしました
+                         大雨　で　同僚　に　傘　を　貸し　ました
+4.约会 yoyaku よやく　　予約
+　我取消了订单 yoyaku o kyanseru shimashita
+            よやく　を　キャンセル　しました
+5.重的 omoi  おもい　重い
+　重物 omoi mono  おもい　もの　　重い物
+6.轻的 karui かるい　　軽い
+　体重轻 taiju- ga karui  たいじゅう　が　かるい　　体重が軽い
+7.围巾 mafura- マフラー
+  漂亮的围巾 sutekina mafura-  すてきな　マフラー　　素敵な　マフラー
+8.帽子 bo-shi ぼうし　帽子
+　戴帽子 bo-shi wo kaburu  ぼうしを　かぶる　帽子をかぶる
+9.听，问  kiku 　きく　　聞く
+  听音乐 ongaku o kiku 　おんがくをきく　音楽を聞く
+10.纪念品  omiyage  おみやげ　　お土産
+　买纪念品 omiyage o kau  おみやげをかう　　お土産を買う
+11.回家 kaeru かえる　　帰る
+　回老家 jikka ni kaeru 　じっか　に　かえる　　実家に帰る
+12.开心 ureshi-  うれしい　　嬉しい
+　非常的开心 sugoku ureshi- すごく　うれしい　　すごく嬉しい
+13.悲伤的  kanashi- 　かなしい　　悲しい
+　悲伤的回忆 kanashi- omoide  かなしい　おもいで　　悲しい思い出
+14.早上 asa あさ　朝
+   早上7点 　asa shichiji  朝七時
+15.白天 hiru ひる　昼
+　 中午12：00　hiru ju-ni-ji  昼十二時
+16.晚上 yoru 　よる　夜
+　　晚上9点 yoru ku-ji 夜九時
+17.广阔的 hiroi ひろい　広い
+  更广阔的世界 motto hiroi sekai もっと　ひろい　せかい　　もっと　広い　世界
+18.狭窄的 semai  せまい　　狭い
+　收纳空间小 shu-no- supe-su ga semai 　
+            しゅうのう　スペース　せまい
+         　　収納　スペース　が　狭い
+19.音乐 ongaku  おんがく　音楽
+　　音乐老师 ongaku o sensei  おんがくのせんせい　　音楽の先生
+20.制作 tsukuru  つくる　作る
+　　做晚饭 yu-han o tsukuru  ゆうはんをつくる　　夕飯を作る
+21.上午 gozen  ごぜん　　午前
+　　上午的课 gozen-chu- no jugyo-　
+           ごぜんちゅうの　じゅぎょう
+           午前中の授業
+22.下午 gogo ごご　午後
+　　下午6点 gogo roku-ji 　ごご　ろくじ　　午後六時
+23.拍摄 toru とる　撮る
+　　我喜欢拍照 shashin o toru no ga sukidesu
+            しゃしん　を　とる　の　が　すきです
+            写真　を　撮る　のが　好きです
+24.海 umi うみ　海
+　　我以前住在海边 umi no chikaku ni sun deta
+               うみのちかく　に　すん　でた
+               海の　近く　に　住ん　でた
+25.河 kawa  かわ　川
+　　大河 o-kina kawa  おおきな　かわ　　大きな　川
+26.山 yama 山　
+　　世界上最高的山 sekai de ichiban takai yama
+                せかい　で　いちばん　たかい　やま
+                世界　で　一番　高い　山
+27.土  tsuchi  土
+　　鞋底上的泥土 kutsuzoko no tsuchi
+            　くつぞこ　の　つち
+            　靴底の　土
+28.天空 sora 　そら　空
+　　蓝天 aoi sora  あおい　そら　　青い空
+29.石头 ishi  いし　石
+　　我捡了石头 ishi o hiroimashita
+            いし　を　ひろい　ました
+            石　を　拾い　ました
+30.岛 shima 　しま　島
+　 小岛  chi-sana shima  ちいさな　しま　　小さな島
+31.明亮的，开朗的 akarui  あかるい　　明るい
+　　开朗的性格 akarui seikaku あかるい　せいかく　明るい性格
+32.暗的 kurai くらい　暗い
+　　暗的地方 kurai tokoro　くらい　ところ　
+                         暗いところ
+33.非常的 totemo とても
+　　非常喜欢  totemo suki とてもすき　とても好き
+34.稀有的 mezurashi- めずらしい　珍しい
+  不寻常的姓氏  mezurashi- myo-ji  めずらしい　みょうじ　　珍しい苗字
+35.受欢迎的 ninki にんき　人気
+　 没有人气 ninkiganai にんきがない　　人気ながない
+36.观光 kanko- かんこう　　観光
+　　著名旅游胜地 yu-meina kanko-chi
+            　ゆうめいな　かんこううち
+            　有名な　観光地
+37.烧烤 ba-bekyu- 　バーベキュー
+　　在家吃烧烤 iede ba-bekyu- o suru
+            いえで　バーベキュー　を　する
+            家で　バーベキュー　を　する
+38.美丽的 utsukushi- うつくしい　美しい
+　　美丽的女演员 utsukushi- joyu- うつくしい　じょゆう　美しい女優
+39.好心，好意 shinsetsu 　しんせつ　親切
+　　好心的女士  shinsetsuna josei しんせつな　じょせい　　親切な女性
+40.忘记 wasureru  　わすれる　忘れる
+　　妈妈把手机忘记在家里就出去了  haha ga keitai o ie ni wasurete gaishutsu shite shimatta
+                            はは　が　けいたい　を　いえ　わすれて　がいしゅつ　して　しまった
+                            母　が　携帯　を　家　忘れて　がいしゅつ　して　しまった
+41.忙碌的 isogashi- いそがしい　　忙しい
+　　工作很忙 shigoto ga isogashi- 　
+        　　しごと　が　いそがしい
+           仕事　が　忙しい
+42.音乐会 konsa-to コンサート
+　　我以前经常去听音乐会 　izen wa yoku konsa-to ni itteta
+                      いぜん　は　よく　コンサート　に　いってた
+                      以前　は　よく　コンサート　に　行ってた
+43.空调 eakon 　エアコン　
+　　打开空调 eakon o tsukeru 　エアコン　を　つける
+44.相机 kamera  カメラ
+　　监控摄像头 bo-han kamera  ぼうはんかめら　防犯カメラ
+45.桌子 te-buru  テーブル
+　　餐桌礼仪 te-buru mana- テーブル　マナー
+46.椅子 isu いす　椅子
+　　坐在椅子上 isu ni suwaru 　いす　に　すわる　　椅子に座る
+47.沙发 sofa- ソファー
+　　我买了沙发 sofa- o ko-nyu- shita
+            ソファー　を　こうにゅう　した
+            ソファー　を　購入　した
+48.书架 hondana  ほんだな　　本棚
+　　我想在我的房间里放一个书架  heya ni hondana o okitai
+                          へや　に　ほんだな　を　おきたい
+                          部屋に　本棚　を　置きたい
+49.书桌 tsukue つくえ　机
+　　白色办公桌 shiroi tsukue しろい　つくえ　　白い机
+50.窗帘 ka-ten カーテン
+　　客厅窗帘 ribingu no ka-ten リビングのカー
+
+　　
