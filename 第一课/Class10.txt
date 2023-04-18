@@ -67,4 +67,67 @@
 　 我一直都在烦恼 zutto nayande imasu
                ずっと　なやんで　います
                ずっと　悩んで　います
-22.
+22. 真的，非常 honto-ni  ほんとうに　　本当に
+　　 真是太好了 honto-ni yokattadesu
+             ほんとうに　よかったです
+             本当に　やかったです
+23.考试 shiken しけん　試験
+　 考试成绩 shiken no seiseki 　しけんの　せいせき
+                              試験の　成績
+24.和服 kimono きもの　着物
+　　我想穿着河和服出去 kimono de odekake shitaidesu
+                   きもの　で　おでかけ　したいです
+                   着物　で　お出かけ　したいです
+25.合格 go-kaku 　ごうかく　合格
+　　恭喜通过 go-kaku omedeto- 　ごうかく　おめでとう
+                            　合格　おめでとう
+26.神社 jinja 　じんじゃ　　神社
+　　当地的神社 jimoto no jinja 　
+            じもと　の　じんじゃ
+            地元　の　神社
+27.梦 yume  ゆめ　　夢
+　　你的未来的梦想是什么？ sho-rai no yume wa nanidesu ka?
+                       しょうらい　の　ゆめ　は　なんです　か？
+                       将来の夢は何ですか？
+28.动漫 anime アニメ
+　　我喜欢的动漫 watashi no sukina anime
+              わたし　の　好きな　アニメ
+              私の　好きな　アニメ
+29.新鲜 shinsen しんせん　新鮮
+　　新鲜蔬菜  shisen na yasai 　しんせんなやさい　新鮮な野菜
+30.切 kiru  きる　切る
+　　切肉 niku o kiru 　にくをきる　肉を切る
+31.美国  amerika 　アメリカ
+　　美国人 amerikajin アメリカ人
+32.英国 igirisu イギリス
+　　我住在英国 igirisu zaiju-desu　
+                    イギリス　ざいじゅうです
+                    イギリス　在住です
+33.法国  furansu  フランス
+　　法国料理 furansu ryo-ri  フランス　りょうり
+                        　　フランス　料理
+34.印度 indo 　インド
+   印度风味咖喱鸡 indo fu-no chikinkare-
+                インド　ふうの　チキンカレー
+   　           インド　風の　チキンカレー
+35.韩国 kankoku かんこく　韓国
+　　韩剧 kankoku dorama 　かんこく　ドラマ
+                        韓国　ドラマ
+36.中国 chu-goku 中国　ちゅうごく
+　　我在中国生活了10年 chu-goku de 10-nen kurashite ita
+                   ちゅうごく　で　じゅうねん　くらして　いた
+                   中国　で　十年　暮らして　いた
+37.德国 doitsu  ドイツ
+　　我目前居住在德国 genzai doitsu ni sunde iru
+                 げんざい　ドイツ　に　すんで　いる
+                 現在　ドイツ　に　住んで　いる
+38.俄罗斯 roshia ロシア
+　　我去过俄罗斯 roshia ni itta koto gaaru
+              ロシア　に　いった　こと　がある
+              ロシア　に　いった　こと　がある
+39.泰国 tai タイ
+　　我想去泰国旅行 tai e ryoko- ni ikitai
+                タイ　へ　りょこう　に　いきたい
+                タイ　へ　旅行　に　行きたい
+40.
+　　
