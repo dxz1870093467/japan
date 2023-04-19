@@ -129,36 +129,5 @@
 　　我想去泰国旅行 tai e ryoko- ni ikitai
                 タイ　へ　りょこう　に　いきたい
                 タイ　へ　旅行　に　行きたい
-40.印度尼西亚 indoneshia  インドネシア
-　　印度尼西亚朋友 indoneshia  インドネシアじんの友達
-41.前台，接待　uketsuke 　うけつけ　受付
-　　
-43.电器 denki- でんき　電気
-　　电费 でんきだい　電気代
-44.声音 oto おと　音
-   电视声音 terebi no oto  テレビの　おと
-            テレビの音
-45.声  koe  声
-　　大声 o-kina koe     おおきな　こえ　　大きな声
-46.  门  doa  ドア
-　　开门 doa o akeru 　ドア　を　開ける
-47.钥匙 kagi  かぎ　鍵
-　　车的钥匙 kuruma no kagi  くるま　の　かぎ
-                        　　車の鍵
-48.玄关 genkan げんかん　　玄関
-　　玄关很狭小  genkan ga semai
-             げんかん　が　せまい
-             玄関　が　狭い
-49.墙壁 kabe かべ　　壁
-　　房间墙壁 heya no kabe  へやのかべ　部屋の壁
-50.窗户 mado     窓
-　　窗户 mado wo shimeru 　まど　を　しめる　　窓を閉める
-
-
-
-
-
-
-
-
+40.
 　　
