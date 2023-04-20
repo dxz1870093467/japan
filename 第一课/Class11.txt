@@ -1,133 +1,22 @@
-1.志愿者 borantia ボランティア　かつどう
-  义工活动 borantia katsudo- 　ボランティア　活動
-2.寻找 sagasu  さがす　探す
-　我正在找牙科医院 shika byo-in o sagashiteimasu
-               しか　びょうん　を　さがしています
-               歯科病院　を　探しています
-3.准备 junbi  じゅんび　準備
-　准备好了吗 junbi de kita?  じゅんび　で　きた？
-                           準備　で　きた
-4...终结  owaru  おわる　　終わる
-　考试结束 juken ga owari mashita
-         じゅけん　が　おわり　ました
-         受験　が　終わり　ました
-5.结束... oeru 　おえる　　終える
-　完成这项工作需要一个小时 kono shigoto o oeru no ni ichi-jikan kakarimasu
-                        この　しごと　を　おえる　の　に一時かかかります
-6.笔 pen ペン
-　笔借我一下 pen, kashite 　ペン　かして　ペン　貸して
-7.全部 zenbu  ぜんぶ　　全部
-　我把零食全部吃了 okashi o zenbu tabeta
-                おかし　を　ぜんぶ　たべた
-                お菓子　を　全部　食べた
-8.一半 hanbun はんぶん　　半分
-　另一半 nokori no hanbun
-        のこり　の　はんぶん
-        残りの　半分
-9.几点 nanji なんじ　何時
-　现在几点 imananji  いまなんじ　　今何時
-10.教室  kyo-shitsu 　きょうしつ　　教室
-　 教师里出现了一只大蜘蛛 kyo-shitsu ni o-kina kumo ga demashita
-                      きょうしつ　に　おおきな　くも　が　でました
-                      教室　に　大きな　蜘蛛　が　出ました
-11.食堂 shokudo- しょくどう　食堂
-　　便宜又好吃的食堂 yasukute oishi- shokudo-
-                 やすくて　おいしい　しょくどう
-                 安くて　美味しい　食堂
-12.兼职 arubaito アルバイト
-　　我开始了一份兼职工作 arubaito o hajimemashita
-                    アルバイト　を　はじめました
-                    アルバイト　を　始めました
-13.邮局 yu-binkyoku 　ゆうびんきょく　　郵便局
-　　
-14.图书馆 toshokan としょかん　図書館
-　去附近的图书馆 chikaku no toshokan ni iku
-               ちかく　の　としょかん　に　いく
-               近くの　図書館　に　行く
-15.暑假 natsuyasumi なつやすみ　　夏休み
-　　今年暑假 kotoshi no natsuyasumi
-           ことし　の　なつやすみ
-           今年の　夏休み
-16.寒假  fuyuyasumi  ふゆやすみ　　冬休み
-　　寒假今天开始了 kyo- kara fuyuyasumi ga  hajimarimashita
-                きょう　から　ふゆやすみ　が　はじまりました
-                今日　から　冬休み　が　始まりました
-17.圣诞节  kurisumasu  クリスマス
-　　圣诞树 kurisumasu tsuri- クリスマスツリー
-18.遗憾，可惜 zannen 　ざんえん　　残念
-　　有点遗憾 chotto zan nen  ちょっと　ざんねん
-                           ちょっと　残念
-19.票 chiketto チケット
-　　电影票 eiga chiketto  えいが　チケット
-　　                      映画　チケット
-20.家 ie  いえ　家
-　　亲戚家 shinseki no ie  しんせき　の　いえ
-                        　親戚の　家
-21.一直 zutto  ずっと
-　 我一直都在烦恼 zutto nayande imasu
-               ずっと　なやんで　います
-               ずっと　悩んで　います
-22. 真的，非常 honto-ni  ほんとうに　　本当に
-　　 真是太好了 honto-ni yokattadesu
-             ほんとうに　よかったです
-             本当に　やかったです
-23.考试 shiken しけん　試験
-　 考试成绩 shiken no seiseki 　しけんの　せいせき
-                              試験の　成績
-24.和服 kimono きもの　着物
-　　我想穿着河和服出去 kimono de odekake shitaidesu
-                   きもの　で　おでかけ　したいです
-                   着物　で　お出かけ　したいです
-25.合格 go-kaku 　ごうかく　合格
-　　恭喜通过 go-kaku omedeto- 　ごうかく　おめでとう
-                            　合格　おめでとう
-26.神社 jinja 　じんじゃ　　神社
-　　当地的神社 jimoto no jinja 　
-            じもと　の　じんじゃ
-            地元　の　神社
-27.梦 yume  ゆめ　　夢
-　　你的未来的梦想是什么？ sho-rai no yume wa nanidesu ka?
-                       しょうらい　の　ゆめ　は　なんです　か？
-                       将来の夢は何ですか？
-28.动漫 anime アニメ
-　　我喜欢的动漫 watashi no sukina anime
-              わたし　の　好きな　アニメ
-              私の　好きな　アニメ
-29.新鲜 shinsen しんせん　新鮮
-　　新鲜蔬菜  shisen na yasai 　しんせんなやさい　新鮮な野菜
-30.切 kiru  きる　切る
-　　切肉 niku o kiru 　にくをきる　肉を切る
-31.美国  amerika 　アメリカ
-　　美国人 amerikajin アメリカ人
-32.英国 igirisu イギリス
-　　我住在英国 igirisu zaiju-desu　
-                    イギリス　ざいじゅうです
-                    イギリス　在住です
-33.法国  furansu  フランス
-　　法国料理 furansu ryo-ri  フランス　りょうり
-                        　　フランス　料理
-34.印度 indo 　インド
-   印度风味咖喱鸡 indo fu-no chikinkare-
-                インド　ふうの　チキンカレー
-   　           インド　風の　チキンカレー
-35.韩国 kankoku かんこく　韓国
-　　韩剧 kankoku dorama 　かんこく　ドラマ
-                        韓国　ドラマ
-36.中国 chu-goku 中国　ちゅうごく
-　　我在中国生活了10年 chu-goku de 10-nen kurashite ita
-                   ちゅうごく　で　じゅうねん　くらして　いた
-                   中国　で　十年　暮らして　いた
-37.德国 doitsu  ドイツ
-　　我目前居住在德国 genzai doitsu ni sunde iru
-                 げんざい　ドイツ　に　すんで　いる
-                 現在　ドイツ　に　住んで　いる
-38.俄罗斯 roshia ロシア
-　　我去过俄罗斯 roshia ni itta koto gaaru
-              ロシア　に　いった　こと　がある
-              ロシア　に　いった　こと　がある
-39.泰国 tai タイ
-　　我想去泰国旅行 tai e ryoko- ni ikitai
-                タイ　へ　りょこう　に　いきたい
-                タイ　へ　旅行　に　行きたい
-40.
+1.镜子 kagami   かがみ　　鏡
+　照镜子 kagami o miru
+        かがみ　を　みる
+        鏡を見る
+2.相册 arubamu  アルバム
+　毕业相片 sotsugyo- arubamu
+        　そつぎょう　アルバム
+        卒業アルバム
+3.护照 pasupo-to 　パスポート
+  持有护照 pasupo-to o motte iru
+          パスポート　を　持って　いる
+          パスポート　を　持って　いる
+4.床 beddo  ベッド
+  在床上睡  beddo de neru
+           ベッド　で　ねる
+           ベッド　で　寝る
+5. 在地上 o chite ita  おちていた
+　　头发掉在地上 kami ga yuka ni ochite ita
+              かみが　ゆか　に　おちていた
+              髪が　床　に　落ちて　いた　
+6. 把...弄掉 otosu  おとす　落とす
 　　
