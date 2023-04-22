@@ -1,0 +1,154 @@
+1.精彩的 subarashi-  すばらしい　素晴らしい
+　 这真是很棒 kore wa honto-ni subarashi-
+            これ　は　ほんとうに　すばらしい
+            これ　は　本当に　素晴らしい
+2.话题 wadai わだい　話題
+　共同话题 kyo-tsu- no wadai
+         きょうつう　の　わだい　　共通の話題
+3.亚洲 ajia アジア
+　亚洲人 ajia jin アジア人
+4.欧洲 yo-roppa  ヨーロッパ
+　我想去欧洲 yo-roppa ni ikitai
+           ヨーロッパ　に　いきたい
+           ヨーロッパ　に　行きたい
+5.行李，携带物  nimotsu  荷物
+　包里装满了东西 kaban no naka wa nimotsu de ippaidesu
+              かばんの　なか　は　にもつ　で　いっぱいです
+              鞄の　中　は　荷物　で　いっぱいです
+6.日历 karenda- カレンダー
+　手机上的日历 sumaho no karenda-
+            スマホ　　の　カレンダー
+7.入口 iriguchi いりぐち　　入口
+　医院入口 byo-in no iriguchi
+         びょういんの　いりぐち
+         病院の　入口
+8.出口 deguchi  でぐち　出口
+　出口的傍边是座位  deguchi no soba no seki
+                 でぐち　の　そば　の　せき
+                 でぐち　の　そば　の　席
+9.海报，招贴 posuta-  ポスター
+　广告海报 ko-koku posuta- 広告　ポスター
+10.报纸 shinbun しんぶん　新聞
+　报社 shinbunsha 新聞しゃ　新聞社
+11.时间 jikan じかん　時間
+　　睡眠时间 suimin jikan 睡眠時間
+12.。。打开 aku あく　あく
+　　门开着 doa ga aiteiru ドアが　開いている
+                        ドア　が　あいている
+13.打开。。 akeru あける　開ける
+　　开门  doa o akeru  ドアを　開ける
+14.打印机 purinta-  プリンター
+　　我家没有打印机  jitaku ni purinta- o motte imasen
+                 じたく　に　プリンター　を　もって　いません
+                 自宅　に　プリンター　を　持って　いません
+15.开关 suitchi スイッチ
+　　按下开关 suichi o osu スイッチ　を　おす
+                        スイッチ　を　押す
+16.持有 motsu  もつ　持つ
+　　有手机 keitai　o motte iru
+         けいたい　を　もって　いる
+         携帯　を　持っている
+17.超市 su-pa-  スーパー
+　　附近的超市 kinjo no su-pa-　きんじょの 近所のスーパーで
+18.无用 muda むだ　無駄
+　　努力没有白费 doryoku wa mudade wa arimasen
+              どりょく　は　むだで　は　ありません
+              努力　は　無駄　では　ありません
+19.垃圾 gomi ゴミ　
+　　垃圾袋 gomibukuro ゴミ袋
+20.。。减少 heru へる　減る
+　　体重减轻了 taiju- ga herimashita
+            たいじゅう　が　へりました
+            体重　が　減りました
+21.使。。。减少 herasu  へらす　　減らす
+　　减少零花钱 kodzukai  o herasu 　こづかいを　へらす
+                                 小遣い　を　減らす
+22.把。。放入 ireru  いれる　　入れる
+　　将煎蛋卷放入便当 tamagoyaki o bento- ni ireru
+                  たまごやき　を　べんとう　に　いれる
+                  卵焼き　を　弁当　に　いれる
+23.温度 ondo おんど　温度
+　　空调的设置温度 eakon no settei ondo
+                エアコン　の　せってい　おんど
+                エアコン　の　設定　温度
+24.衣服 fuku ふく　服
+　　粉色衣服 pinkuiro no fuku ピンク色　の　服
+25.短裙 suka-to  スカート
+　　穿短裙 suka-to o haku  スカートをはく　スカートをはく
+26.鞋 kutsu  くつ　靴
+　　白色运动鞋 shiroi undo-gutsu
+             しろい　うんどう　ぐつ
+             白い　運動　靴
+27.袜子 kutsushita  くつした　靴下
+　　买袜子 kutsushita o kau 靴下を買う->かう
+28.包 baggu バッグ
+　　红色的包 akai baggu  赤いバッグ
+29.牛仔裤 ji-nzu  ジーンズ
+　　白色牛仔裤 howaito ji-nzu
+            ホワイト　ジーンズ
+30.裤子 zubon ズボン
+　　短裤 han zubon 半ズボン
+31.夹克，外套 jaketto  ジャケット
+　　休闲夹克 kajuaruan jaketto  カジュアルな　ジャケット
+32.外套 ko-to  コート
+　　黑色外套 kuroi ko-to  黒いコート
+33.衬衫 shatsu シャツ
+　　新衬衫  atarashi- shatsu  あたらしい　シャツ
+                            新しい　シャツ
+34.口袋 poketto ポケット
+　　上衣口袋 uwagi no poketto
+           うわぎの　ポケット
+           上着の　ポケット
+35.手套 tebukuro てぶくろ　手袋
+　　塑料手套 gomu tebukuro  ゴム　てぶくろ　ゴム手袋
+36.毛巾 taoru  タオル
+　　　洗脸毛巾 feisutaoru 　フエイス　タオル
+37.香水  ko-sui こうすい　　香水
+　　我收到了他送的香水  kare kara ko-sui o moraimashita
+                    かれ　から　こうすい　を　もらいました
+                    彼　から　香水　を　もらい　ました
+38.化妆品 kesho-hin  けしょうひん　化粧品
+　　化妆品公司 kesho-hin gaisha
+            化粧品　がいしゃ
+            化粧品　会社
+39.墨镜 sangurasu サングラス
+　　戴墨镜 sangurasu o kakeru サングラスを　かける
+40.戒指  yubiwa  ゆびわ　指輪
+　　我明天要去买结婚戒指 ashita ni wa kekkon yubiwa o kai ni ikimasu
+                    あした　に　わ　けっこん　ゆびわ　を　かい　に　いきます
+                    明日　に　は　結婚　指輪　を　買い　に　行きます
+41.项链 nekkuresu 　ネックレス
+　　珍珠项链 shinju no nekkuresu
+           しんじゅの　ネックレス
+           真珠の　ネックレス
+42.尺寸 saizu サイズ
+　　鞋码 kutsunosaizu 靴のサイズ
+43.。。改变 kawaru  変わる
+　　她的性格发生了改变 kanojo no seikaku ga kawatte shimaimashita
+                   かのじょ　の　せいかく　が　かわって　しまいました
+                   彼女の　性格　が　変わって　しまいました
+44.改变。。。 kaeru かえる　　変える
+　　更改电话号码  tenwabango- o kaeru
+               でんわばんごう　を　かえる
+               電話番号　を　変える
+45.浪费的  mottainai 　もったいない
+　　辞职正式员工是一种浪费 seishain o yameru no wa mottainai
+                      せいしゃいん　を　やめる　の　は　もったいない
+                      正社員　を　辞める　の　は　もったいない
+46.扔 suteru  捨てる
+　　扔垃圾 gomi wo suteru  ゴミを捨てる
+47.行李箱 su-tsuke-su 　スーツケース
+　　大行李箱  o-kina su-tsuke-su 　おおきな　スーツケース
+                                大きな　スーツケース
+48.向。。借  kariru  かりる　借りる
+　　我向银行借了40万日元  yo-ju-man-en hodo ginko- kara karite ita
+                    　よんじゅうまんえん　ほど　ぎんこう　から　かりて　いた
+                   　　四十万円　ほど　銀行　から　借りて　いた
+49.借给 kasu  かす　　（有问题，待字典查询）
+   我把自行车借给了邻居 rinjin ni jitensha o kashimashita
+                    りんじん　に　じてんしゃ　を　かしました
+                    隣人　に　自転車　を　貸しました
+50.离婚 rikon  りこん　離婚
+　　我决定离婚 rikon o ketsui shita
+            りこん　を　たつい　した
+            離婚　を　決意　した
