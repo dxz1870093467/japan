@@ -19,4 +19,153 @@
               かみが　ゆか　に　おちていた
               髪が　床　に　落ちて　いた　
 6. 把...弄掉 otosu  おとす　落とす
-　　
+　　我把耳机掉在地上了。  iyahon o yuka otoshite shimatta
+                     イヤホン　を　ゆか　に　おとして　しまった
+                     イヤホン　を　床　に　落として　しまった
+7.吸尘器 so-jiki 　そうじき　掃除機
+　吸尘器坏了 so-jiki ga kowaremashita
+           そうじき　が　こわれました
+           掃除機　が　壊れんした
+8...故障的，...坏掉 kowareru こわれる　　壊れる
+　空调坏了 eakon ga kowarete shimatta
+         エアコン　が　こわれた　しまった
+         エアコン　が　壊れて　しまった
+9.把。。弄坏 kowasu  こわす　壊す
+　我不小心弄坏了女朋友给我的时钟  kanojp kara moratta tokei o kowashite shimatta
+                            かのじょ　から　もらった　とけい　を　こわして　しまった
+                            彼女　から　もらった　とけい　を　壊して　しまった
+10.厨房 daidokoro だいどころ　だいどころ
+　　厨房用品 daidokoro yo-hin だいどころ　ようひん　台所用品
+11.微波炉 denshirenji　電子レンジ
+　　用微波炉加热 denshirenji de kanetsu shimasu
+              電子レンジ　で　かねつ　します
+              電子レンジ　で　加熱　します
+12.冰箱 reizo-ko れいぞうこ　冷蔵庫
+　　我家的冰箱 wagaya no reizo-ko 　わがや　の　れいぞうこ
+                                 我が家　の　冷蔵庫
+13.垃圾桶 gomibako  ゴミ箱　ゴミばこ
+　　把垃圾扔到垃圾桶 ゴミをゴミ箱　に　すてる
+                  ゴミをゴミ箱　に　捨てる
+14.电饭锅 suihanki すいはんき　　炊飯器
+　　用电饭锅煮糙米 suihanki de genmai o taku
+                すいはんき　で　げんまい　を　たく
+                炊飯器　で　玄米　を　たく
+15.洗衣机 sentakuki せんたくき　洗濯機
+　　我买了一台洗衣机  sentakuki o ko-nyu- shita
+                   せんたくき　を　こうにゅう　した
+                   洗濯機　を　購入　した
+16.手机 keitai けいたい　　携帯
+　　手机app  keitai no apuri けいたい　の　アプリ
+　                           携帯　の　アプリ
+17.店员 ten in  てんいん　店員
+　　超市店员 su-pa- no ten in
+           スーパー　の　てんいん
+           スーパー　の　店員
+18.价格 nedan  ねだん　値段
+　　　询问价格 nedan o kiku ねだんをきく　値段を聞く
+19.担心 shinpai    しんぱい　心配
+　　很抱歉让你担心了  shinpai o kakete gomen
+                　　しんぱい　を　かけて　ごめん
+                　　心配　を　かけて　ごめん
+20.用户 yu-za-  ユーザー
+　　用户名 yu-za- mei  ユーザー　めい　　ユーザー名
+21.评论 komento  コメント
+　　评论的内容 komento no naiyo- コメント　の　ないよう
+                            　　コメント　の　内容
+22.。。决定  kimaru きまる　決まる
+　　结婚已经定了 kekkon ga kimatta
+              けっこん　が　きまった
+              結婚式　が　決まった
+23.决定。。。 kimeru 　決める
+　　自己决定的道路 jibun de kimeta michi
+                じぶん　で　きめた　みち
+                自分　で　決めた　道
+24.照顾，麻烦 mendo- めんどう　面倒
+　　照顾 mendo-wo miru 面倒　を　みる
+25.购物  kaimono 　かいもの　買い物
+　　我买了将近10万日员的东西 ju-man chikaku kaimono o shimashita
+                        じゅうまん　ちかく　かいもの　を　しました
+                        十万　近く　買い物　を　しました
+26.品牌 burando  ブランド
+　　奢侈品 hai  burando　ハイブランド
+27.思考 kangaeru かんがえる　考える
+　　我需要时间思考 kangaeru jikan ga hoshi-
+                かんがえる　じかん　が　ほしい
+                考える　時間　が　欲しい
+28.商品 sho-hin  しょうひん　商品
+　　推荐商品 osusume no sho-hin
+           オススメ　の　しょうひん
+           オススメ　の　商品
+29.烦恼的， komaru こまる　困る
+　　为金钱烦恼 okane ni komaru
+            お金　に　困る
+30.使用方法 tsukaikata  つかいかた　　使い方
+　　我不知道如何使用  tsukaikata ga wakarimasen
+                  つかいかた　が　わかりません
+                  使い方　が　わかりません
+31.安静 shizuka  しずか　　静か　
+　　请稍微安静点  mo-sukoshi  shizukani shite hoshi-
+               もう少し　しずかに　して　ほしい
+               もう少し　静かに　　して　ほしい
+32.一人 hitori  ひとり　　一人
+　　独自旅游  hitori tabi 一人　旅
+33.二人 futari  ふたり　　二人
+　　那两个人是小偷 ano futari wa dorobo-da
+                あの　ふたり　は　どろぼうだ
+                あの　二人　は　泥棒だ
+34.三人 san nin 三人
+   我家又三口人  uchi wa san nin kazokudesu
+               うち　は　さん　にん　かぞくです
+               うち　は　三人　家族です
+35.四个人 yonin よにん　四人
+　　四个孩子 kodomo yonin 　こども　よにん　子供四人
+36.五人  gonin ごにん　五人
+　　五口自家 gonin kazoku 五人家族
+37.六个人 roku-nin 　ろくにん
+　　六个人组  roku-nin guru-pu  六人　グループ
+38.七人 shichi-nin しちにん　七人
+　　七个朋友 shichi-nin no nakama-tachi
+           しちにん　の　なかま　たち
+           七人　の　仲間　たち
+39.八人  hachi-nin はちにん　八人
+　　八人乘车 hachi-nin nori no kuruma
+          八人　乗り　くるま
+          はちにん乗り　車
+40.九个人 kyu-nin きゅうにん　　九人
+　　文学部有九个成员 bungakubu no buin ga kyu-nin desu
+                  ぶんがくぶ　の　ぶいん　が　きゅうにん　です
+                  文学部　の　部員　が　九人　です
+41.十个人 ju-nin じゅうにん　十人
+　　10个人以上 ju-nin ijo- 　じゅうにん　いじょう
+                           十人　以上
+42.多少人 nan-nin 何人
+　　你家有几口人  nan nin kazokudesu ka
+               なんいん　かぞくですか
+               何人　家族ですか
+43.吃饭 shokuji しょくじ　食事
+　　一起吃饭 issho ni shokuji o suru
+           いっしょに　しょくじ　を　する
+           一緒に　食事　を　する
+44.这次 konkai こんかい　今回
+　　这次的事情  konkai no koto こんかいのこと
+                            今回の事
+45.寺庙 otera おてら　お寺
+　　进入寺庙 otera no nakanihairu
+           お寺　の　なかにはいる
+           お寺　の　中に入る
+46.每年 maitoshi まいとし　毎年
+　　每年都会拍全家福  maitoshi kanarazu kazoku shashin o totte iru
+                  まいとし　かならず　かぞく　しゃしん　を　とって　いる
+                  毎年　必ず　家族　写真　を　とって　いる
+47.每月 maitsuki まいつき　　毎月
+　　我每个月存50000日元 maitsuki go man-en chokin shite imasu
+                    まいつき　五万円　ちょきん　して　います
+                    毎月　五万円　貯金　して　います
+48.政府 seifu せいふ　政府
+　　日本政府 nihonseifu 　にほんせいふ　日本政府
+49.举行 okonau 　おこなう　行う
+　　举行派对 pa-ti- o okonau パーチー　を　行う
+50.以前 mukashi  むかし　昔
+　　以前的恋人 mukashi no koibito
+            むかし　の　こいびと
+            昔　の　恋人
