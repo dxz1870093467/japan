@@ -1,0 +1,163 @@
+1.成为，变成  naru　なる　
+  我想成为漫画家  sho-rai mangaka ni naritai
+                しょうらい　まんがか　に　なりたい
+                将来　漫画家　に　なりたい
+2.歌手 kashu  かしゅ　　歌手
+　喜欢歌手 sukina kashu  すきなかしゅ　　好きな歌手
+3.演员 haiyu- はいゆう　　俳優
+　帅哥演员 イケメン　はいゆ　　イケメン俳優
+4.男士 dansei だんせい　男性
+　联谊会上认识的男士 go-kon de shiriatta dansei
+                　ごうこん　で　しりあった　だんせい
+                合コン　で　知り合った　男性
+5.女士 josei  じょせい　女性
+　女员工 josei shain じょせいしゃいｎ　女性社員
+6.新闻 nyu-su 　ニュース
+　电视新闻 terebinyu-su  テレビニュース
+7.钱  okane おかね　お金
+　我给男朋友借钱了 kareshi ni okane o kashimashita
+                かれし　に　おかね　を　かしました
+                彼氏　に　お金　を　貸し　ました
+8.美元 doru どる　ドル
+　5000 gosen doru  五千ドル
+9.钱包 saifu  さいふ　　財布
+　我丈夫把钱包忘记在车里了  otto ga saifu o kuruma ni wasureta
+                       おっと　が　さいふ　を　くるま　に　わすれた
+                       おっと　が　財布　を　車　に　忘れた
+10.粉丝 ファン
+　　我的老板成为了偶像的粉丝 jo-shi ga aidoru no fan ni natta
+                        じょうし　が　アイドル　の　ファン　に なった
+                        上司　が　アイドル　の　ファン　に　なった
+11.努力 ganbaru  がんばる　頑張る
+　　努力工作 shigoto o ganbaru  しごと　を　がんばる
+                              仕事　を　頑張る
+12.幸福 shiawase  しあわせ　幸せ
+　　幸福的家庭 shiawasena katei
+            しあわせな　かてい　
+             幸せな　家庭
+13.出生 umareru  生まれる
+　　我很高兴出生在这个世界 umarete kite yokatta
+                      うまれて　きて　よかった
+                      生まれて　きて　よかった
+14.调查 shiraberu しらべる　調べる
+　　用智能手机 sumaho de shiraberu スマホ　で　調べる
+15.父母 ryo-shin  りょうしん　　両親
+　　我和我的父母住在一起 ryo-shin to san-nin gurashidesu
+                     りょうしん　と　三人　ぐらしです
+                     両親　と　三人　暮らし　です
+16.前辈 senpai  せんぱい　　先輩
+　　公司的前辈 kaisha no senpai  かいしゃ　の　せんぱい
+                               会社の　先輩
+17.后辈 ko-hai  こうはい　後輩
+　　两年前进入公司的后辈 ninen mae ni nyu-sha shita ko-hai
+                     にねん　まえ　に　にゅうしゃ　した　こうはい
+                     二年前　に　入社　した　後輩
+18.邀请 sasou さそう　　誘う
+　　我不太主动邀请别人 jibun kara hito o sasou koto wa amari nai
+                    じぶん　から　ひと　を　さそう　こと　は　あまりない
+                    自分　から　人　を　誘う　こと　は　あまりない
+19.高中 ko-ko-  こうこう　高校
+　　高中一年级学生 ko-ko- ichi-nensei  高校　いち　ねん　せい
+                                　　高校一年生
+20.尴尬的 hazukashi-　　はずかしい　恥ずかしい
+　　有一件很尴尬的事  hazukashi- koto ga arimashita
+                  恥ずかしい　こと　が　ありました
+21.笑 warau わらう　笑う
+　　出声笑 koe o dashite warau こえを　だしてわらう
+                            声を　出して　笑う
+22.生气 okoru  おこる　怒る
+　　你为什么生气 nande okotteru no?
+              なんで　おこってる　の
+              なんで怒ってるの　
+23.哭 naku なく　泣く
+　　我不想在他面前哭 kare no maede wa nakitakunai
+                 かれ　の　まえで　は　なき　たくない
+                 彼　の　前で　は　泣きたく　ない
+24.初次 hajimete  はじめて　初めて
+　　我在28岁买了我的第一辆车  niju-hassai no toki ni hajimete kuruma o ko-nyu- shita
+                          にじゅうはっさい　の　とき　に　はじめて　くるま　を　こうにゅう　した
+                          二十八歳の　時　に　初めて　車　を　購入　した
+25.一定 kitto  きっと
+　　明天一定会是美好的一天 ashita wa kitto i- hi ni naru
+                      あした　は　きっと　いい　ひに　なる
+                      明日　は　きっと　いい　ひ　に　なる
+26.工薪族 sarari-man サラリーマン
+　　我老公事工薪族 otto wa sarari-mandesu
+                夫は　サラリーマン　です
+27.家务 kaji かじ　家事
+　　最近每天疲劳于家务 saikin mainichi no kaji ni tsukaretemasu
+                   さいきん　まいにち　の　かじ　に　つかれて　ます
+                   最近　毎日　の　家事　に　疲れて　ます
+28.惊讶 odoroku  おどろく　驚く
+　　我真的很惊讶啊 honto-ni odoroite masu
+                ほんとうに　おどろいて　ます
+                本当に　驚いて　ます
+29.附近 chikaku  ちかく　近く
+　　家附近 ie no chikaku  いえのちかく　　家の近く
+30.游戏 ge-mu 　ゲーム
+　　在线游戏 onrainge-mu オンラインゲーム
+31.但是 demo でも　
+   努力过了，但是输了 ganbatta,demo maketa
+                   がんばった　でも　まけた
+                   頑張った　でも　負けた
+32.经验 keiken けいけん　経験
+　　我没有独居的经验 hitorigurashi no keiken ga arimasen
+                 ひとりぐらし　の　けいけん　が　ありません
+                 一人暮らし　の　経験　が　ありません
+33.相同 onaji おなじ　同じ
+　　相同的环境 onaji kankyo- おなじかんきょう　　同じ環境
+34.理解 rikai りかい　理解
+　　我无法理解他的价值观 kare no kachikan ga rikai dekimasen
+                    かれ　の　かちかん　が　りかい　できません
+                    彼の　価値観　が　理解　できません
+35.想法 kangae かんがえ　考え
+　　我个人的想法 watashikojin no kangae
+              わたしこじん　の　かんがえ
+              私個人　の　考え
+36.感觉 kanjiru かんじる　感じる
+　　感到不安 fuan o kanjiru 　ふあんを　かんじる
+                            不安を　感じる
+37.最初 saisho さいしょ　最初
+　　早上起床你会喝什么 asaokitara saisho ni nani o nomimasu ka
+                   あさおきたら　さいしょ　に　なに　を　飲みます　か
+                   朝　起きたら　最初　に　何を　飲みます　か
+38.放弃 akirameru  あきらめる　　諦める
+　　我还是不行放弃 yappari made akirametakunai
+                やっぱ入り　まで　あきらめたくない
+                やっぱいり　まで　諦めたくない
+39.烦恼 nayamu なやむ　悩む
+　　我在烦恼就职的事情 shu-shoku no koto de nayande imasu
+                   しゅうしょく　の　こと　で　なやんで　います
+                   就職　の　こと　で　悩んで　います
+40.。。增加 fueru  ふえる　増える
+　　我的体重没有增加 amari taiju- ga fuenakatta
+                 あまり　たいじゅう　が　ふえなかった
+                 あまり　体重　が　増えなかった
+41.增加。。。 fuyasu  ふやす　増やす
+　　增加人数 ninzu- o fuyasu にんずを　ふやす
+                            人数を　増やす
+42.周末 shu-matsu しゅうまつ　　週末
+　　周末早上 しゅうまつあさ　　週末の朝
+43.洗 arau  あらう　洗う
+　　洗脸 kao o arau かおを　あらう　　顔を洗う
+44.足够 tariru  足りる
+　　生活费不够 seikatsu-hi ga tarinai
+            せいかつひ　が　たりない
+            生活費　が　足りない
+45.附近 kinjo  きんじょ　近所
+   附近的大叔 kinjo no ojisan 　近所　の　おじさん
+46.重要 taisetsu たいせつ　　大切
+　　珍视自己  jibun o taisetsu ni suru じぶんを　たいせつ　に　する
+                                    自分を　大切　に　する
+47.令人怀念的 natsukashi-  なつかしい　懐かしい
+　　令人怀念的味道 natsukashi- aji  懐かしい　あじ（味）
+48.凉爽的， suzushi- すずしい　　涼しい
+   凉快的地方 suzushi- tokoro  涼しい　ところ（所）
+49.制服  seifuku  せいふく　制服
+　　工作制服  shigoto no seifuku
+            しごと　の　せいふく
+            仕事　の　制服
+50.台风 taifu  たいふ　　台風
+　　猛烈的台风 mo-retsuna taifu
+            もうれつな　たいふ
+            猛烈な　台風
