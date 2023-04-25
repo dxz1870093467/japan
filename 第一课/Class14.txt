@@ -1,0 +1,138 @@
+1.地震 jishin　じしん　地震
+　大地震 o-ki- jishin 　おおきい　じしん
+2.风 kaze  かぜ　風
+　冷风 tsumetai kaze  つめたい　かぜ　　冷たい風
+3.记事本 techo- てちょう　　手帳
+　新笔记本 atarashi- techo-
+        　あたらしい　てちょう
+          新しい　手帳
+4.强 tsuyoi  つよい　強い
+　正义感强 seigikangatsuyoi
+        せいぎかんが　すよい
+        正義感が　強い
+ 5.弱  yowai よわい　弱い
+ 　身体弱 karada ga yowai
+        からだ　が　よわい
+        体　が　弱い
+ 6.飞 tobu  とぶ　　飛ぶ
+ 　飞到很远 to-ku ni tondeiku
+           とおく　に　とんでいく
+           遠く　に　飛んでいく
+ 7.建筑 tatemono  たてもの　　建物
+ 　旧建筑  furui tatemono  ふるい　たてもの
+                          古い　建物
+ 8.强壮，结实  jo-bu  じょうぶ　丈夫
+ 　身体很强壮 karada ga jo-bu  からだ　が　じょうぶ
+                        　　　体が　丈夫
+ 9.逃跑 nigeru  にげる　逃げる
+ 　我不想逃避 jibun wa nigetakunai
+           じぶん　は　にげたくない
+           自分　は　逃げた　くない
+ 10.追赶 ou  おう　追う
+ 　　追捕逃犯 to-so- sha o ou
+            とうそうしゃ　を　おう
+            逃走者を　追う
+ 11.。。停止 tomaru とまる　止まる
+ 　　由于震惊，我无法停止哭泣 shokku de namida ga tomarimasen
+                         ショック　で　なみだ　が　とまりません
+                         ショック　で　涙　が　止まりません
+ 12.使。。停止 tomeru  とめる　止める
+ 　　把车停在停车场 chu-shajo- ni kuruma wo tomeru
+                 ちゅうしゃじょう　に　くるま　を　とめる
+                 駐車場　に　車　を　止める
+ 13.罐头 kandzume  かんづめ　　缶詰
+ 　　水果罐头 kandzume no kudamono
+            かんづめ　の　くだもの
+            缶詰　の　果物
+ 14.互联网 inta-netto インターネット
+ 　　在互联网上搜索  inta-netto de kensaku suru
+                  インターネット　で　検査　する
+ 15.外国人 gaikokujin　がいこくじん　外国人
+ 　　外国朋友 gaikokujin no yu-jin がいこくじんのゆうじん
+                                 外国人の友人
+16.零  zero  ぜろ　ゼロ
+ 　　零恋爱经验 renai keiken zero
+             れんあい　けいけん　ゼロ
+             恋愛　経験　ゼロ
+17.一 ichi  いち　一
+ 　　一小时 ichijikan  一時間
+18.二 ni に　二
+ 　　大学二年级学生 daigakuninensei  だいがくにねんせい
+                                　大学二年生
+19.三 san  さん
+ 　　三岁 sansai  さんさい　三歳
+20.四 yon/shi  よん／し
+ 　　第四 yon-banme  よんばんめ　四番目
+21.五 go ご
+ 　　十五 ju-go じゅうご　十五
+22.六 roku  ろく　六
+　　六等分 roku-to-bun ろくとうぶん　六等分
+23.七 shichi/nana  しち／なな
+　　七点半 shichi-jihan  しちじはん　七時半
+24.八 hachi はち　八
+　　八月 hachigatsu  はちがつ　八月
+25.九 kyu-/ku きゅう／く
+　　四十九 yonju- kyu- 　よんじゅうきゅう　四十九
+26.十 ju- じゅう　十
+　　十三 ju-san じゅうさん　十三
+27.百 hyaku ひゃく　百
+　　一百日元 hyaku-en ひゃくえん　百円
+28.千  せん　千
+　　2000日元 ni sen en にせんえん　二千円
+29.万 man  まん　万
+　　五万人 go man nin 五万人
+30.亿 oku  おく　億
+　　两亿 ni oku  におく　　二億
+31.一号 tsuitachi ついたち　1日
+　　九月一号 kugatsu tsuitachi
+           くがつ　ついたち
+           九月一日
+32.二号 futsuka ふつか　二日
+　　本月2日 kongetsu futsuka こんげつふつか　　今月二日
+33.三号 mikka  みっか　三日
+　　三月三号 sangatsu mikka さんがつみっか　三月三日
+34.四号 yokka よっか　四日
+　　十四号 ju-yokka じゅうよっか　十四日
+35.五号 itsuka いつか　五日
+　　下个月五号 raigetsu itsuka らいげついつか　来月五日
+36.六号 muika  むいか　六日
+　　十月六日 ju-gatsu muika  じゅうがつ　むいか　十月六日
+37.七号 nanoka なのか　七日
+　　一月七号 ichiｇatsu nanoka 　いちがつ　なのか　一月七日
+38.八号 yo-ka ようか　八日
+　　五月八号 gogatsu yo-ka　ごがつようか　五月八日
+39.九号 kokonoka ここのか　九日
+　　下个月九号 raigetsu kokonoka らいげつここのか　来月九日
+40.十号 tooka  とおか　十日
+　　一月十号 ichigatsu tooka いちがつ　とおか　一月十日
+41.十四号 ju-yokka じゅうよっか　十四日
+　　九月十四号 kugatsu ju-yokka くがつじゅうよっか　九月十四日
+42.二十号 hatsuka はつか　二十日
+　　二月二十号 nigatsu hatsuka にがつはつか　二月二十日
+43.一个 hitotsu ひとつ　一つ
+　　吃一个苹果 ringo o hitotsu taberu
+            りんご　を　ひとつ　たべる
+            りんご　を　一つ　食べる
+44.两个 futatsu 　ふたつ　二つ
+　　我有两个问题  futatsu shitsumon ga arimasu
+                ふたつ　しつもん　が　あります
+                二つ　質問　が　あります
+45.三个 mittsu  みっつ　三つ
+　　三种应对方式 mittsu no taisho ho-ho-
+              みっつ　の　たいしょ　ほうほう
+              三つ　の　対処　方法
+46.四个 yottsu よっつ　四つ
+　　第四个男朋友 yottsume no kareshi
+             　よっつめ　の　かれし
+             　四つ目　の　彼氏
+47.五个 itsutsu いつつ　五つ
+　　有五种可能  itsutsu no kano-sei ga aru
+              いつつ　の　かのうせい　が　ある
+              五つの　可能性が　ある
+48.六个  muttsu むっつ　六つ
+　　六个饭团 onigiri muttsu  おにぎり　むっつ　　おにぎり六つ
+49.七个 nanatsu ななつ　七つ
+　　七个习惯 nanatsu no shu-kan  ななつのしゅうかん　
+            七つの習慣
+50.八个 yattsu やっつ　八つ
+　　八个秘密 yattsu no himitsu やっつ　の　ひみつ　八つの秘密
