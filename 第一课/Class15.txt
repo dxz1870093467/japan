@@ -14,3 +14,155 @@
 　我打算和朋友去参加一个活动 yu-jin to ibento ni iku yoteidesu
                         ゆうじん　と　イベント　に　いく　よていです
                         友人と　イベント　に　行く　予定です。
+6.。。花费 kakaru かかる　
+　样孩子真的很花钱 kosodate okane kakarimasu ne
+                こそだて　おかね　かかりますね
+                子育て　お金　かかりますね
+7.花费 kakeru かける
+　花钱买衣服 fuku ni okane o kakeru
+           ふくに　おかね　を　かける
+           服に　お金　を　かける
+8.会场，场地 kaijo- かいじょう　会場
+　小的会场 chi-sana kaijo- ちいさなかいじょう
+                        　小さな会場
+9.颜色 iro  いろ　色
+　橘色 orenji-iro オレンジ　いろ
+10.家庭 katei  かてい　家庭
+　　家庭教师 kateikyo-shi かていきょうし　家庭教師
+11.问题 mondai もんだい　問題
+　　没有问题  betsuni mondainai
+            べつに　もんだいない
+            べつに　問題ない
+12.医生 isha いしゃ　医者
+　　牙医 haisha はいしゃ　歯医者
+13.员工 shain しゃいん　社員
+　　派遣员工 haken shain はけんしゃいん
+                    　　派遣社員
+14.专家 senmonka せんもんか　専門家
+　　美术专家 bijutsu no senmonka
+           びじゅつ　の　せんもんか
+           美術　の　専門家
+15.小组 guru-pu  グループ
+　  团体旅行 guru-pu ryoko- グループりょこう　グループ旅行
+16.团队 chi-mu チーム
+　　团队成员 chi-mu no menba- チームのメンバー
+17.事故 jiko じこ　事故
+　　遇到交通事故 ko-tsu- jiko ni aimashita
+              こうつう　じこ　に　あいました
+              交通　事故　に　あいました
+18.方法  ho-ho- ほうほう　方法
+　　减肥方法 daietto ho-ho-
+           ダイエット　ほうほう
+           ダイエット　方法
+19.高级公寓 manshon  マンション　マンション
+　　我搬进了高级公寓 manshon ni hikko shimashita
+                 マンション　に　ひっこ　しました
+                 マンション　に　引っ越し　ました
+20.公寓 apa-to アパート
+　　我目前正在寻找公寓 genzai apa-to o sagashite ir
+                   げんざい　アパート　を　さがして　いる
+                   現在　アパート　を　探して　いる
+21.游乐园 yuenchi ゆうえんち　遊園地
+　　去游乐园约会 yu-enchi e de-to suru
+             ゆうえんち　へ　デート　する
+             遊園地　へ　デート　する
+22.工厂 ko-jo- こうじょう　工場
+　　在工厂工作 ko-jo- de hatarai teiru
+            こうじょう　で　はたらい　ている
+            工場　で　働いて　いる
+23.。。持续 tsudzuku 　つづく　続く
+　　最近的烦心事不断 saikin iyana koto ga tsudzuite imasu
+                 さいきん　いやな　こと　が　つづいて　います
+                 最近　嫌な　こと　が　続いて　います
+24.持续。。 tsudzukeru 　続ける
+　　我在犹豫是否应该继续健身房 jimu o tsudzukeru ka mayotte imasu
+                          ジム　を　つづける　か　まよって　います
+                          ジム　を　続ける　か　迷って　います
+25.形状 katachi  かたち　形
+　　奇怪的形状 hen na katachi  へんな　かたち　変な形
+26.赶上 maniau まにあう　間に合う
+　　赶不上末班巴士  saishu- basu ni maniawanai
+                 さいしゅう　バスに　まにあわ　ない
+                 最終　バスに　間に合わない
+27.接受 ukeru うける　受ける
+　　接受检查 kensa o ukeru 　けんさ　を　うける
+                           検査　を　受ける
+28.出去 dekakeru  でかける　出かける
+　　一个人出去 hitori de dekakeru
+            ひとり　で　でかける
+            一人　で　出かける
+29.证明 sho-mei  しょうめい　証明
+　　提交证明 sho-mei o teishutsu suru
+           しょうめい　を　提出　する
+            証明　を　提出　する
+30.必要 hitsuyo- ひつよう　必要
+　　除了真正需要的东西，我什么都不买  honto-ni hitsuyo-namono igai wa kawanai
+                               ほんとに　ひつよう　なもの　いがい　は　かわない
+                               本当に　必要　な物　以外　は　買わない
+31.服务 sa-bisu サービス
+　　过度服务 kajo-na sa-bisu  かじょうな　サービス
+                            過剰な　サービス
+32.文件 shorui　しょるい　書類
+　　正式文件 seishikina shorui  せいしきな　しょるい
+                            　正式な　書類
+33.纸 kami  かみ　紙
+　　纸袋 kami bukuro かみぶくろ　紙袋
+34.信 tegami てがみ　手紙
+　　写信  tegamiwokaku てがみをかく　手紙を書く
+35.展示 miseru  みせる　見せる
+　　给我看一下你的手机 chotto keitai o misete
+                  　ちょっと　けいたい　を　見せて
+36.周围 mawari 　まわり　周り
+　　周围的人 mawarino hito-tachi
+           まわりの　ひと　たち
+           周りの人たち
+37.出发 shuppatsu  しゅっぱつ　出発
+　　早上6点出发 asa roku-ji ni shuppatsu suru
+              あさ　ろくじ　に　しゅっぱつ　する
+              朝　六時　に　出発　する
+38.到达 tsuku つく　着く
+　　到家了的话跟我说一下喔 ie ni tsuitara renraku cho-dai
+                      いえに　ついたら　れんらく　ちょうだい
+                      家に　着いたら　連絡　ちょうだい
+39.笑容 egao えがお　笑顔
+　　笑容甜美的女性 egao ga sutekina josei
+                えがお　が　すてき　な　じょせい
+                笑顔が　素敵な　女性
+40.文化 bunka  ぶんか　文化
+　　日本文化 nihon no bunka  にほんの　ぶんか　にほんの文化
+41.地球 chikyu- ちきゅう　地球
+　　全球变暖 chokyu- ondan-ka ちきゅう　おんだんか
+                            地球温暖化
+42.太阳 taiyo- たいよう　太陽
+　　太阳光 taiyo- no hikari たいよう　の　ひかり
+                          太陽の光り
+43.月亮  tsuki つき　月
+　　月亮真美啊 tsuki ga utsukushi- ne
+            つき　が　うつくしい　ね
+             月　が　美しい　ね
+44.会议  kaigi かいぎ　会議
+　　远程会议 rimo-to kaigi
+           リモート　かいぎ
+           リモート　会議
+45.经济 keizai けいざい　経済
+　　经济实力 keizai-ryoku 　けいざい　りょうく
+                          経済力
+46.约定 yakusoku やくそく　約束
+　　他不遵守约定 kare ga yakusoku o mamotte kuremasen
+             　かれ　が　やくそく　を　まもって　くれません
+             彼が　約束を　守って　くれません
+47.发展 hatten はってん　発展
+　　经济发展 keizai ga hatten suru
+           けいざい　が　はってん　する
+           経済　が　発展　する
+48.系统 shisutemu システム
+　　电脑系统 pasokon no shisutemu
+           パソコン　の　システム
+49.突然 kyu- ni きゅうに　急に
+　　眼泪突然涌了出来 namida ga kyu-ni deru
+                 なみだ　が　きゅうに　でる
+                 涙　が　急に　出る
+50.慢慢的  yukkuri ゆっくり　
+　　慢慢的吃午饭 ranchi o yukkuri taberu
+              ランチ　を　ゆっうり　たべる
+              ランチ　を　ゆっくり　食べる
