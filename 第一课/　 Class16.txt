@@ -16,3 +16,141 @@
 　我丈夫感冒了 otto ga kaze o hikimashita
             おっと　が　かぜ　を　ひけました
             夫　が　風邪　を　引きました
+6.咳嗽 seki せき　咳
+  一到晚上咳嗽就会加重 yoru ni naru to seki ga hidoku narimasu
+                    よる　に　なる　と　せき　が　ひどく　なります
+                    夜に　なる　と　咳　ひどく　なります
+7.喷嚏 kushami くしゃみ
+　打喷嚏 kushami ga deru  くしゃみ　が　でる
+                        くしゃみ　が　出る
+8.身体 karada からだ　体
+　对身体好的食物 karadani-i tabemono
+              からだにいい　たべもの
+              体にいい　食べ物
+9.❤ kokoro こころ　心
+　心胸狭隘 kokorogasemai  こころが　せまい
+                        心が狭い
+10.详情的 kuwashi くわし　詳しく
+　　详情说明 kuwashiku setsumei suru
+           くわしく　せつめい　する
+           詳しく　説明　する
+11.瘦  yaseru やせる　瘦せる
+　　我想在瘦一点 motto yasetai もっとやせたい　もっと瘦せたい
+12.发胖 futoru るとる　太る
+　　我的身体增加了10公斤 jukkiro ijo- futotte shimaimashita
+                     じゅっきろいじょう　ふとって　しまいました
+                     十キロ　以上　太って　しまいました
+13.像  niru  にる　似る
+　　她看起来像妈妈  kare wa oka-san ni ni teru
+                 かれ　は　おかあさん　に　にてる
+                 彼　は　お母さん　に　似てる
+14.传达 tsutaeru つたえる　伝える
+   告诉对方自己的真实想法 jibun no honne o aite ni tsutaeruu
+                      じぶん　の　ほんね　を　あいて　に　つたえる
+                      自分　の　本音　を　相手　に　伝える
+15.信息 jo-ho- じょうほう　情報
+　　个人信息  kojin jo-ho- こじん　じょうほう　個人情報
+16.介绍 sho-kai  しょうかい　紹介
+　　向家人介绍朋友 yu-jin o kazoku ni sho-kai suru
+                ゆうじん　を　かぞく　に　しょうかい　する
+                友人　を　かぞく　に　紹介　する
+17.课程 jugyo- じゅぎょう　授業
+　　在线课程 onrain jugyo- オンラインじゅぎょう　オンライン授業
+18.危险的 abunai あぶない　危ない
+　　危险的地方 abunai tokoro 危ないところ　危ない所
+19.。。扩宽 hirogaru  ひろがる　広がる
+　 视野拓宽 shiya ga hirogaru 　しやが　ひろがる　視野が広がる
+20.拓宽。。。 hirogeru ひろげる　広げる
+　　拓宽视野 shiya o hirogeru  しや　を　ひろげる　視野を広がる
+21.意见，想法 iken  いけん　意見
+　　请让我听听你的意见 go iken o o kikase kudasai
+                   ご　いけん　を　お　きかせ　ください
+　　              　ご　意見　を　お聞かせ　ください
+22.世界 sekai せかい　世界
+　　世界地图 sekai chizu せかいちず　世界地図
+23.比较 kuraberu  くらべる　比べる
+　　与他人比较 tanin to kuraberu
+            たにん　と　くらべる
+            他人　と　比べる
+24.消息 messe-ji メッセージ
+　　发送消息 messe-ji o okuru メッセージをおくる
+                            メッセージを送る
+25.刀 naifu  ナイフ
+　　餐刀 shokuji-yo- no naifu
+        しょくじうようのナイフ
+        食事用のナイフ
+26.剪刀  hasami ハサミ
+　　用剪刀剪 hasami de kiru
+           ハサミ　で　きる
+           ハサミ　で　切る
+27.警察 keisatsu 　けいさつ　警察
+ 　报警 keisatsu o yobu けいさつを　よぶ　警察を呼ぶ
+28.案件  jiken じけん　事件
+　　刑事案件 keiji jiken  けいじじけん　刑事事件
+29.犯罪 hanzai はんざい　犯罪
+　　犯罪 hanzai o okasu 　はんざいをおかす　犯罪を犯す
+30.小偷 dorobo- どろぼう　泥棒　
+   附近有小偷的可能性很高 kinjo ni dorobo- ga ir kano-sei ga takai
+                      きんじょ　に　どろぼう　が　いる　かのうせい　が　たかい
+                      近所　に　泥棒　が　いる　可能性　が　高い
+31.偷 nusumu ぬすむ　盗む
+　　孩子的玩具被偷了  kodomo no omocha o nusuma remashita
+                  こども　の　おもちゃ　を　盗まれました
+32.吸 suu すう　吸う
+　　吸烟 tabakowosuu　タバコをすう　タバコを吸う
+33.奥林匹克 orinpikku  オリンピック
+　　奥运会 orinpikku taikai オリンピック　たいかい
+                           オリンピック　大会
+34.设计 dezain  デザイン
+　　我做设计工作 dezain no shigoto o shite imasu
+              デザイン　の　しごと　を　して　います
+              デザイン　の　仕事　を　して　います
+35.选择 erabu えらぶ　選ぶ
+　　你选择哪个？ dochira o erabimasu ka?
+             　どちら　を　えらびます　か？
+             　どちら　を　選びます　か？
+36.比赛 shiai しあい　試合
+　　赢得比赛  shiai ni katsu  しあいに　かつ　試合に勝つ
+37.前  mae  まえ　前
+　　车站前 eki no mae  えきのまえ　駅の前
+38.后面 ushiro うしろ　後ろ
+　　后面的座位 ushiro no seki うしろの　せき　後ろの席
+39.务必 zehi ぜひ
+　　拜托了 zehi onegaishimasu
+         ぜひ　おねがいします
+         ぜひ　お願いします
+40.散步 sanpo　さんぽ　散歩
+　　出去走走 sanpo ni iku さんぽ　に　いく　散歩に行く
+41.协助  kyo-ryoKu 　きょうりょく　協力
+　　请协助调查 cho-sa ni go kyo-ryoku kudasai
+            ちょうさ　に　ご　きょうりょく　ください
+42.计划 keikaku 　けいかく　計画
+　　我正计划去旅游 ryoko- ni ikou to keikaku shite imasu
+                りょこう　に　いこう　と　けいかく　して　います
+                旅行　に　行こう　と　計画　して　います
+43.支付 harau  はらう　払う
+　　付钱 okane o harau おかね　を　はらう　　お金を払う
+44.赞成 sansei さんせい　賛成
+　　我无法赞成我好朋友的结婚 shin yu- no kekkon ni sansei dekimasen
+                        しんゆう　の　けっこん　に　さんせい　できません
+                        親友の結婚　に　賛成　できません
+45.反对 hantai  はんたい　反対
+　　我不同意你的意见 kimi no iken ni wa hantaida
+                 きみ　の　いけん　に　は　はんたいだ
+                 君の　意見　には　反対だ
+46.号码 bango- ばんごう　番号
+　　电话号码 denwabango-　でんわばんごう　電話番号
+47.留学生 ryu-gakusei りゅうがくせい　　留学生
+　　交换生 ko-kan ryu-gakusei  こうかんりゅうがくせい　
+                             交換留学生
+48.签证 biza  ビザ
+　　学生签证 gakusei biza がくせい　ビザ　学生ビザ
+49.签名 sain サイン　サイン
+　　签名同意书 do-i sho ni sain suru
+            どういしょ　に　サイン　する
+            同意書　に　サイン　する
+50.问候 aisatsu あいさつ　挨拶
+　　礼貌问候 teinei ni aisatsu suru
+            ていねい　に　あいさつ　する
+            丁寧に　挨拶　する
+
