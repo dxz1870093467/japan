@@ -1,0 +1,163 @@
+1.居酒屋 izakaya いざかや　居酒屋
+　我和朋友四个人去了居酒屋 tomodachi yonin de izakaya ni ikimashita
+                      ともだち　よにん　で　いざかや　に　いきました
+                      友達　四人　で　居酒屋　に　行きました
+2.东 hiｇashi ひがし　東
+　朝东的公寓 higashi muki no manshon
+           ひがし　むき　の　マンション
+           東向き　の　マンション
+3.西 nishi にし　西
+　美国西海岸 amerika nishikaigan
+           アメリカ　にし　かいがん
+           アメリカ　西海岸
+4.南 minami みなみ　南
+　南部的窗户 minami no mado みなみ　の　まど
+                          南　の　窓
+5.北 kita きた　北
+　朝北 kitamuki きたむき　北向き
+6.饲养 kau かう　飼う
+　养狗 inuwokau  いぬをかう　犬を飼う
+7.猫 neko ねこ　猫
+　我家有一只猫 uchi ni wa neko ga ippiki imasu
+            うち　に　は　ねこ　が　いっぴき　います
+            うちには　猫が　一匹います
+8.狗 inu いぬ　犬
+　我想养一只狗 inu o kaitai いぬをかいたい　犬を飼いたい
+9.鸟 tori とり　鳥
+　鸟巢 tori no su とりのす　鳥の巣
+10.象 zo- ぞう　象
+　 白象 shiroi zo- しろいぞう　白い象
+11.蛇 hebi へび　蛇
+　　小蛇 chi-sai hebi ちいさいへび　小さい蛇
+12.熊  kuma くま　熊
+　　毛绒熊 kuma no nuigurumi 　くまのぬいぐるみ　
+                            　熊のぬいぐるみ
+13.熊猫 panda  パンダ
+　　熊猫宝宝 panda no akachan パンダの赤ちゃん
+14.薪水 kyu-ryo-  きゅうりょう　給料
+　　薪水低 kyu-ryo- ga hikui 　きゅうりょう　が　ひくい
+                            　給料が低い
+15.拒绝 kotowaru  ことわる　断る
+　　拒绝邀请 sasoi o kotowaru
+           さそい　を　ことわる
+           誘い　を　断る
+16.男朋友 kareshi  かれし　彼氏
+　　男朋友的父母 kareshi no ryo-shin
+              かれし　の　りょうしん
+              彼氏　の　両親
+17.女朋友 kanojo  かのじょ　彼女
+　　我和女朋友前几天吵架了 kanojo to senjitsu kenka o shite shimatta
+                      かのじょ　と　せんじつ　けんか　を　して　しまった
+                      彼女　と　先日喧嘩　を　して　しまった
+18.恋人 koibito  こいびと　恋人
+　　我有一个异地恋的恋人 enkyori renai-chu- no koibito ga imasu
+                    えんきょり　れんあいちゅう　の　こいびと　が　います
+                    遠距離　恋愛　中　の　恋人　が　います
+19.单身 dokushin どくしん　独身
+　　我现在单身 ima dokushindesu  いまどくしんです　今独身です
+20.对方 aite あいて　相手
+　　结婚对象 kekkon aite  けっこんあいて　結婚相手
+21.约会 de-to  デート
+　　第三次的约会 sankai-me no de-to
+              さんかいめ　の　デート
+              三回目の　デート
+22.交往 tsukiau つきあう　付き合う
+　　我有一个交往半年的男朋友 tsukiatte hantoshi no kareshi ga imasu
+                        つきあって　はんとし　の　かれし　が　います
+                        付き合って　半年　の　彼氏　が　います
+23.朋友 yu-jin ゆうじん　友人
+　　高中时代的朋友 ko-ko- jidai no yu-jin
+                こうこう　じだい　の　ゆうじん
+                高校　時代　の　友人
+24.报告 ho-koku ほうこく　報告
+　　我向朋友报告了我要结婚了 yu-jin ni kekkon o ho-koku shita
+                        ゆうじん　に　けっこん　を　ほうこく　した
+                        友人に　結婚を　報告　した
+25.午休 hiruyasumi  ひるやすみ　昼休み
+　　公司午休的时间 kaisha no hiruyasumi jikan
+                かいしゃ　の　ひるやすみ　じかん
+                会社の　昼休み　時間
+26.寂寞的 sabishi- さびしい　寂しい
+　　感觉有点寂寞 nanka sabishii なんかさびしい　なんか寂しい
+27.忍受 gaman  がまん　我慢
+　　忍受疼痛 itami o gaman suru
+          いたみを　がまんする
+          痛みを我慢する
+28.婴儿 akachan あかちゃん　赤ちゃん
+　　宝宝的名字 akachan no namae  赤ちゃん　の　なまえ（名前）
+29.孩子 kodomo こども　子供
+　　孩子的成长 kodomo no seicho- こどものせいちょう　
+            子供の成長
+30.大人 otona  おとな　大人
+　　长大后无法交到真正的朋友 otonaninaru to honto- no tomodachi wa dekinai
+                        おとなになる　と　ほんとう　の　ともだち　は　できない
+                        大人になる　と　本当の　友達　は　できない
+31.老年人 o toshiyori  お年寄り
+　　给老年人让座  otoshiyori ni seki o yuzuru
+               お年寄り　に　席を　ゆずる（譲る）
+32.小学生 sho-gakusei  しょうがくせい　小学生
+　　小学的回忆  sho-gakusei no koro no omoide
+              しょうがくせい　の　ころの　おもいで
+              小学生　の　頃の思い出
+33.中学生 chu-gakusei ちゅうがくせい　中学生
+　　中学生情侣 chu-gakusei kappuru 中学生カップル
+34.高中生 ko-ko-sei  こうこうせい　高校生
+　　我从今年开始成为了一名高中生 watashi wa kotoshi kara ko-ko-sei ni natta
+                           わたし　は　ことし　から　こうこうせい　になった
+                           私は　今年　から　高校生　になった
+35.大学生 daigakusei だいがくせい　大学生
+　　独居的大学生 hitorigurashi no daigakusei
+              ひとりぐらしの　だいがくせい
+              一人暮らし　の　大学生
+36.地图 chizu ちず　地図
+　　手机地图  sumaho chizu スマホ地図
+37.迟到 chikoku  ちこく　遅刻
+　　见面迟到 machiawase ni chikoku suru
+            まちあわせ　に　ちこく　する
+            待ち合わせ　に　遅刻　する
+38.擅长 tokui とくい　得意
+　　我不擅长人际关系 ningen kankei ga tokuide wanaidesu
+                にんげん　かんけい　が　とくいで　はないです
+                人間関係　が　得意で　はないです
+39.不擅长 nigate にがて　苦手
+　　我不擅长做家务 kaji ga nigatedesu
+                かじが　にがてです
+                家事が　苦手です
+40.成功 seiko- せいこう　成功
+　　我减肥成功了 daietto ni seiko- shita
+              ダイエット　に　せいこう　した
+              ダイエット　に　成功　した
+41.失败 shippai  しっぱい　失敗
+　　就算失败了也没有关系 shippai shite mo daijo-bu dakara
+                     しっぱい　して　も　だいじょうぶ　だから
+                     失敗　して　も　大丈夫　だから
+42.吵架 kenka けんか　喧嘩
+　　最近和一个朋友吵架了 saikin tomodachi to kenka o shite shimatta
+                     さいきん　ともだち　と　けんか　を　して　しまった
+                     最近　友達　と　喧嘩　を　して　しまった
+43.道歉 ayamaru  あやまる　謝る
+　　道歉比较好 ayamatta ho-ga i- あやまった　ほうがいい
+                                謝った　ほうがいい
+44.令人羡慕的 urayamashi- 羨ましい
+　　我羡慕我朋友的人生 yu-jin no jinsei ga urayamashi-desu
+                   ゆうじん　の　じんせい　が　うらやまし　です
+                   友人の人生が羨ましいです
+45.钢琴 piano ピアノ
+　　弹钢琴 pianowohiku ピアノをひく（不清楚）
+46.吉他 gita- ギター
+　　我想学吉他 gita- o naraitai
+            ギター　を　ならいたい
+            ギター　を　習いたい
+47.小提琴 baiorin  バイオリン
+　　小提琴课 baiorin no ressun 　バイオリンのレッスン
+48.调味料 cho-miryo- ちょうみりょう　調味料
+　　辣的调味料 karai cho-miryo- 辛い　調味料
+49.盐 shio しお　塩
+　　盐有点多  shio ga chotto o- sugita
+            しおが　ちょっと　おおすぎた
+            塩が　ちょっと　多過ぎた
+50.糖 sato- さとう　砂糖
+　　在大麦茶中加入糖 mugicha ni sato- o ireru
+                 むぎちゃ　に　さとう　を　いれる
+                 麦茶　に　砂糖　を　入れる
+
