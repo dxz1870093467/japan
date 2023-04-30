@@ -31,3 +31,143 @@
 　　发邮件 me-ru o okuru
         　メールを　おくる
         メールを　送る
+11.汽油 gasorin ガソリン
+　　汽油费 gosorin-dai ガソリンだい　ガソリン代
+12.露营 kyanpu  キャンプ
+　　露营用品 kyanpu yo-hin キャンプようひん　キャンプ用品
+13.盖子 futa  ふた　蓋
+　　锅盖 nabe no futa なべのふた　鍋の蓋
+14.谎言 uso  うそ　噓
+　　说谎 usowo tsuku  うそをつく　噓をつく
+15.敲，拍 tataku たたく　叩く
+　　敲桌子 tsukue o tataku  つくえをたたく　机を叩く
+16.努力 doryoku どりょく　努力
+　　无用的努力 mudana doryoku むだなどりょく　無駄な努力
+17.游泳池 pu-ru プール
+　　在游泳池里玩耍 pu-ru de asobu
+               プールで　あそぶ　
+               プールで遊ぶ
+18.赌博 gyanburu ギャンブル
+　　我及其讨厌赌博 watashi wa gyanburu ga daikiraidesu
+               わたしは　ギャンブル　が　だいきらいです
+               私はギャンブル　が　大嫌いです
+19.不肯能 fukano- ふかのう　不可能
+　　几乎不可能 fukano- ni chikai
+             ふかのう　に　ちかい
+             不可能　に　近い
+20.。。上升 agaru  あがる　上がる
+　　工资上升 kyu-ryo- ga agaru
+           きゅうりょうが　あがる
+           給料が上がる
+21.使。。上升 ageru あげる　上げる
+　 提升房间的问题 heya no ondo o ageru
+                へや　の　おんど　を　あげる
+                部屋の温度を上げる
+22.谣言，传言 uwasa うわさ　噂
+　　奇怪的谣言 hen na uwasa
+            へんな　うわさ
+            変な噂
+23.态度 taido たいど　態度
+　　态度差 taido ga warui
+         たいどが　わるい
+         態度が悪い
+24.庆祝 iwau  いわう　祝う
+　　庆祝生日 tanjo-bi o iwau
+           たんじょうびを　いわう
+           誕生日を祝う
+25.面试 mensetsu めんせつ　面接
+　　我周四有兼职的面试 mokuyo-bi ni baito no mensetsu ga arimasu
+                   もくようび　に　バイト　の　めんせつ　が　あります
+                   木曜日に　バイトの　面接　が　あります
+26.猪 buta ぶた　豚
+　　红烧肉 buta no kakuni ぶたのかくに　豚の角煮
+27.。。下降 sagaru  さがる　下がる
+　　租金下降 yachin ga sagaru
+           やちんが　さがる
+           家賃が下がる
+28.使。。下降 sageru さげる　下げる
+　　降低血压 ketsuatsu  o sageru
+           けつあつ　を　さげる
+           血圧を　下げる
+29.至少 sukunakutomo すくなくとも
+                    少なくとも
+   至少需要三个人 sukunakutomo san nin hitsuyo-da
+                少なくとも　三人　必要だ
+30.曲奇饼干 kukki- クッキー
+　　美味的曲奇饼干 oishi- kukki-
+                おいしい　クッキー
+                美味しい　クッキー
+31.腐烂 kusaru  くさる　腐る
+　　西瓜腐烂了 suika wa kusattemashita
+            スイカ　は　腐って　ました
+32.规则 ru-ru  ルール
+　　商业规则 bijinesu ru-ru  ビジネス　ルール
+33.完美 kanpeki かんぺき　完璧
+　　没有人是完美的 kanpekina hito nante inai
+                かんぺきな　ひと　なんた　いない
+                完璧な人　なんて　いない
+34.专家，专业的 puro プロ
+　　真不愧是专业的 sasuga puro
+                さすがプロ
+35.满满的 ippai いっぱい　いっぱい
+　　我吃饱了 onaka-ippaidesu
+           おなか　いっぱいです
+           お腹いっぱいです
+36.汗 ase あせ　汗
+　　察汗 ase o fuku
+　     　あせ　を　ふく
+        汗を拭く
+37.发觉 kidzuku きづく　気づく
+　　我根本没有注意到 mattaku kidzukimasendeshita
+                  まったく　きづき　ませんでした
+                  全く　気づき　ませんでした
+38.震惊 shokku 　ショック
+   我非常震惊 sugoku shokkudeshita
+             すごく　ショックでした
+39.熟人 shiriai　しりあい 　知り合い
+　　父母的熟人 oya no shiriai
+            おやの　しりあい
+            親の　知り合い
+40.演讲 supi-chi スピーチ
+　　演讲比赛 supi-chi kontesuto
+          スピーチ　コンテスト
+41.正好，正合适 cho-do ちょうど　
+   正好赶在约定的时间到达 cho-do yakusoku no jikan ni tsuku
+                      ちょうど　やくそく　の　じかん　に　つく
+                      ちょうど　約束　の　時間　に　着く
+42.归还 kaesu かえす　返す
+　　还钱  okane o kaesu
+        おかね　を　かえす
+        お金を　返す
+43.期待 kitai きたい　期待
+　　期待您的成功 go katsuyaku o kitai shite orimasu
+              ご　かつやく　を　きたい　して　おります
+              ご　活躍　を　期待　して　おります
+44.调查 cho-sa  ちょうさ　調査
+　　拜托侦探调查 tantei ni cho-sa o tanomu
+              たんてい　に　ちょうさ　を　たのむ
+              探偵　に　調査　を　頼む
+45.满意 manzoku まんぞく　満足
+　　我对现在的生活很满意 ima no seikatsu ni manzoku shite iru
+                    いま　の　せいかつ　　に　まんぞく　して　いる
+                    今の生活　に　満足　して　いる
+46.种类 shurui しゅるい　種類
+   各种种类的茶 iron na shurui no ocha
+              いろんな　しゅるい　の　おちゃ
+              いろんな　種類の　お茶
+47.途中 tochu- とちゅう　途中
+　　从学校回来的途中 gakko- kara kaeru tochu-
+                 がっこう　から　かえる　とちゅう
+                 学校　から　帰る　途中
+48.解决 kaiketsu  かいけつ　解決
+　　结局问题 mondai o kaiketsu suru
+           もんだいを　かいけつ　する
+           問題　を　解決　する
+49.特别 tokubetsu  とくべつ　特別
+　　特别的存在 tokubetsuna sonzai
+            とくべつな　そんざい
+            特別な存在
+50.准备 yo-i ようい　用意
+　　准备午餐 chu-shoku o yo-i suru
+           ちゅうしょくを　ようい　する
+           昼食を用意する
