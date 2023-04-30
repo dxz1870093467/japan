@@ -1,0 +1,161 @@
+1.战斗 tatakau たたかう　戦う
+　与看不见的敌人战斗 mienaiteki to tatakau
+                 みえないてき　と　たたかう
+                 見えない敵と戦う
+2.影响 eikyo- えいきょう　影響
+　不良影响 warui eikyo- わるい　えいきょう　悪い影響
+3.躲避 sakeru さける　避ける
+　你在躲着我么 watashinokoto sake teru no?
+            私のこと　避けてる　の？
+4.费用 hiyo- ひよう
+　婚礼费用 kekkonshiki no hiyo-
+         けっこんしき　の　ひよう
+         結婚式　の　費用
+5.消失 kieru きえる　消える
+　烟雾消失了 kemuri wa sora ni kieru
+            けむり　は　そら　に　きえる
+            煙　は　空　に　消える
+6.保守 mamoru まもる　守る
+　遵守规则 ru-ru o mamoru ルールを　まもる　ルールを守る
+7.气氛 fun　iki ふんいき　雰囲気
+　明亮的气氛 akarui fun iki あかるい　ふんいき
+                          明るい雰囲気
+8.怀疑 utagau うたがう　疑う
+　怀疑自己的眼睛 jibun no me o utagau
+              じぶん　の　めを　をうたがう
+              自分の目を疑う
+9.数字 su-ji すうじ　数字　
+　客观的数字 kyakkantekina su-ji
+           きゃっかんてきな　すうじ
+           客観的な数字
+10.复杂 fukuzatsu  ふくざつ　複雑
+　　复杂的心情 fukuzatsuna kimochi
+             ふくざつな　きもち
+             複雑な気持ち
+11.跳舞 odoru おどる　踊る
+　　我每天跳舞大约2个小时 mainichi nijikan kurai wa odotte imasu
+                      まいにちにじかん　くらい　は　おどって　います
+                      毎日二時間くらい　は　踊って　います
+12.想要 hoshi- ほしい　欲しい
+　　你想要什么生日礼物 tanjo-bipurezento nani ga hoshi-?
+                    たんじょうびプレゼント　なに　が　ほしい
+                    誕生日プレゼント何か欲しい
+13.硬的 katai かたい　硬い　
+　　硬的东西 kataimono かたいもの　硬い物
+14.柔软的 yawarakai やわらかい　柔らかい
+   身体柔软的 karadaga yawarakai
+            からだが　やわらかい
+            体が　柔らかい
+15.救护车 kyu-kyu-sha きゅうきゅうしゃ　救急車
+　　叫救护车 kyu-kyu-sha o yobu
+           救急車を呼ぶ
+16.烤 yaku やく　焼く
+　　烤蛋糕 ke-ki o yaku
+         ケーキ　を　焼く
+17.煮 yuderu  ゆでる　茹でる
+　　煮乌冬面 udon o yuderu
+           うどんをゆでる
+           うどんを茹でる
+18.炒 itameru いためる　炒める
+　　炒胡萝卜 ninjin o itameru
+           にんじんを　いためる
+           にんじんを炒める
+19.黑色 kuro くろ　黒
+　　黑色连衣裙 kuro no wanpi-su
+            くろのワンピース
+20.白色 shiro しろ　白い
+　　白色的运动鞋 shiro no suni-ka-
+              しろの　スニーカー
+              白いの　スニーカー
+21.红色 aka あか　赤
+　　红灯 akashingo- あかしんご　赤信号
+22.粉色 pinku ピンク
+　　粉色的衣服 pinku no fuku ピンクのふく　ピンクの服
+23.黄色 kiiro  きいろ　黄色
+　　黄色的布 kiiro no nuno
+           きいろ　の　ぬの　黄色の布
+24.盒子 hako  はこ　箱
+　　大盒子 ookina hako おおきなはこ　大きな箱
+25.邮票 kitte きって　切手
+　　贴邮票 kittewoharu きってをはる　切手を貼ろ
+26.为什么 naze なぜ　
+　　为什么呢？ nazena nodeshou なぜな　のでしょう
+27.。。找到。。发现 mitsukaru 見つかる
+　　戒指还没有找到 yubiwa  mada mitsukarimasen
+                ゆびは　まだ　みつかりません
+                指輪は　まだ　見つかり　ません
+28.找到。。发现。。 mitsukeru 見つける
+　　找到目标 mokuhyo-o mitsukeru
+           もくひょうを　みつける
+            目標を見つける
+29.宠物 petto ペット
+　　养宠物 petto o kau  ペットをかう　ペットを飼う
+30.数据 de-ta  データ
+　　检查数据 de-ta no chekku o suru
+          　データの　チェックをする
+31.贫穷的 mazushi- まずしい　貧しい
+　　贫穷的生活 mazushi- seikatsu
+            まずしい　せいかつ
+            貧しい　生活
+32.注意  aidia アイディア
+　　好注意 sutekina aidia  すてきなアイディア
+                          素敵あアイディア
+33.可怕的 kowai こわい　怖い
+　　我怕虫子 watashi mushi ga kowai ndesu
+           わたし　むしが　こわい　んです
+           私　虫が　怖い　んです
+34.捡 hirou ひろう　拾う
+　　我捡了40万 yonju-man hiroimashita
+            よんじゅうまん　ひろいました
+            四十万　拾いました
+35.故事 suto-ri- ストーリー
+　　恐怖的故事 kowai suto-ri-
+            怖いストーリー
+36.塑料 purasuchikku プラスチック
+　　塑料杯 purasuchikku no koppu プラスチックのコップ
+37.奶油 kuri-mu  クリーム
+　　奶油面包 kuri-mupan クリームパン
+38.傍晚 yu-gata ゆうがた　夕方
+　　周末的傍晚  nichiyo-bi no yu-gata
+              にちようびの　ゆうがた
+              日曜日の夕方
+39.神 kami かみ　神
+　　相信神 kami o shinjiru
+         かみをしんじる
+         神を信じる
+40.酱 so-su  ソース
+　　意大利面酱 pasutaso-su パスタソース
+41.女演员 joyu- じょゆう　女優
+　　我未来的梦想是女演员 watashi no sho-rai no yume wa joyu-desu
+                    わたしの　しょうらい　の　ゆめ　は　じょゆうです
+                    私の将来の夢は女優です
+42.皮肤 hada  はだ　肌
+　　皮肤漂亮的人 hada no utsukushi- hito
+             　はだ　の　うつくしい　ひと
+             肌の　美しい人
+43.弹 hiku  弾く　ひく
+　　弹钢琴 pianowohiku  ピアノを弾く　
+44.律师 bengoshi  べんごし　弁護士
+　　向律师咨询 bengoshi ni sodan suru
+            べんごし　に　そうだん　する
+            弁護士に　相談　する
+45.住宿 tomaru  とまる　泊まる
+　　住宿酒店 hoteru ni tomaru
+            ホテルに　とまる
+            ホテルに　泊まる
+46.知识  chishiki ちしき　知識
+　　各种知识 samazamana chishiki
+           さまざまな　ちしき
+           様々な　知識
+47.按钮 ，纽扣 botan ボタン
+　　衬衫纽扣 shatsu no botan
+           シャツの　ボタン
+48.日程 sukeju-ru  スケジュール
+　　上午的日程 gozen-chu- no sukeju-ru
+            ごぜんちゅうの　スケジュール
+            午前中のスケジュール
+49.拜访，访问 otozureru
+            おとずれる　訪れる
+50.拜访新居 shinkyo o otozureru
+          　しんきょを　おとずれる
+          新居を訪れる
