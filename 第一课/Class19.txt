@@ -159,3 +159,6 @@
 50.拜访新居 shinkyo o otozureru
           　しんきょを　おとずれる
           新居を訪れる
+51.称呼，呼喊 yobu よぶ　呼ぶ
+　　我可以称呼你elas吗？ erusa tte yonde i-?
+                     エルサ　って　呼んで　いい？
