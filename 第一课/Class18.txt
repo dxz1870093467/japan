@@ -1,0 +1,152 @@
+1.酱油 sho-yu  しょうゆ　醬油
+　日常用的酱油 fudan tsukai no sho-yu
+            ふだん　つかい　の　しょうゆ
+            普段使い　の　醬油
+2.番茄酱 kechappu  ケチャップ
+　给咋薯条淋上番茄酱 furaidopoteto ni kechappu o kakeru
+                 フライドポテト　に　ケチャップ　を　かける
+3.胡椒 kosho- こしょう　胡椒
+　柚子胡椒 yuzukosho- ゆずこしょ　柚子胡椒
+4.油 abura  あぶら　油
+　油炸食品用油 agemono-yo- no abura
+            あげものようの　あぶら
+            揚げ物用の油
+5.机会 chansu チャンス
+　好机会 i- chansu  いいチャンス
+6.正确的 tadashi ただし　正しい
+　正确的判断 tadashi- handan 正しい判断
+7.脏 kitanai きたない　汚い
+　他的房子很脏 kare no heya ga kitanai
+            かれ　の　へや　が　きたない
+            彼の部屋が汚い
+8.假如  moshi もし
+　假如有时光机的话。。 moshi taimumashi-n ga attara
+                   もし　タイムマシーン　が　あったら
+9.玩笑 jo-dan  じょうだん　冗談
+　开玩笑的话 jo-dan de itta kotoba
+           じょうだん　で　いった　ことば
+           冗談　で　言った　言葉
+10.大概 tabun たぶん　多分
+　　我觉得应该没有问题 tabun daijo-buda to omoimasu
+                   たぶん　だいじょうぶだ　と　おもいます
+                   多分　大丈夫だと　思います
+11.吵杂 urusai うるさい
+　　电视的声音很吵 terebi no oto ga urusai
+                テレビ　の　おとが　うるさい
+                テレビ　の　音が　うるさい
+12.圆的 marui まるい　丸い
+　　脸圆  kao ga marui  かおが　まるい　　顔が丸い
+13.厚的 atsui　あつい　厚い
+　　耳垂厚  mimitabu ga atsui  みみたぶが　あつい
+                            耳たぶが厚い
+14.薄的，淡的 usui うすい　薄い
+　　淡色 usui iro うすいいろ　薄い色
+15.1月 ichigatsu いちがつ　一月
+　　一月四号 ichigatsu yokka  いちがつよっか　一月四日
+16.二月 nigatsu にがつ　二月
+　　二月上旬 nigatsu no jo-jun 　にがつのじょうじゅん　二月の上旬
+17.三月 sangatsu さんがつ　三月
+　　三月下旬 sangatsu gejun さんがつげじゅん　三月下旬
+18.四月 shigatsu しがつ　四月
+　　四月十号 shigatsuto-ka  しがつとおか　四月十日
+19.五月 gogatsu ごがつ　五月
+　　五月五号 gogatsu itsuka  ごがついつか　五月五日
+20.六月 rokugatsu  ろくがつ　六月
+　　六月一号 rokugatsu tsuitachi ろくがつついたち　六月一日
+21.七月 shichigatsu しちがつ　七月
+　　七月二号 shichigatsu futsuka しちがつふつか　七月二日
+22.八月 hachigatsu　はちがつ　八月
+　　八月12号 hachigatsu ju- ni-nichi はちがつ　じゅうににち
+                                    八月㏫
+23.九月 kugatsu  くがつ　九月
+　　九月上旬 kugatsu no jo-jun くがつのじょうじゅん
+                            　九月の上旬
+24.十月 ju-gatsu  じゅうがつ　十月
+　　我去年十月份做的手术 sakunen ju-gatsu ni shujutsu o ukemashita
+                    さくねん　じゅうがつ　に　しゅじゅつ　を　うけました
+                    昨年　十月　に　手術　を　受けました
+25.十一月 ju-ichigatsu じゅういちがつ　十一月
+　　十一月10号 ju-ichigatsu tooka じゅういちがつ　とおか　
+                                十一月　十日
+26.十二月 ju-nigatsu じゅうにがつ　十二月
+　　十二月三十号 ju-nigatsu sanju-nichi 十二月さんじゅうにち
+27.放置  oku  おく　置く
+　　把钢琴放到客厅 piano o ribingu ni oku
+                ピアノを　リビング　に　おく
+                ピアノ　を　リビング　に　置く
+28.日期 hidzuke ひづけ　日付
+　　我总是买日期新的东西
+    watashi wa kanarazu hidzuke no atarashi- mono o kaimasu
+    わたしは　かならず　ひづけ　の　あたらしい　もの　を　かいます
+    私は　必ず　日付　の　新しい　もの　を　買います
+29.座位 zaseki  ざせき　座席
+　　前面的座位 mae no zaseki  まえの　ざせき　前の座席
+30.相信 shinjiru  しんじる　信じる
+　　相信直觉 chokkan o shinjiru ちょっかんをしんじる
+                              直感を信じる
+31.攀登 noboru のぼる　登る
+　　爬楼梯 kaidan o noboru かいだんを　のぼる
+                        　階段を登る
+32.喊 sakebu  さけぶ　叫ぶ
+　　大声喊 o-goe de sakebu おおごえ　で　叫ぶ
+                          大声で叫ぶ
+33.赢 katsu かつ　勝つ
+　　我想战胜现在的自己 ima no jibun ni kachitai
+                    いま　の　じぶん　に　かちたい
+                    今の　自分　に　勝ちたい
+34.输 makeru まける　負ける
+　　我绝对不会输 watashi wa zettai ni makenai
+             わたしは　ぜったい　に　まけない
+             私は絶対に負けない
+35.跳 tobu  とぶ　跳ぶ
+　　跳跳箱 tobibako o tobu とびばこをとぶ
+                          跳び箱を跳ぶ
+36.失去 ushinau  うしなう　失う
+　　因为新冠我丢了工作 korona no sei de shigot o ushinaimashita
+                   コロナ　の　せいでしごと　を　うしないました
+                   コロナ　の　せいで仕事　を　失いました
+37.参加 shusseki  しゅっせき　出席
+　　参加婚礼 kekkonshiki ni shusseki suru
+           けっこんしき　に　しゅっせき　する
+           結婚式　に　出席　する
+38.缺席 kesseki けっせき　欠席
+　　不参加婚礼 kekkonshiki o kesseki suru
+            けっこんしき　を　けっせき　する
+            結婚式　を　欠席　する
+39.后悔 ko-kai  こうかい　後悔　
+　　我一直都很后悔 zutto ko-kai shite imasu
+                ずっと　こうかい　して　います
+                ずっと　後悔　して　います
+40.眼泪 namida   なみだ　涙
+　　伤心的眼泪 kanashi- namida かなしい　なみだ
+                            悲しい涙
+41.情侣 kappuru カップル
+　　学生情侣 gakusei kappuru がくせい　カップル
+                            学生カップル
+42.答案 kotae こたえ　答え
+　　准确答案 seikakuna kotae
+           せいかくな　こたえ
+           正確な　答え
+43.嘴唇 kuchibiru くちびる　唇
+　　唇色 kuchibiru no iro くちびるのいろ
+                        　唇の色
+44.能量，活力 enerugi- エネルギー
+　　能量不足 enerugi- busoku  エネルギーぶそく
+                            エネルギー不足
+45.力量 chikara  ちから　力
+　　语言的力量 kotoba no chikara
+46.洞 ana あな　穴
+　　袜子上的洞 kutsushita no ana
+            くつした　の　あな
+            靴下の穴
+47.百分百 pa-sento パーセント
+　　100% hyaku pa-sento ひゃく　パーセント
+48.加拿大 kanada かなだ　カナダ
+　　我目前住在加拿大 genzai kanada ni sunde imasu
+                 げんざい　カナダ　に　すんで　います
+                 現在　カナダ　に　住んで　います
+49.吻 kisu  キス
+　　初吻 fa-sutokisu  ファースト　キス
+50.挽救 sukuu  すくう　救う
+　　挽救生命 inochi o sukuu いのちをすくう
+                        　命を救う
