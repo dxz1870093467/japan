@@ -1,0 +1,166 @@
+1.早上好 ohayo おはよう
+2.你好 kon nichiwa こんにちわ
+3.晚上好 konbanwa こんばんわ
+4.晚安 oyasuminasai おやすみなさい
+5.谢谢 arigato ありがと
+6.不好意思 sumimasen  すみません
+7.抱歉 gomen nasai ごめんなさい
+8.没关系 daijo- budesu 　だいじょうぶ　です　大丈夫です
+9.没问题 mondai arimasen　もんだいありません　問題ありません
+10.什么都可以 nan demo i-desu なんでもいいです
+11.我不知道 wakarimasen わかりません
+12.好的/了解 wakarimashita  わかりました
+13.不是 chigaimasu ちがいます　違います
+14.怎么办 do-shiyou どうしよう
+15.不行/不可以 dame だめ
+16.拜托了 onegaishimasu お願いします
+17.太棒了 sugoidesu ne! すごいですね
+18.太帅了 kakko i-desu ne  格好いいですね
+19.我饿了 onaka ga suita  お腹がすいた
+20.我渴了 nodo kawaita  のどかわいた　のど乾いた
+21.非常好吃 totemo oishi- desu  とても　美味しいです
+22.我累了 tsukareta 疲れた
+23.您中文说的真好 chu-gokugo ojo-zudesu ne
+                中国語お上手ですね
+24.初次见面，很高兴认识你 hajimemashite  はじめまして
+25.请多多关照　yorushiku onegaishimasu
+             よるしくお願いします
+26.彼此彼此 kochira koso こちらこそ
+27.好久不见 hisashiburi desune
+          久しぶり　ですね
+28.你最近好吗 genki desuka
+            元気ですか
+29.我挺好的 genkini shiteta yo
+         　元気に　してた　よ
+30.见到你真开心 aete ureshi- yo
+              会えて　うれしい　よ
+31.欢迎光临 irasshaimase
+           いらっしゃいませ
+32.您有没有预定 yoyaku shite imasu ka
+             予約　して　います　か
+33.我在网上预定了 netto de yoyaku shimashita
+               ネット　で　予約　しました
+34.请给我菜单 menyu- o kudasai
+            メニュー　を　ください
+35.请稍等一下 sho-sho- omachi kudasai
+            少々　お待ち　ください
+36.请给我这个 kore o kudasai
+            これをください
+37.您有什么忌口的吗  tabe rarenai mono wa arimasu ka
+                  食べ　られない　もの　は　あります　か？
+38.请给我一瓶啤酒 bi-ru ippon kudasai
+                ビール　一本　ください
+39.请帮我结账 okaikei o onegai shimasu
+            お会計　を　お願いします
+40.今天我请客 kyo- wa watashi ga gochiso- shimasu
+            今日　は　私が　ごちそう　します
+41.我们aa制吧 warikan de ikou
+            割り勘　で　いこう
+42.请给我收据 ryo-shu-sho o kudasai
+            領収書　を　ください
+43.请问水是免费的吗？ omizu wa muryo- desuka
+                  　お水　は　無料　ですか
+44.有宝宝椅吗  akachan-yo- no isu wa arimasu ka
+             赤ちゃん用　の　いす　は　ありますか
+45.我点的菜还没有上 tanonda ryo-ri ga mada kite imasen
+                 頼んだ　料理　が　まだ　きて　いません
+46.这个多少钱 kore wa ikuradesu ka
+            これは　いくらですか
+47.请再便宜点 mo-sukoshi yasuku shite kudasai
+            もう少し　安くて　して　ください
+48.我也是这么想的 watashi mo so- omou
+                私もそう思う
+49.不会吧 uso desho?  噓でしょ
+50.难以置信 shinji rarenai
+          信じられない
+51.我看玩笑的 jo-dan dayo
+            冗談だよ
+52.原来如此 naruhodo  なるほど
+53.真的吗 honto- desuka 本当ですか
+54.请再说一下 mo-ichido onegaishimasu
+            もう一度　お願いします
+55.等一下 chottomatte 　ちょっと待って
+56.我能问一下问题吗  chotto kiite i-?
+                  ちょっと　聞いていい
+57.怎么了  do-shitano
+          どうしたの
+58.我考虑一下 kangaete oku ne
+            考えて　おくね
+59.别说傻话了 baka iwanaide yo
+            バカ　言わないで　よ
+60.我想请你帮个忙 anatani onegai ga aruno
+                あなたに　お願い　が　あるの
+61.你有什么烦恼吗？ nanika komatte iru no ?
+                 何か　困っている　の？
+62.小菜一碟 rakusho- dayo
+          　楽勝　だよ
+63.糟糕 yabai  やばい
+64.我有点急事 chotto yo-ji deki chatte
+            ちょっと　用事でき　ちゃって
+65.辛苦了 otsukare sama desu
+         お疲れ様です
+66.太赞了，太棒了 i- ne いいね
+67.真有趣 omoshiroi ne 面白いね
+68.我喜欢你 anata ga sukidesu
+           あなた　が　好きです
+69.我爱你 aishi teru   愛してる
+70.我回来了 tadaima ただいま
+71.你回来了 okaeri nasai おかえり　なさい
+72.气死我了 mukatsuku ムカつく
+73.今天天气真好 kyo- wa tenki ga i-ne'
+              今日は　天気　が　いいね
+74.今天好热 kyo- wa totemo atsui
+           今日は　とても　暑い
+75.你等一下有事吗 kono ato nanka yo-ji aru
+                この　あと　なんか　用事　ある
+76.要不要一起吃午饭 issho ni hirugohan ikanai
+                 一緒に　昼ご飯　行かない
+77.我可以一起去吗 issho ni itte mo i-?
+               一緒に　行って　もいい
+78.真漂亮 kirei desune
+         きれいですね
+79.洗手间在哪 toire wa dokodesu ka
+            トイレ　は　どこですか
+80.你叫什么名字 onamae wa nandesuka
+              お名前　は　何ですか
+81.现在几点 ima nanji desuka
+           今何時　ですか
+82.我可以使用信用卡吗 kurejittoka-do wa tsukaemasu ka
+                   クレジットカード　は　使えます　
+83.什么时候可以 itsu demo i-desu
+              いつ　でも　いいです
+84.别介意/别担心 kinishinaide
+               気にしないで
+85.这是什么 kore wa nandesuka
+           これは何ですか
+86.吓我一跳 bikkuri shita
+           びっくりした
+87.给您添麻烦了 osewa ninari mashita
+              お世話になりました
+88.还可以 ma-ma- desu
+         まあまあです
+89.您先请 osakini do-zo
+         お先に　どうぞ
+90.这是我的一点心意 kore wa hon no kimochi desu
+                 これは　ほんの　気持ち　です
+91.别担心 shinpai shinaide
+         心配　しないで
+92.你不用这么客气了 son nani ki wo tsukawanakute i-desuyo
+                 そん　なに　き　を　使わなくて　いいですよ
+93.我先走了 osakini shitsurei shimasu
+           お先に　失礼　します
+94.您别客气 go enryo naku
+           ご遠慮なく
+95.慢走 ki o tsukete kaette ne
+       気を　つけて　帰って　ね
+96.我开动了 itadakimasu
+           いただきます
+97.多谢你的款待  gochiso-sama deshita
+                ごちそう　さま　でした
+98.真小气 zuibun kechida ne
+         ずいぶん　ケチ　だね
+99.别着急 aseranaide
+         あせらないで
+100.让你久等了 omatase shimashita
+             お待たせ　しました
+
