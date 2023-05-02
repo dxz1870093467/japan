@@ -1,0 +1,157 @@
+1.请给我水 mizu o kudasai
+          水　を　ください
+2.请给我茶 ocha wo kudasai
+          お茶を　ください
+3.请给我咖啡 ko-hi- o kudasai
+           コーヒー　を　ください
+4.请给我果汁 ju-su o kudasai
+            ジュース　を　ください
+5.外币兑换处在哪里啊 ryo gaejo wa dokodesu ka
+                  両替所　は　どこですか
+6.厕所在哪里 toire wa dokodesu ka
+            トイレは どこですか
+7.免税店在哪里啊 menzei-ten wa dokodesu ka
+              免税店　は　どこですか
+8.在这边 achira desu
+        あちらです
+9.请出示您的机票和护照 chiketto to pasupo-to o onegaishimasu
+                    チケット　と　パスポート　を　お願いします
+10.不好意思 请在说一遍 sumimasen mo-ichido onegaishimasu
+                    すみません　もう一度　お願いします
+11.你想去哪里 doko e ikitaidesu ka
+            どこ　へ　行きたいですか
+12.我想去涩谷 shibuya ni ikitaidesu
+            渋谷　に　行きたいです
+13.我想去新宿 shinjuku ni ikitaidesu
+            新宿　に　行きたいです
+14.售票出在哪里呢 kippu uriba wa dokodesu ka
+               切符　売り場　は　どこですか
+15.自动售票机在哪里？ jido- kenbaiki wa dokodesu ka
+                   自動券売機　は　どこですか
+16.还有再早一点的车吗 motto hayai no wa arimasu ka
+                   もっと　早い　のは　ありますか
+17.还有在晚一点的车吗 motto osoi no wa arimasu ka
+                   もっと　遅い　のは　ありますか
+18.几点发车啊  nanji ni shuppatsu shimasu ka
+             何時　に　出発　します　か
+19.几点到啊 nanji ni tsukimasu ka
+          何時　に　着きますか
+20.请问怎么去京东呢 kyo-to wa do- yatte ikimasu ka
+                 京都　は　どう　やって　行きますか
+21.我没有赶上电车 densha ni noriokuremashita
+               電車に　乗り遅れ　ました
+22.我买错车票了 machigatta kippu o katte shimaimashita
+              間違った　切符　を　買って　しまいました
+23.我可以退票吗 kippu no haraimodoshi wa dekimasu ka
+              切符　の　払い戻し は　できます　か
+24.我把车票丢了 kippu o nakushimashita
+              切符を　なくしました
+25.麻烦到品川prince hotel shinagawapurinsu hoteru made onegaishimasu
+                       　品川　プリンス　ホテル　まで　お願いします
+26.我在这里下车就可以了 koko de i-desu
+                    ここでいいです
+27.我在这里下车 koko de orimasu
+              ここで　降ります
+28.多少钱 ikuradesu ka
+         いくらですか
+29.请给我发票 ryo-shu-sho o kudasai
+            領収書を　ください
+30.对不起，麻烦快一点 sumimasen isoide kudasai
+                   すみません　急いで　ください
+31.我预约了 yoyaku shimashita
+           予約　しました
+32.我要办理入住 chekkuin onegaishimasu
+              チェックイン　お願いします
+33.我要办理退房 chekkuauto onegaishimasu
+              チェックアウト　お願いします
+34.餐厅在几楼 resutoran wa nankaidesu ka
+            レストラン　は　何階　ですか
+35.有投币式洗衣机吗 koinrandori- wa arimasu ka
+                 コインランドリー　は　ありますか
+36.有打印机吗 purinta- wa arimasu ka
+            プリンター　は　ありますか
+37.早餐收费吗 cho-shoku wa yu-ryo- desu ka
+            朝食　は　有料　ですか
+38.早餐几点到几点 cho-shoku wa najikara nanjimade desu ka
+               朝食　は　何時から　何時まで　ですか
+39.入住/退房时间是几点啊 chekkuin chekkuauto wa nanji desuka
+                     チェックイン／チェックアウト　何時　ですか
+40.请帮我换新的床单 atarashi- shi-tsu ni kaete kudasai
+                 新しい　シーツ　に　換えて　ください
+41.请帮我换个毛巾 atarashi taoru ni kaete kudasai
+                新しい　タオル　に　換えて　ください
+42.电视坏了 terebi ga kowarete imasu
+           テレビ　が　壊れて　います
+43.电吹风坏了 doraiya- ga kowarete imasu
+            ドライヤー　が　壊れて　います
+44.欢迎光临 irasshaimase
+           いらっしゃいませ
+45.打扰一下 （叫店员） sumimasen
+                    すみません
+46.请给我看这个 kore o misete kudasai
+                これ　を　見せて　ください
+47.我要这个 kore kudasai
+           これ　ください
+48.我可以试穿吗 shichaku shite mo i-desu ka
+              試着　　して　も　いいですか
+49.有没有稍微大一点的呢 mo-sukoshi o-ki- no wa arimasu ka
+                    もう少し　大きい　のは　あります　か
+50.有没有稍微小一点的呢 mo-sukoshi chi-sai no wa arimasu ka
+                    もう少し　小さい　のは　あります　か
+51.还有其他颜色吗 hoka no iro wa arimasen ka
+               他の色は　ありませんか
+52.我在想想  chotto kangaemasu
+            ちょっと　考えます
+53.这个多少钱 kore wa ikuradesu ka
+            これは　いくらですか
+54.太贵了 taka sugimasu
+         高　すぎます
+55.能给我打折吗 waribiki shite moraemasen ka
+              割引　して　もらえません　か
+56.我可以使用信用卡吗 kurejittoka-do wa tsukaemasu ka
+                  クレジットカード　は　使えます　か
+57.我用现金支付 genkin de shiharaimasu
+              現金　で　支払います
+58.您要加热这个吗  kochira atatamemasu ka
+                こちら　温めます　か
+59.您需要袋子吗 fukuro wa do- shimasu ka
+              袋　は　どう　します　か
+60.要，谢谢 hai onegaishimasu
+           はい　お願いします
+61.不，不用 ie kekko-desu
+           いえ　結構です
+62.一共要800日元 o kaikei happyaku-en ni narimasu
+               お会計　八百円　に　なります
+63.给您（把钱提给店员） hai  はい
+64.请问几位 nanmeisama desu ka
+           何名様　ですか
+65.两个人 futari desu 二人です
+66.三个人 san nin desu  三人です
+67.有什么推荐的吗  osusume wa nandesu ka
+                オススメ　は　何ですか
+68.我要这个 kore o kudasai  これをください
+69.我要炸鸡汉堡套餐  chikinba-ga- no setto kudasai
+                  チキンバーガー　の　セット　ください
+70.我要一份拉面 ra-men o hitotsu kudasai
+              ラーメンを一つ　ください
+71.您要喝点什么 o nomimono wa nani ni nasaimasu ka
+              お　飲み物　は　何　に　なさいます　か
+72.我要乌龙茶 u-ron cha , onegaishimasu
+            ウーロン茶　、　お願いします
+73.我要三杯生啤酒 nama bi-ru mittsu    onegaishimasu
+                生ビール　みっつ　お願いします
+74.我不要加冰 ko-ri nuki de onegaishimasu
+            氷　抜き　で　お願いします
+75.您在这里用餐吗 kochira de o meshiagaridesu ka
+                こちら　で　お召し上がりです　か？
+76.是的 hai
+77.不，我要外带 ie, teikuauto de
+              いえ　テイクアウト　で
+78.能帮我拍张照片吗 shashin o totte itadakemasen ka
+                 写真　を　撮って　いただけません　か
+79.我要两张票 chiketto o ni-mai kudasai
+            チケット　を　二枚　っください
+80.我要两张成人票 otona ni-mai kudasai
+                大人　二枚　ください
+
+
