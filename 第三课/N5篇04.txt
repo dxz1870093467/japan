@@ -1,0 +1,50 @@
+1.全部 zenbu ぜんぶ　全部
+2.三 san さん　三
+3.取，拿 toru とる　取る
+4.两个 futatsu ふたつ　二つ
+5.变成，成为 naru なる　なる
+6.然而，但是 （接续词）shikashi  しかし
+7.夏天 natsu なつ　夏
+8.小的 chi-sai ちいさい　小さい
+9.困扰，烦恼 （动词） komaru こまる　困る
+10.二 ni に
+11.一个 hitotsu ひとつ　一つ
+12.哪里 （代名词）asoko あそこ　
+13.十 ju- じゅう　十
+14.有时 （副词） tokidoki ときどき　時々
+15.初次 hajimete はじめて　初めて
+16.那里，那个 atchi あっち
+17.周六 doyo-bi　どようび　土曜日
+18.行李 nimotsu にもつ　荷物
+19.一 ichi いち　一
+20.鸡肉 toriniku とりにく　鶏肉
+21.里面 naka なか　中
+22.没关系，没有问题 daijo-bu だいじょうぶ　大丈夫
+23.音乐 ongaku おんがく　音楽
+24.弹 hiku ひく　ひく
+25.便当 bento- べんとう　弁当
+26.圆珠笔 bo-rupen　ボールペン
+27.猪肉 butaniku ぶたにく　豚肉
+28.方便的 （形容动词） benri べんり　便利
+29.周日 nichiyo-bi にちようび　日曜日
+30.画 e え　絵
+31.逐渐 （副词）dandan だんだん　
+32.口袋 potetto ポケット
+33.玩耍 asobu あそぶ　遊ぶ
+34.帽子 bo-shi ぼうし　帽子
+35.想要 （形容词） hoshi- ほしい　欲しい
+36.漂亮的 （形容动词） kirei きれい　綺麗
+37.什么 nani なに　何
+38.八个 yattsu やっつ　八つ
+39.后面，之后 ato あと　後
+40.铅笔 enpitsu えんぴつ　鉛筆
+41.回答 （动词） kotaeru こたえる　答える
+42.山 yama やま　山
+43.写 （动词）kaku かく　書く
+44.银行 ginko- ぎんこう　銀行
+45.两个人 futari ふたり　二人
+46.傍晚 yu-gata ゆうがた　夕方
+47.电影院 eigakan えいがかん　映画館
+48.休息 yasumu やすむ　休む
+49.做（某事）（动词） yaru やる
+50.药 kusuri くすり　薬

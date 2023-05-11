@@ -47,4 +47,54 @@
 48.女性 on na  おんな　女
 49.多云 （動詞）kumoro くもろ　曇ろ
 50.茶色、褐色 chairo ちゃいろ　茶色
-51.
+51.字典 jisho じしょ　辞書
+52.很多 （名，形容动词）takusan たくさん
+53.池子，池塘 ike いけ　池
+54.电视 terebi テレビ
+55.哪位 donata どなた　
+56.哪一个 dotchi どつち
+57.工作 hataraku はたらく　働く
+58.结婚 kekkon けっこん　結婚
+59.七 shichi/nana しち／なな
+60.热闹的 nigiyaka にぎやか　賑やか
+61.吸，吸入 （动词）suu すう　吸う
+62.发出，拿出 dasu だす　出す
+63.周三 suiyo-bi すいようび　水曜日
+64.鱼 sakana さかな　魚
+65.秋天 aki あき　秋
+66.一千日元 sen en 千円
+67.花瓶 kabin かびん　花瓶
+68.勺子 supu-n スプーン
+69.轻的 karui かるい　軽い
+70.大使馆 taishikan たいしかん　大使館
+71.哪里，哪个东西 （代名词）achira あちら　
+72.谁 dare だれ　誰
+73.本周 konshu- こんしゅう　今週
+74.外国人 gaikokujin がいこくじん　外国人
+75.开着 （动词） aku あく　开く
+76.打开 akeru あける　開ける
+77.跑 （动词）hashiru はしる　走る
+78.起床 （动词）okiru おきる　起きる
+79.说话 （动词）hanasu はなす　話す
+80.的士，出租车 takushi- タクシー
+81.哪里，哪一个 （代名词）dochira どちら
+82.医生 isha いしゃ　医者
+83.角落 kado かど　角
+84.钱包 saifu さいふ　財布
+85.八 hachi はち　八
+86.图书馆 toshokan としょかん　図書館
+87.早的 （形容词）hayai はやい　早い
+88.汉字 kanji かんじ　漢字
+89.糖 sato- さとう　砂糖
+90.年月，年龄 toshi とし　年
+91.春天 haru はる　春
+92.风 kaze かぜ　風
+93.高的，贵的 takai たかい　高い
+94.这个 kore これ　
+95.洗衣服，洗条 sentaku せんたく　洗濯
+96.明亮的 akarui あかるい　明るい
+97.给（某人）东西 ageru あげる　
+98.字典 jibiki じびき　字引
+99.二十号 hatsuka はつか　二十日
+100.汽车 jido-sha  じどうしゃ　自動車
+101.热的 atsui あつい　熱い
