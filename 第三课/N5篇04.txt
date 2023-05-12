@@ -48,3 +48,53 @@
 48.休息 yasumu やすむ　休む
 49.做（某事）（动词） yaru やる
 50.药 kusuri くすり　薬
+51.晚饭 yu-han ゆうはん　夕飯
+52.上衣 uwagi うわぎ　上着
+53.今晚 konban こんばん　今晩
+54.桌子 te-buru テーブル
+55.英语 eigo えいご　英語
+56.低的，矮的 hikui ひくい　低い
+57.一天 ichinichi いちにち　一日
+58.黑色的 kuroi くろい　黒い
+59.车票 kippu きっぷ　切符
+60.温暖的 atatakai あたたかい　暖かい
+61.攀登 noboru のぼる　登る
+62.邮局 yu-binkyoku　　ゆうびんきょく　郵便局
+63.裤子 zubon ズボン
+64.周二 kayo-bi　かようび　火曜日
+65.这里，这个 kochira こちら
+66.人 hito ひと　人
+67.日语　にほんご　日本語
+68.更加 motto もっと
+69.昨晚 yu-be ゆうべ　昨夜
+70.头 atama あたま　頭
+71.自我介绍 jiko sho-kai じこしょうかい　自己紹介
+72.驾驶 （动词） unten suru  うんてん　する　運転する
+73.你 anata あなた
+74.上午 gozen 午前
+75.站 （动词）tatsu たつ　立つ
+76.给（某人看，展示）miseru みせる　見せる
+77.吵闹的 urusai うるさい　烦い
+78.医院 byo-in びょういん　病院
+79.关闭 shimeru しめる　閉める
+80.短的 mijikai みじかい　短い
+81.二号，二日 futsuka ふつか　二日
+82.左 hidari ひだり　左
+83.休息 yasumi　やすみ　休み
+84.西 nishi にし　西
+85.物品，东西 mono もの　物
+86.右 migi みぎ　右
+87.慢的，晚的 osoi おそい　遅い
+88.哥哥 ani あに　兄
+89.南 minami　みなみ　南
+90.擅长 jo-zu じょうず　上手
+91.商店 mise みせ　店
+92.笔记 no-to ノート
+93.有名 （形容动词）yu-mei ゆうめい　有名
+94.卖 （卖（东西））uru うる　売る
+95.时钟 tokei とけい　時計
+96.水 mizu みず　水
+97.便宜 yasui やすい　安い
+98.伯母，阿姨 obasan おばさん
+99.问题 mondai もんだい　問題
+100.周四 mokuyo-bi 木曜日
