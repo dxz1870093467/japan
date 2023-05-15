@@ -1,0 +1,45 @@
+1.家 uchi うち　家
+2.不好的，坏的 warui わるい　悪い
+3.少的 sukunai すくない　少ない
+4.国家 kuni くに　国
+5.消失的 kieru きえる　消える
+6.那个 sono その　
+7.好的 ii いい　
+8.不 iie いいえ　
+9.讨厌 iya いや　嫌
+10.房间 heya へや　部屋
+11.每天早上 maiasa まいあさ　毎朝
+12.外面 soto そと　外
+13.脏的 kitanai きたない　汚い
+14.那里，那个 sochira そちら
+15.远的 to-i とおい　遠い
+16.乌冬面 udon うどん
+17.还未 mada まだ
+18.道路 michi みち　道
+19.页，页数 pe-ji ページ
+20.筷子 ohashi おはし　お箸
+21.院子 niwa にわ　庭
+22.拉面 ra-men ラーメン
+23.书架 hondana ほんだな　本棚
+24.入口 iriguchi いりぐち　入口
+25.学习 gakko- がっこう　学校
+26.事实，真的 （名，形容动词） honto- ほんとう　本当
+27.饭，米饭 gohan ごはん　ご飯
+28.韩国 kankoku かんこく　韓国
+29.家庭主妇 shufu しゅふ　主婦
+30.厕所 toire トイレ
+31.动物 do-butsu どうぶつ　動物
+32.在，有 iru いる　居る
+33.中国 chu-goku 　ちゅうごく　中国
+34.动物 petto ペット
+35.项链 nekkuresu ネックレス
+36.这个 kono この
+37.黑色 kuro くろ　黒い
+38.儿童 kodomo こども　子供
+39.一个人 hitori ひとり　一人
+40.一百个人  hyakunin ひゃくにん　百人
+41.恐怖的 kowai こわい　怖い
+42.咖喱 kare- カレー
+43.最近 saikin さいきん　最近
+44.选手 senshu せんしゅ　選手
+45.需要 （动词） iru いる　要る

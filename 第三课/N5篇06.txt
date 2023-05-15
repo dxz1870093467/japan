@@ -46,3 +46,55 @@
 46.墨镜 sangurasu サングラス
 47.邮筒 posuto ポスト
 48.绿色 midori みどり　緑
+49.收音机 rajio ラジオ
+50.药店 kusuriya  くすりや　薬屋
+51.眼睛 me め　目
+53.迎接 （动词） mukaeru むかえる　迎える
+54.足球 sakka- サッカー
+55.无聊的 tsumaranai つまらない
+56.火柴 matchi マッチ
+57.妻子 tsuma　つま　妻
+58.香蕉 banana バナナ
+59.村子 mura むら　村
+60.牛肉 gyu-niku ぎゅうにく　牛肉
+61.降（雨，雪等）furu ふる　降る
+62.经过，穿过 wataru わたる　渡る
+63.每晚 maiban まいばん　毎晩
+64.雨 ame あめ　雨
+65.空气 ku-ki くうき　空気
+66.味增汤 misoshiru みそしる　味噌汁
+67.牛 ushi うし　牛
+68.蛋糕店 ke-ki-ya ケーキや　ケーキ屋
+69.咖啡厅 kafe カフェ
+70.各位，大家 minasan みなさん　皆さん
+71.啤酒 bi-ru ビール
+72.五个 itsutsu いつつ　五つ
+73.手套 tebukuro てぶくろ　手袋
+74.笔直，径直 massugu まっすぐ　真っ直ぐ
+75.商场 depato デパート
+76.下个月 raigetsu らいげつ　来月
+77.咖啡 ko-hi- コーヒー
+78.弱小的 yowai よわい　弱い
+79.孙子，孙女 mago 孫
+80.夜晚 yoru よる　夜
+81.旅馆，酒店 hoteru ホテル
+82.黄色的 kiiroi きいろい　黄色い
+83.马 uma うま　馬
+84.工作，任职 tsutomeru つとめる　勤める
+85.六个 muttsu むっつ　六つ
+86.发表 happyo- suru はっぴょうする　発表する
+87.旧的 furui ふるい　古い
+88.父亲 oto-san おとうさん　お父さん
+89.按钮，纽扣 botan ぼたん　ボタン
+90.克 guramu グラム
+91.肚子 onaka おなか　お腹
+92.三个 mittsu みっつ　三つ
+93.每年 maitoshi まいとし　毎年
+94.动漫 anime　アニメ
+95.后面，后方 ushiro うしろ　後ろ
+96.尺码 saizu サイズ
+97.难对付的人或者事、不擅长 （名，形容动词）nigate にがて　苦手
+98.难的 muzukashi- むずかし　難しい
+99.薄的 usui うすい　薄い
+100.外套 ko-to コート
+101.拉面店 ra-men-ya ラーメン屋

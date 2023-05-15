@@ -1,0 +1,99 @@
+1.经常 itsumo いつも
+2.汤 su-pu スープ
+3.片假名 katakana かたかな　片仮名
+4.平假名 hiragana ひらがな　平仮名
+5.糖 ame あめ　飴
+6.寿喜锅 sukiyaki すきやき　すき焼き
+7.下周 raishu- らいしゅう　来週
+8.十日，十号 tooka とおか　十日
+9.调查 shiraberu しらべる　調べる
+10.一 ichi いち　一
+11.等待 （动词）matsu まつ　待つ
+12.对面，对方 muko- むこう　向こう
+13.相扑 sumou すもう　相撲
+14.明年 rainen らいねん　来年
+15.上面 ue うえ　上
+16.寺庙 otera おてら　お寺
+17.城镇，闹市区 machi まち　町
+18.高中生 ko-ko-sei こうこうせい　高校生
+19.机场 ku-ko- くうこう　空港
+20.班级 kurasu クラス
+21.新年 shinnen しんねん　新年
+22.超市 su-pa- スーパー
+23.文章 bunsho- ぶんしょう　文章
+24.考试，测验 tesuto テスト
+25.如何 do- どう
+26.洗 （动词） arau あらう　洗う
+27.狗 inu いぬ　犬
+28.哥哥 （敬称） oni-san おにいさん　お兄さん
+29.座位 seki せき　席
+30.制作 tsukuru つくる　作る
+31.餐厅 resutoran レストラン
+32.出口 deguchi でぐち　出口
+33.每天 mainichi 毎日
+34.现在 ima いま　今
+35.那里 soko そこ　
+36.毕业 sotsugyo- そつぎょう　卒業
+37.遇见 （动词） deau であう　出会う
+38.交流 ko-ryu- suru 交流する
+39.运动 supo-tsu スポーツ
+40.曲奇 kukki- クッキー
+41.游戏 ge-mu ゲーム
+42.舞蹈 dansu ダンス
+43.有 aru ある　
+44.简单 kantan かんたん　簡単
+45.发觉，察觉 （动词）kidzuku きづく　気づく
+46.温热的 nurui ぬるい　温い
+47.领带 nekutai 　ネクタイ
+48.三号，三日 mikka みっか　三日
+49.太阳 taiyo- たいよう　太陽
+50.橘子 mikan みかん　
+51.每周 maishu- まいしゅう　毎週
+52.树 ki き　木
+53.姐姐 ane あね　姉
+54.颜色 iro いろ　色
+55.六号 muika むいか　六日
+56.祖父 （谦称） sofu そふ　祖父
+57.祖母 （谦称） sobo そぼ　祖母
+58.接着，然后 soshite そして
+59.姐姐 （敬称） one-san おねえさん　お姉さん
+60.走路 aruku あるく　歩く
+61.弯曲、转弯 magaru まがる　曲る
+62.每个人，大家 min na みんな　
+63.休息日，假日 きゅうじつ　休日
+64.又一个，在一次 mo-ichido もういちど もう一度
+65.送，发送 okuru おくる　送る
+66.穿 kiru きる　着る
+67.举行 okonau おこなう　行う
+68.又，再 （副词） mata また
+69.生活 seikatsu せいかつ　生活
+70.床 beddo ベッド
+71.复印 kopi- suru コピーする
+72.书桌 tsukue つくえ　机
+73.公司 kaisha かいしゃ　会社
+74.脱掉 （动词）nugu ぬぐ　脱ぐ
+75.孤单的，寂寞的 sabishi- さびしい　寂しい
+76.书 hon ほん　本
+77.每个月 maitsuki まいつき　毎月
+78.所以 （接续词）dakara だから　
+79.空调 eakon エアコン
+80.建筑物 biru ビル
+81.已经 （副词）mo-　もう
+82.笨拙的 名，形容动词 heta へた　下手
+83.笔 pen ペン
+84.高尔夫 gorufu ゴルフ
+85.飞 （动词） tobu とぶ　飛ぶ
+86.学习 （动词） benkyo- suru  べんきょうする　勉強する
+87.妹妹 imo-to いもうと　妹
+88.打扫 so- ji suru そうじする　掃除する
+89.停止 tomaru とまる　止まる
+90.打电话 denwa wo　kakeru でんわをかける　電話をかける
+91.搬运 hakobu はこぶ　運ぶ
+92.棒球 yakyu- やきゅう　野球
+93.到达，抵达 tsuku つく　着く
+94.旅行 ryoko りょこ　旅行
+95.前面 mae まえ　前
+96.加入，放入 ireru いれる　入れる
+97.相同 onaji 同じ　おなじ
+98.冰箱 reizo-ko れいぞうこ　冷蔵庫
+99.洗手间 otearai おてあらい　お手洗い
