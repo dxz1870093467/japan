@@ -1,0 +1,100 @@
+1.而且 （接续词） soreni それに　
+2.倒塌，倒下 taoreru たおれる　倒れる
+3.完全（不） 副词 zenzen ぜんぜん　全然
+4.开心的 ureshi- うれしい　嬉しい
+5.时机，场合 baai ばあい　場合
+6.传达，转告 动词 tsutaeru つたえる　伝える
+7.神社 jinja じんじゃ　神社
+8.战争 senso- せんそう　戦争
+9.习惯 动词 nareru なれる　慣れる
+10.好的，是的　感叹词 un うん　
+11.人口 jinko- じんこう　人口
+12.浅的 asai あさい　浅い
+13.住址 ju-sho じゅうしょ　住所
+14.商量 so-dan suru　そうだんする　相談する
+15.干燥 动词 kawaku かわく　乾く
+16.天黑，入夜 kureru くれる　暮れる
+17.全部，完成 副词 sukkari すっかり
+18.养育，培养 动词 sodateru そだてる　育てる
+19.调查 shiraberu しれべる　調べる
+20.相似 niru にる　似る
+21.比较 kuraberu くらべる　比べる
+22.商品，货物 shinamono しなもの　品物
+23.哭泣 naku なく　泣く
+24.前台，接待处 uketsuke うけつけ　受付
+25.铃声，电铃 beru ベル
+26.叫醒 动词 okosu おこす　起こす
+27.不久，片刻 副词 shibaraku しばらく
+28.柔道 ju-do- じゅうどう　柔道
+29.持续 动词 tsudzuku つづく　続く
+30.牛排 sute-ki ステーキ
+31.说明 setsumei せつめい　説明
+32.叶子 ha は　葉
+33.交通工具 norimono のりもの　乗り物
+34.通知，告诉 动词 shiraseru しらせる　知らせる
+35.高于，超过 ijo- いじょう　以上
+36.味道 aji あじ　味
+37.云 kumo くも　曇
+38.病愈 naoru なおる　治る
+39.座位 seki せき　席
+40.睡过头 nebo- ねぼう　寝坊
+41.他们 karera かれら　彼ら
+42.抓住 动词 tsukamaeru つかまえる　捕まえる
+43.失败 shippai しっぱい　失敗
+44.气体，瓦斯 gasu ガス
+45.火灾 kaji かじ　火事
+46.换乘 norikaeru のりかえる　乗り換える
+47.女性 josei じょせい　女性
+48.踩，踏 fumu ふむ　踏む
+49.情况，理由 tsugo- つごう　都合
+50.港口 minato みなと　港
+51.玻璃 garasu ガラス
+52.台风 taifu- たいふう　台風
+53.那样，那么 副词 sorehodo それほど　
+54.类型 taipu タイプ
+55.接下来，从今以后 korekara これから
+56.通勤 kayou かよう　通う
+57.镜子 kagami かがみ　鏡
+58.热情，热心 nesshin ねっしん　熱心
+59.充分，足够 ju-bun じゅうぶん　十分
+60.准备 动词 shitakusuru したくする　支度する
+61.欺负，欺凌 动词 ijimeru いじめる　
+62.使...停止 名词 tomeru とめる　止める
+63.大米 kome こめ　米
+64.科学 kagaku かがく　科学
+65.大学生 daigakusei だいがくせい　大学生
+66.形状 katachi かたち　形
+67.亚洲 ajia アジア
+68.美丽的 utsukushi- うつくしい　美しい
+69.卖场，销售处 uriba うりば　売り場
+70.明确，清楚 副词 hakkiri はっきり　
+71.睡眠，睡觉 nemuru ねむる　眠る
+72.住宿 tomaru とまる　泊まる
+73.重要的，慎重 daiji だいじ　大事
+74.接受 动词 ukeru うける　受ける
+75.出席，参加 shusseki suru しゅっせきする　出席する
+76.咬，咀嚼  kamu かむ　嚙む
+77.拥挤 komu こむ　込む
+78.装饰 动词 kazaru かざる　飾る
+79.朝向，面向 动词 mukau むかう　向かう
+80.立体声 名词 sutereo ステレオ
+81.大概，大致 副词 daitai だいたい　大体
+82.沾湿 动词  nureru ぬれる　濡れる
+83.沙子 suna すな　砂
+84.送到，送达 动词  todokeru とどける　届ける
+85.出院 taiin たいいん　退院
+86.硬的 katai かたい　硬い
+87.扔掉 动词 suteru すてる　捨てる
+88.迎接 mukaeru むかえる　迎える
+89.兴趣，爱好 shumi しゅみ　趣味
+90.背面，幕后 ura うら　裏
+91.回答，答案 kotae こたえ　答え
+92.大概，大体 副词 taitei たいてい　大抵
+93.部长 bucho- ぶちょう　部長
+94.明天 asu あす　明日
+95.过去，昔日 mukashi　むかし　昔
+96.出发 动词 shuppatsu suru しゅっぱつする　出発する
+97.垃圾 gomi ごみ
+98.途中 tochu- とちゅう　途中
+99.胳膊 ude うで　腕
+100.梦，梦想 yume ゆめ　夢
