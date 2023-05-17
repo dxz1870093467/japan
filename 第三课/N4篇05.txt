@@ -1,0 +1,100 @@
+1.比赛 shiai しあい　試合
+2.鞠躬，行礼 ojigi おじぎ　お辞儀
+3.高中 ko-ko- こうこう　高校
+4.吃惊 odoroku おどろく　驚く
+5.适度，恰当 名，形容动词 tekito- てきとう　適当
+6.机器，机械 kikai きかい　機械
+7.约会 de-to データ
+8.邀请 动词 sasou さそう　誘う
+9.教材，课本 tekisuto テキスト
+10.绘本，图画书 ehon えほん 絵本
+11.种类 shurui しゅるい　種類
+12.低于 ika いか　以下
+13.折纸 origami おりがみ　折り紙
+14.字，文字 ji じ　字
+15.工业 ko-gyo-　こうぎょう　工業
+16.严厉的 kibishi- きびしい　厳しい
+17.乒乓球 takkyu- たっきゅう　卓球
+18.礼貌，小心谨慎 名，形容动词 teinei ていねい　丁寧
+19.舞蹈 odori おどり　踊り
+20.开放，公开 o-pun オープン
+21.讲义，讲座 ko-gi こうぎ　講義
+22.安心，放心 anshin あんしん　安心
+23.决定，决意 动词 kimeru きめる　決める
+24.安全 anzen あんぜん　安全
+25.带着，领着 动词 tsureru 連れす
+26.演唱会 konsa-to  コンサート
+27.白天 hiruma ひるま　昼間
+28.研究 kenkyu- けんきゅう　研究
+29.钓鱼 tsuru つる　釣る
+30.郊外 ko-gai こうがい　郊外
+31.丝绸 kinu きぬ　絹
+32.教育 kyo-iku  きょういく　教育
+33.发现，找到 动词 mitsukeru みつける　見つける
+34.心情，感觉 kimochi きもち　気持ち
+35.使落下 动词 otosu おとす　落とす
+36.意图，打算 tsumori つもり
+37.声音 oto おと　音
+38.吵架 kenkasuru けんかする　喧嘩する
+39.一定，必定 kitto きっと
+40.原因 genin げんいん　原因
+41.参光，观光  kenbutsu けんぶつ　見物
+42.急行列车，快速列车 kyu-ko- きゅうこう　急行
+43.然而 接续词 keredomo けれども
+44.跳舞 动词 odoru おどる　踊る
+45.可惜，遗憾 zannen ざんねん　残念
+46.找零 otsuri おつり　お釣り
+47.规则 kisoku きそく　規則
+48.研究室，实验室 kenkyu-shitsu けんきゅうしつ　研究室
+49.变瘦 动词 yaseru やせる　瘦せる
+50.把..包起来 动词 tsutsumu つつむ　包む
+51.说 | 尊敬语 ossharu おっしゃる
+52.客人 kyaku きゃく　客
+53.打开，开展 动词 hiraku ひらく　開く
+54.季节 kisetsu きせつ　季節
+55.护士 kangofu かんごふ　看護婦
+56.和服 kimono きもの　着物
+57.落下 动词 ochiru おちる　落ちる
+58.关系 kankei かんけい　関係
+59.贵府 otaku おたく　お宅
+60.继续。。动词 tsudzukeru つづける　続ける
+61.思考 动词 kangaeru かんがえる　考える
+62.取出，拿出 动词 hikidasu ひきだす　引き出す
+63.小姐，千金 ojo-san  おじょうさん　お嬢さん
+64.食品 shokuryo-hin しょくりょうひん　食料品
+65.壁橱 oshiire おしいれ　押し入れ
+66.绝不 kesshite けっして　決して
+67.供膳宿的公寓 geshuku げしゅく　下宿
+68.脖子 kubi くび　首
+69.橡皮 keshigomu けしゴム　消しゴム
+70.盛大的，旺盛的 sakan さかん　盛ん
+71.景色 keshiki けしき　景色
+72.下降，降落 动词 sagaru さがる　下がる
+73.受伤 动词 kegasuru けがする　怪我する
+74.寻找 动词 sagasu さがす　探す
+75.空气 ku-ki くうき　空気
+76.蛋糕 ke-ki ケーキ
+77.技术 gijutsu ぎじゅつ　技術
+78.汽车 kisha きしゃ　汽車
+79.坡道 saka さか　坂
+80.听的到 动词 kikoeru きこえる　聞こえる
+81.触摸 动词 sawaru さわる　触る
+82.产业 sangyo- さんぎょう　産業
+83.危险 kiken　きけん　危険
+84.最初 saisho さいしょ　最初
+85.吵闹 动词 sawagu さわぐ　騒ぐ
+86.沙拉 sarada サラダ
+87.机会 kikai 機会
+88.简单 名，形容动词 kantan かんたん　簡単
+89.下下周 saraishu- さらいしゅう　再来週
+90.生气 动词 okoru おこる　怒る
+91.确实，确切 形容动 副词 tashika たしか　確か
+92.举行 okonau おこなう　行う
+93.下下个月 saraigetsu さらいげつ　再来月
+94.孤单的，寂寞的 形容词 sabishii さびしい　寂しい
+95.所以 dakara だから　
+96.最后 saigo さいご　最後
+97.弄坏，毁坏 动词 kowasu こわす　壊す
+98.坏掉，动词 kowareru こわれる　壊れる
+99.最近 saikin さいきん　最近
+100.加油　努力，ganbaru  がんばる　頑張る
