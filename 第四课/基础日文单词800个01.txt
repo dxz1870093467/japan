@@ -1,0 +1,100 @@
+1.窗户  mado まど　窓
+2.日期 hidzuke ひづけ　日付
+3.笨蛋 baka ばか　馬鹿
+4.座位 zaseki ざせき　座席
+5.数学 su-gaku すうがく　数学
+6.包包 kaban かばん　カバン
+7.日记 nikki にっき　日記
+8.学校 gakko- がっこう　学校
+9.铅笔 enpitsu えんぴつ　鉛筆
+10.房间  heya へや　部屋
+11.书桌 tsukue つくえ　机
+12.厨房 daidokoro だいどころ　台所
+13.家庭作业，功课 shukudai　しゅくだい　宿題
+14.书 hon ほん　本
+15.门 doa ドア
+16.身体 karada からだ　体
+17.钢琴 piano ピアノ
+18.我们 watashitachi わたしたち　私たち
+19.床 beddo ベッド
+20.桌子 te-buru  テーブル
+21.食物 tabemono 食べ物
+22.篮球 basukettobo-ru バスケットボール
+23.老师 sensei せんせい　先生
+24.学生  gakusei がくせい　学生
+25.今天 kyo- きょう　今日
+26.学习 benkyo- べんきょう　勉強
+27.说话 hanasu はなす　話す
+28.全部 zenbu ぜんぶ　全部
+29.哪里 doko どこ　
+30.咖啡厅 kissasten きっさてん　喫茶店
+31.十字路口 ko-saten こうさてん　交差点
+32.道路 michi みち　道
+33.银行 ginko- ぎんこう　銀行
+34.公司 kaisha かいしゃ　会社
+35.杂志 zasshi ざっし　雑誌
+36.后面 ushiro うしろ　後ろ
+37.车子 kuruma くるま　車
+38.新的 atarashii あたらしい　新しい
+39.明天 ashita あした　明日
+40.冰箱 reizo-ko れいぞうこ　冷蔵庫
+41.牛奶 gyu-nyu- ぎゅうにゅう　牛乳
+42.夜晚 yoru　よる　夜
+43.六点钟 rokuji ろくじ　六時
+44.结束 owaru おわる　終わる
+45.时间 jikan じかん　時間
+46.短的 mijikai みじかい　短い
+47.上午 gozen ごぜん　午前
+48.日本人 nihonjin にほんじん　日本人
+49.教室 kyoushitsu きょうしつ　教室
+50.饮料 nomimono のみもの 飲み物
+51.相机 kamera カメラ
+52.使用 tsukau つかう　使う
+53.昨天 kino- きのう　昨日
+54.图书光 toshokan としょかん　図書館
+55.车站 eki えき　駅
+56.购物 kaimono かいもの　買い物
+57.宠物 petto ペット
+58.喝 nomu のむ　飲む
+59.家人 kazoku かぞく　家族
+60.结婚，婚姻 kekkon けっこん　結婚
+61.自行车 jitensha じてんしゃ　自転車
+62.金钱 okane おかね　お金
+63.开心的，令人愉快的 tanoshi- たのしい　楽しい
+64.电话 denwa でんわ　電話
+65.两个人 futari ふたり　二人
+66.有趣的 omoshiroi おもしろい　面白い
+67.朋友 tomodachi ともだち　友達
+68.吃 taberu たべる　食べる
+69.好吃的，可口的 oishii おいしい　美味しい
+70.买 kau かう　買う
+71.大学 daigaku だいがく　大学
+72.留学生 ryu-gakusei りゅうがくせい　留学生
+73.飞机 hiko-ki ひこうき　飛行機
+74.寒假 fuyuyasumi ふゆやすみ　冬休み
+75.近的 chikai ちかい　近い
+76.今天早上 kesa けさ　今朝
+77.上周 senshu- せんしゅう　先週
+78.山 yama やま　山
+79.危险的 abunai あぶない　危ない
+80.疼痛的 itai いたい　痛い
+81.长的 nagai ながい　　長い
+82.咖啡 ko-hi　コーヒー
+83.去年 kyonen きょねん　去年
+84.几点 nanji なんじ　何時
+85.电话号码 denwabango- でんわばんご　電話番号
+86.暑假 natsuyasumi なつやすみ　夏休み
+87.旅行 ryoko- りょこう　旅行
+88.外国 gaikoku がいこく　外国
+89.书店 honya  ほんや　本屋
+90.纸 kami　かみ　紙
+91.果酱 jamu ジャム
+92.船 fune ふね　船
+93.向。。借东西 kariru かりる　借りる
+94.归还，返还 kaesu かえす　返す
+95.自己 jibun じぶん　自分
+96.照片 shashin しゃしん　写真
+97.忘记 wasureru わすれる　忘れる
+98.鞋子 kutsu くつ　靴
+99.准备 junbi じゅんび　準備
+100.汉堡包  hanba-ga- ハンバーガー
