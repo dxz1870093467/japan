@@ -1,0 +1,100 @@
+1.寒冷的 samui さむい　寒い
+2.非常 totemo とても
+3.报纸 shinbun しんぶん　新聞
+4.纳豆 natto-　なっとう　納豆
+5.蛋糕 ke-ki ケーキ
+6.请 do-zo どうぞ
+7.去 iku　いく　行く
+8.一起 isshoni  いっしょに　一緒に
+9.出门 dekakeru でかける　出かける
+10.喜欢 suki すき　好き
+11.写 kaku かく　書く
+12.果汁 ju-su ジュース
+13.卖 uru うる　売る
+14.高丽菜，卷心菜 kyabetsu キャベツ
+15.香蕉 banana バナナ
+16.起床 okiru おきる　起きる
+17.下午 gogo ごご　午後
+18.邮局 yu-binkyoku ゆうびんきょく 郵便局
+19.人 hito ひと　人
+20.来 kuru くる　来る
+21.读 yomu よむ　読む
+22.足球 sakka- サッカー
+23.累，疲劳 tsukareru つかれる　疲れる
+24.马上 suguni すぐに
+25.洗澡，淋浴 shawa- シャワー
+26.弄错，搞错 machigaeru まちがえる　間違える
+27.巴士 basu バス
+28.凉爽的 suzushi- すずしい　涼しい
+29.悲伤的 kanashi- かなしい　悲しい
+30.味道 aji あじ　味
+31.形状 katachi かたち　形
+32.颜色 iro いろ　色
+33.不方便 fuben ふべん　不便
+34.蔬菜 yasai やさい　野菜
+35.洗 arau あらう　洗う
+36.永远，一直 zutto ずっと
+37.云 kumo くも　曇
+38.星星 hoshi ほし　星
+39.想法，意见 iken いけん　意見
+40.反对 hantai はんたい　反対
+41.嘴巴 kuchi くち　口
+42.红色的 akai あかい　赤い
+43.酸奶，优酪乳 yo-guruto ヨーグルト
+44.计划 keikaku けいかく　計画
+45.雨伞 kasa かさ　傘
+46.比赛 shiai しあい　試合
+47.受伤 kega けが　怪我
+48.担心 shinpai しんぱい　心配
+49.未来 sho-rai しょうらい　将来
+50.歌手 kashu かしゅ　歌手
+51.梦，梦想 yume ゆめ　夢
+52.回忆 omoide おもいで　思い出
+53.使用方法 tsukaikata つかいかた　使い方
+54.严格的，严厉的 kibishi- きびしい　厳しい
+55.邀请 sasou さそう　誘う
+56.介绍 sho-kai しょうかい　紹介
+57.轻的 karui かるい　軽い
+58.选择 erabu えらぶ　選ぶ
+59.比较 kuraberu くらべる　比べる
+60.谎言 uso うそ　噓
+61.自由 jiyu- じゆう　自由
+62.不在家 rusu るす　留守
+63.寻找 sagasu さがす　探す
+64.京都 kyo-to きょうと　京都
+65.弟弟 oto-to おとうと　弟
+66.打工，兼职 arubaito アルバイト
+67.游泳 suiei すいえい　水泳
+68.跑 hashiru はしる　走る
+69.惊讶 bikkuri びっくり
+70.生气 okoru おこる　怒る
+71.美丽的 utsukushii うつくしい　美しい
+72.活力 genki げんき　元気
+73.大米 kome こめ　米
+74.扔掉，丢掉 suteru すてる　捨てる
+75.全部 zenbu ぜんぶ　全部
+76.声音 oto おと　音
+77.日语 nihongo にほんご　日本語
+78.工厂 ko-jo- こうじょう　工場
+79.新闻 nyu-su ニュース
+80.装饰 kazaru かざる　飾る
+81.通知，消息 oshirase おしらせ　お知らせ
+82.顾客 okyakusan おきゃくさん　お客さん
+83.旁边，隔壁 tonari となり　隣
+84.坏掉，故障 kowareru こわれる　壊れる
+85.机器人 robotto ロボット
+86.父母 ryo-shin  りょうしん　両親
+87.早餐 asagohan あさごはん　朝ごはん
+88.预约 yoyaku よやく　予約
+89.联络，联系 renraku　れんらく　連絡
+90.邮件 me-ru メール
+91.高中 ko-ko- こうこう　高校
+92.终于 yatto やっと
+93.卡拉OK karaoke カラオケ
+94.两小时 nijikan にじかん　二時間
+95.茶 ocha おちゃ　お茶
+96.等待 matsu まつ　待つ
+97.不够 tarinai たりない　足りない
+98.花店 hanaya はなや　花屋
+99.钥匙 kagi かぎ　鍵
+100.棒球 yakyu- やきゅう　野球

@@ -1,0 +1,11 @@
+1.发现 hakken suru はっけんする　発見する
+2.想象 souzou suru そうぞうする　想像する
+3.搬运 hakobu はこぶ　運ぶ
+4.失去 ushinau うしなう　失う
+5.下雨 amega furu あめがふる　雨が降る
+6.伤害 kizutsukeru きずつける　傷つける
+7.到达，抵达 tsuku つく　着く
+8.讨论 hanashiau はなしあう　話し合う
+9.混合 mazeru まぜる　混ぜる
+10.缺席 kesseki けっせき　欠席
+11.

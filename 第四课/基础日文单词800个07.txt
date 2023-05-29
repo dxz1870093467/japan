@@ -1,0 +1,100 @@
+1.相册 arubamu アルバム
+2.手机 sumaho スマホ
+3.菜单 menyu- メニュー
+4.垃圾 gomi ごみ　ゴミ
+5.绿色的 midori みどり　緑
+6.粉色 pinku ピンク
+7.圆的 marui まるい　丸い
+8.数量 kazu かず　数
+9.零 zero ゼロ
+10.一 ichi いち　一
+11.二 ni に　二
+12.三 san さん　三
+13.四 yon よん　四
+14.五 go ご　五
+15.六 roku ろく　六
+16.七 nana なな　七
+17.八 hachi はち　八
+18.九 kyuu きゅう　九
+19.十 juu じゅう　十
+20.同班同学 kurasume-to クラスメート
+21.制服 seifuku せいふく　制服
+22.俱乐部 kurabu クラブ
+23.入学典礼 nyuugakushiki にゅうがくしき　入学式
+24.志愿者 borantia 　ボランティア
+25.笔 pen ペン
+26.明信片 ehagaki えはがき　絵葉書
+27.神社 jinja じんじゃ　神社
+28.游乐园 yuuenchi ゆうえんち 遊園地
+29.游泳池 pu-ru プール
+30.电影院 eigakan えいがかん　映画館
+31.餐厅 resutoran レストラン
+32.出口 deguchi でぐち　出口
+33.墙壁 kabe かべ　壁
+34.桥 hashi はし　橋
+35.塔 tawa- タワー
+36.牙医 haisha はいしゃ　歯医者
+37.钢琴家 pianisuto ピアニスト
+38.科学家 kagakusha かがくしゃ　科学者
+39.运动 supo-tsu スポーツ
+40.团队 chi-mu チーム
+41.游戏 ge-mu ゲーム
+42.网球 tenisu テニス
+43.排球 bare-bo-ru バレーボール
+44.兵乓球 takkyuu  たっきゅう　卓球
+45.冲浪 sa-fin サーフィン
+46.发觉，察觉 kidzuku きづく　気づく
+47.露营 kyanpu キャンプ
+48.野餐 pikunikku ピクニック
+49.钓鱼 tsuri つり　釣り
+50.吉他 gita- ギター
+51.玫瑰 bara バラ
+52.周末 shuumatsu しゅうまつ　週末
+53.太阳 taiyou たいよう　太陽
+54.月 tsuki つき　月
+55.湖 mizuumi みずうみ　湖
+56.树 ki き　木
+57.水 mizu みず　水
+58.彩虹 niji にじ　虹
+59.儿子 musuko むすこ　息子
+60.祖父 sofu　そふ　祖父
+61.祖母 sobo そぼ　祖母
+62.如何，怎么做 douyatte どうやって
+63.尽力，努力 isshoukenmei いっしょうけんめい　一生懸命
+64.大概，或许 tabun たぶん　多分
+65.全部，所有 subete すべて　全て
+66.每个人，大家 minna みんな　
+67.变成，成为 naru なる
+68.想起 omoidasu おもいだす　思い出す
+69.送，发送 okuru おくる　送る
+70.告诉，传达 tsutaeru つたえる　伝える
+71.理解 rikaisuru りかいする　理解する
+72.穿 kiru きる　着る
+73.屋顶 yane やね　屋根
+74.圣诞节 kurisumasu クリスマス
+75.语言 gengo げんご　言語
+76.西装 su-tsu スーツ
+77.领带 nekutai ネクタイ
+78.总统 daitouryou だいとうりょう　大統領
+79.神 kami かみ　神
+80.蜂蜜 hachimitsu はちみつ　蜂蜜
+81.沙漠 sabaku さばく　砂漠
+82.眼泪 namida なみだ　涙
+83.约定 yakusoku やくそく　約束
+84.事故 jiko じこ　事故
+85.秘密 himitsu ひみつ　秘密
+86.甜瓜 meron メロン
+87.震惊 shokku　ショック
+88.窗帘 ka-ten カーテン
+89.品味，感觉 sensu センス
+90.力量 chikara ちから　力
+91.澳大利亚 o-sutoraria オーストラリア
+92.相信 shinjiru しんじる　信じる
+93.飞 tobu とぶ　飛ぶ
+94.感谢 kansha suru かんしゃする　感謝する
+95.拜托 tanomu たのむ　頼む
+96.打扫 souji suru そうじする　掃除する
+97.攀登 noboru のぼる　登る
+98.打电话 denwa wo kakeru でんわをかける　電話をかける
+99.醒来 megasameru めがさめる　目が覚める
+100.发现 hakken suru はっけんする　発見する

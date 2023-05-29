@@ -1,0 +1,100 @@
+1.周五 kinyo-bi きんようび　金曜日
+2.周六 doyo-bi どようび　土曜日
+3.周日 nichiyo-bi にちようび　日曜日
+4.逃跑 nigeru にげる　逃げる
+5.镜子 kagami かがみ　鏡
+6.口袋 poketto ポケット
+7.油 abura あぶら　油
+8.盐 shio しお　塩
+9.冰 koori こおり　氷
+10.最后期限，截止日期 shimekiri しめきり　締め切り
+11.火 hi ひ　火
+12.正确的 tadashii ただしい　正しい
+13.虚弱的，弱小的 yowai よわい　弱い
+14.健康 kenko- けんこう　健康
+15.教科书 kyo-kasho きょうかしょ　教科書
+16.休息日 kyu-jitsu きゅうじつ　休日
+17.未来 mirai みらい　未来
+18.生日 tanjo-bi たんじょうび　誕生日
+19.历史 rekishi れきし　歴史
+20.电梯 erebe-ta- エレベーター
+21.黄油 bata- バター
+22.沙发 sofa- ソファー
+23.少年 sho-nen しょうねん　少年
+24.大人，成人 otona おとな　大人
+25.教室 kyo-shitsu きょうしつ　教室
+26.不可能，做不到 muri むり　無理
+27.铅笔 enpitsu えんぴつ　鉛筆
+28.变化 henka へんか　変化
+29.企业 kigyo- きぎょう　企業
+30.为什么 naze なぜ
+31.地球 chiKyu- ちきゅう　地球
+32.环境 kankyou かんきょう　環境
+33.代表 daihyou だいひょう　代表
+34.背叛 uragiru うらぎる　裏切る
+35.玩具 omocha おもちゃ　玩具
+36.积蓄，存款 chokin ちょきん　貯金
+37.设计 dezain　デザイン
+38.天气预报 tenkiyohou てんきよほう　天気予報
+39.小偷 dorobo- どろぼう　泥棒
+40.入口 iriguchi いりぐち　入口
+41.结果 kekka けっか　結果
+42.压力 sutoresu　ストレス
+43.酒 osake おさけ　お酒
+44.重要 taisetsu たいせつ　大切
+45.价格 nedan ねだん　値段
+46.努力 doryoku どりょく　努力
+47.方法 houhou ほうほう　方法
+48.人气 ninki にんき　人気
+49.玄关 genkan げんかん　玄関
+50.预算 yosan よさん　予算
+51.皮肤 hada はだ　肌
+52.香烟 tabako タバコ
+53.出差 shutcho- しゅっちょう　出張
+54.协助，合作 kyo-ryoku きょうりょく　協力
+55.梅雨 tsuyu つゆ　梅雨
+56.玩笑 jo-dan じょうだん　冗談
+57.减肥 daietto ダイエット
+58.手机 keitai けいたい　携帯
+59.进入 hairu はいる　入る
+60.温度 ondo おんど　温度
+61.电费 denki-dai でんきだい　電気代
+62.不满 fuman ふまん　不満
+63.擅长 tokui とくい　得意
+64.漫画 manga まんが　漫画
+65.感冒 kaze かぜ　風邪
+66.花粉过敏 kafunsho- かふんしょう　花粉症
+67.冰的，冷淡的 tsumetai つめたい　冷たい
+68.关系 kankei かんけい　関係
+69.多余的，额外的 yokeina よけいな　余計な
+70.增加 fueru ふえる　増える
+71.薪水 kyuuryou きゅうりょう　給料
+72.贷款 ro-n ローン
+73.联系方式 renrakusaki れんらくさき　連絡先
+74.加油，努力 ganbaru がんばる　頑張る
+75.不安 fuan ふあん　不安
+76.联谊 go-kon　ごうコン　 合コン
+77.令人怀念的 natsukashii  なつかしい　懐かしい
+78.传言 uwasa うわさ　噂
+79.女儿 musume むすめ　娘
+80.女性 josei じょせい　女性
+81.男性 dansei だんせい　男性
+82.月底 getsumatsu げつまつ　月末
+83.房租 yachin やちん　家賃
+84.笑脸 egao えがお　笑顔
+85.点心，零食 oyatsu おやつ
+86.蔬菜水果店 yaoya やおや　八百屋
+87.胡萝卜 ninjin にんじん　人参
+88.薯片 potetochippusu ポテトチップス
+89.护士 kangoshi かんごし　看護師
+90.详情的 kuwashii くわしい　詳しい
+91.参加 sanka さんか　参加
+92.黄瓜 kyuuri きゅうり　きゅうり
+93.信息 jouhou じょうほう　情報
+94.游客 kankoukyaku かんこきゃく　観光客
+95.日常 nichijou にちじょう　日常
+96.亚洲 ajia　アジア
+97.欧洲 yo-roppa ヨーロッパ
+98.对方 aite あいて　相手
+99.等到，获得  teniireru てにいれる　手に入れる
+100.给予 ataeru あたえる　与える

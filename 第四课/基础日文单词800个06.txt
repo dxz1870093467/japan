@@ -1,0 +1,100 @@
+1.听到 kikoeru きこえる　聞こえる
+2.帮助 tasukeru たすける　助ける
+3.学习 manabu まなぶ　学ぶ
+4.出发 shuppatsu suru しゅっぱつする　出発する
+5.居住 sumu すむ　住む
+6.触摸 fureru ふれる　触れる
+7.访问 otozureru おとずれる　訪れる
+8.精彩的，棒的 subarashii すばらしい　素晴らしいです
+9.独居 hitorigurashi ひとりぐらし　一人暮らし
+10.草莓 ichigo イチゴ
+11.课程 jugyou じゅぎょう　授業
+12.是的 hai はい
+13.不是 iie いいえ　
+14.我 watashi わたし　私
+15.你 anata あなた
+16.他 kare かれ　彼
+17.她 kanojo かのじょ　彼女
+18.玉米 to-morokoshi とうもろこし
+19.桃子 momo もも　桃
+20.西瓜 suika スイカ
+21.番茄酱 kechappu ケチャップ
+22.饭团 onigiri おにぎり
+23.青椒 piiman ピイマン
+24.三明治 sandoitchi サンドイッチ
+25.酱油 shouyu しょうゆ　醬油
+26.凉鞋 sandaru サンダル
+27.眼镜 megane めがね　眼鏡
+28.日历 karenda- カレンダー
+29.毛巾 taoru タオル
+30.剪刀 hasami ハサミ
+31.牙膏 haburashi はぶらし　歯ブラシ
+32.非常 hijouni ひじょうに　非常に
+33.通常，平常 futsuu ふつう　普通
+34.感兴趣的 kyoumibukai きょうみぶかい　興味深い
+35.诚实的 shoujikina しょうじきな　正直な
+36.收集 atsumeru あつめる　集める
+37.电脑 konpyu-ta- コンピューター
+38.男孩 otokonoko おとこのこ　男の子
+39.女孩 onnanoko おんなのこ　女の子
+40.笑 warau わらう　笑う
+41.哭 naku なく　泣く
+42.草 kusa くさ　草
+43.河 kawa かわ　川
+44.石头 ishi いし　石
+45.按，推 osu おす　押す
+46.生菜，莴苣 retasu レタス
+47.邮筒 posuto ポスト
+48.机场 kuukou くうこう　空港
+49.加油站 gasorinsutando ガソリンスタンド
+50.微波炉 denshirenji  電子レンジ
+51.洋葱 tamanegi たまねぎ　玉ねぎ
+52.土豆 jagaimo じゃがいも
+53.家具 kagu かぐ　家具
+54.卡车 torakku とらっく　トラック
+55.警车 patoka- パトカー
+56.消防车 shoubousha しょうぼうしゃ　消防車
+57.救护车 kyuukyuusha きゅうきゅうしゃ　救急車
+58.不擅长 nigate にがて　苦手
+59.牛肉 gyuuniku　ぎゅうにく　牛肉
+60.一小时半 ichijikan-han いちじかんはん　一時間半
+61.打折，优惠  waribiki わりびき　割引
+62.生命 inochi　いのち　命
+63.污渍，污垢 yogore よごれ　汚れ
+64.老年人 otoshiyori おとしより　お年寄り
+65.味增汤 misoshiru みそしる　味噌汁
+66.迟到 chikoku ちこく　遅刻
+67.采访，面试 intabyu- インタビュー
+68.超市 su-pa- スーパー
+69.乡下 inaka いなか　田舎
+70.啤酒 bi-ru ビール
+71.气氛，氛围 fun iki ふんいき　雰囲気
+72.点单 chuumon ちゅうもん　注文
+73.沙拉 sarada サラダ
+74.番茄 tomato トマト
+75.点心，零食 okashi おかし　お菓子
+76.商场，百货公司 depa-to  デパート
+77.免费 muryou むりょう　無料
+78.闹钟 mezamashidokei めざましどけい　目覚し時計
+79.发烧 netsu ねつ　熱
+80.柠檬 remon レモン
+81.黄色的 kiiroi きいろい　黄色い
+82.电池 denchi でんち　電池
+83.长处，优点 chousho ちょうしょ　長所
+84.短处，缺点 tansho たんしょ　短所
+85.发胖 futoru ふとる　太る
+86.瘦，变瘦 yaseru やせる　瘦せる
+87.加班 zangyou ざんぎょう　残業
+88.按钮，纽扣 botan ボタン
+89.口罩 masuku マスク
+90.肚子 onaka おなか　お腹
+91.母亲 hahaoya ははおや　母親
+92.父亲 chichioya ちちおや　父親
+93.特别的 tokubetsuna とくべつな　特別な
+94.苦 nigai にがい　苦い
+95.甜的 amai あまい　甘い
+96.咸的 shoppai しょっぱい
+97.酸的 suppai すっぱい　酸っぱい
+98.困得，瞌睡的 nemui ねむい　眠い
+99.外套 ko-to コート
+100.运动鞋，跑鞋 suni-ka- スニーカー

@@ -1,0 +1,100 @@
+1.姓名 namae なまえ　名前
+2.住址 ju-sho じゅうしょ　住所
+3.资料，文档 shiryo- しりょう　資料
+4.会议室 kaigishitsu かいぎしつ　会議室
+5.便利店 konbini コンビニ
+6.店员 tenin てんいん　店員
+7.工作 shigoto しごと　仕事
+8.垃圾桶 gomibako ゴミばこ　ゴミ箱
+9.帮助，帮忙 tetsudau てつだう　手伝う
+10.为什么 do-shite どうして　
+11.狭窄的 semai せまい　狭い
+12.问题 mondai もんだい　問題
+13.建筑物 tatemono たてもの　建物
+14.最近 saikin さいきん　最近
+15.天气 tenki てんき　天気
+16.大海 umi うみ　海
+17.很多 takusan たくさん
+18.热的 atsui あつい　暑い
+19.游泳  oyogu およご　泳ぐ
+20.散步 sanpo さんぽ　散歩
+21.回家 kaeru かえる　帰る
+22.走廊 ro-ka ろうか　廊下
+23.信件 tegami てがみ　手紙
+24.早晨 asa あさ　朝
+25.尴尬的，羞耻的 hazukashii はずかしい　恥ずかしい
+26.动物园 do-butsuen どうぶつえん　動物園
+27.每天 mainichi まいにち　毎日
+28.傍晚 yu-gata  ゆうがた　夕方
+29.吃惊 odoroku おどろく　驚く
+30.医院 byo-in びょういん　病院
+31.公园 ko-en こうえん　公園
+32.东京 to-kyo- とうきょう　東京
+33.超市 su-pa- スーパー
+34.开始 hajimaru はじまる　始まる
+35.赏花 hanami はなみ　花見
+36.樱花 sakura さくら　桜
+37.走路 aruku あるく　歩く
+38.可爱的 kawai かわいい　可愛い
+39.生日 tanjo-bi たんじょうび　誕生日
+40.礼物 purezento プレゼント
+41.这里 koko ここ
+42.毕业 sotsugyo- そつぎょう　卒業
+43.工作 hataraku はたらく　働く
+44.披萨 piza ピザ
+45.袜子 kutsushita くつした　靴下
+46.水果 kudamono くだもの　果物
+47.药 kusuri くすり　薬
+48.黑色的 kuroi くろい　黒い
+49.大的 ookii おおきい　大きい
+50.字典 jisho じしょ　辞書
+51.酒店，宾馆 hoteru ほてる　ホテル
+52.行李 nimotsu にもつ　荷物
+53.电视机 terebi テレビ
+54.各种各样，很多 iroiro いろいろ
+55.网络 nettowa-ku ネットワーク
+56.戒指 yubiwa ゆびわ　指輪
+57.机场 ku-ko- くうこう 空港
+58.雪 yuki ゆき　雪
+59.雨 ame あめ　雨
+60.椅子 isu いす　椅子
+61.庭院 niwa にわ　庭
+62.天空 sora そら　空
+63.鱼 sakana 　さかな　魚
+64.猫 neko ねこ　猫
+65.鸟 tori とり　鳥
+66.狗 inu いぬ　犬
+67.面包 pan パン
+68.一半 hanbun はんぶん　半分
+69.鸡蛋 tamago たまご　卵
+70.三个 mittsu みっつ　三つ
+71.寿司 sushi すし　寿司
+72.看 miru みる　見る
+73.旧的  furui ふるい　古い
+74.高的，贵的 takai たかい　高い
+75.便宜的 yasui やすい　安い
+76.说 iu いう　言う
+77.下个月 raigetsu らいげつ　来月
+78.哪里，那边 asoko あそこ
+79.的士，出租车 takushii タクシー
+80.苹果 ringo りんご　りんご
+81.切 kiru きる　切る
+82.地图 chizu ちず　地図
+83.钱包 saifu さいふ　　財布
+84.方便 benri べんり　便利
+85.练习 renshu- れんしゅう　練習
+86.空调 eakon エアコン
+87.汉字 kanji かんじ　漢字
+88.糖 sato- さとう　砂糖
+89.年轻的 wakai わかい　若い
+90.牛排 sute-ki ステーキ
+91.风 kaze かぜ　風
+92.简单 kantan かんたん　簡単
+93.无聊的 tsumaranai つまらない
+94.洗衣服，洗涤 sentaku 洗濯
+95.明亮的 akarui あかるい　明るい
+96.安静的 shizuka しずか　静か
+97.书架 hondana ほんだな　本棚
+98.去年 kyonen きょねん　去年
+99.制作，制造 tsukuru つくる　作る
+100.一点 sukoshi すこし　少し

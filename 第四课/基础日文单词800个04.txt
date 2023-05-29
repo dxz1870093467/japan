@@ -1,0 +1,100 @@
+1.爱好 shumi しゅみ　趣味
+2.擅长，熟练 jo-zu じょうず　上手
+3.难的 muzukashii むずかしい　難しい
+4.一点一点的，渐渐  sukoshizutsu すこしずつ　少しずつ
+5.现在 ima いま　今
+6.然而，但是 shikashi しかし
+7.例如 tatoeba たとえば　例えば
+8.帽子 bo-shi ぼうし　帽子
+9.食堂 shokudo- しょくどう　食堂
+10.考试 shiken しけん　試験
+11.冰淇淋 aisukuri-mu　アイスクリーム
+12.夏天 natsu なつ　夏
+13.冬天 fuyu ふゆ　冬
+14.有时 tokidoki ときどき　時々
+15.初次 hajimete はじめて　初めて
+16.收银台 reji レジ
+17.玩 asobu あそぶ　遊ぶ
+18.换乘 norikaeru のりかえる　乗り換える
+19.宽敞的 hiroi ひろい　広い
+20.场所 basho ばしょ　場所
+21.新干线 shinkansen しんかんせん　新幹線
+22.没关系，没问题 daijo-bu だいじょうぶ　大丈夫
+23.音乐 ongaku おんがく　音楽
+24.费用 ryo-kin りょうきん　料金
+25.便当 bento- べんとう　弁当
+26.坚果 nattsu ナッツ
+27.支付 harau はらう　払う
+28.到达 to-chaku とうちゃく　到着
+29.描述，说明 setsumei せつめい　説明
+30.豆子 mame まめ　豆
+31.汤 su-pu スープ
+32.规则 ru-ru ルール
+33.交通 ko-tsu- こうつう　交通
+34.税金 zeikin ざいきん　税金
+35.生活 seikatsu せいかつ　生活
+36.地震 jishin　じしん　地震
+37.台风 taifu- たいふ　台風
+38.爆米花 poppuko-n  ポップコーン
+39.世界 sekai せかい　世界
+40.经营，管理 keiei けいえい　経営
+41.回答 kotaeru こたえる　答える
+42.甜点 deza-to デザート
+43.政府 seifu せいふ　政府
+44.问题 mondai もんだい　問題
+45.专家 senmonka せんもんか　専門家
+46.安全 anzen あんぜん　安全
+47.聚集，集中  atsumaru あつまる　集まる
+48.休息 yasumu やすむ　休む
+49.奥林匹克 orinpikku オリンピック
+50.今年 kotoshi ことし　今年
+51.调查 shiraberu しらべる　調べる
+52.大自然 shizen しぜん　自然
+53.美术 bijutsu びじゅつ　美術
+54.报告 repo-to レポート
+55.烟花 hanabi はなび　花火
+56.寂寞的，孤单的 sabishi- さびしい　寂しい
+57.乘坐 noru のる　乗る
+58.大阪 oosaka おおさか　大阪
+59.车票 kippu きっぷ　切符
+60.睡觉 neru ねる　寝る
+61.睡眠 suimin すいみん　睡眠
+62.居酒屋 izakaya いざかや　居酒屋
+63.裤子 zubon ズボン
+64.试穿 shichaku しちゃく　試着
+65.公寓 apa-to アパート
+66.丈夫 otto おっと　夫
+67.空气 ku-ki くうき　空気
+68.巧克力 chokore-to チョコレート
+69.单身  Dokushin どくしん 独身
+70.停止 tomaru とまる　止まる
+71.思考，考虑 kangaeru かんがえる　考える
+72.驾驶 unten suru うんてんする　運転する
+73.布丁 purin プリン
+74.坐 suwaru すわる　座る
+75.站 tatsu たつ　立つ
+76.跳舞 odoru おどる　踊る
+77.唱歌 utau うたう　歌う
+78.打开 akeru あける　開ける
+79.关闭 shimeru しめる　閉める
+80.战胜，赢 katsu かつ　勝つ
+81.输，失败 makeru まける　負ける
+82.祈祷 inoru いのる　祈る
+83.厚的 atsui あつい　厚い
+84.薄的 usui うすい　薄い
+85.医生 isha　いしゃ　医者
+86.右 migi みぎ　右
+87.左 hidari ひだり　左
+88.北 kita きた　北
+89.南 minami みなみ　南
+90.西 nishi にし　西
+91.东 higashi　ひがし　東
+92.美国 amerika あめりか　アメリカ
+93.中国 chu-goku ちゅうごく　中国
+94.盒子 hako はこ　箱
+95.手表 udedokei うでどけい　腕時計
+96.人偶，玩偶 ningyou にんぎょう　人形
+97.周一 getsuyo-bi げつようび　月曜日
+98.周二 kayo-bi かようび　火曜日
+99.周三 suiyo-bi すいようび　水曜日
+100.周四 mokuyo-bi もくようび　木曜日
