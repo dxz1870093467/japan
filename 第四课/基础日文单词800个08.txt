@@ -8,4 +8,93 @@
 8.讨论 hanashiau はなしあう　話し合う
 9.混合 mazeru まぜる　混ぜる
 10.缺席 kesseki けっせき　欠席
-11.
+11.相同 onaji おなじ　同じ
+12.打招呼 aisatsusuru 挨拶すると
+13.药店 yakkyoku やっきょく　薬局
+14.洗手间 otearai おてあらい　お手洗い
+15.好的 yoi　よい　良い
+16.不好的，坏的 warui わるい　悪い
+17.多的 ooi おおい　多い
+18.少的 sukunai すくない　少ない
+19.国家 kuni くに　国
+20.消失 kieru きえる
+21.阳台 beranda
+22.难吃的 mazui
+23.辣的 karai
+24.上面 ue
+25.下面 shita
+26.里面 naka
+27.外表 soto
+28.脏的 kitanai
+29.接下来 korekara
+30.远的 tooi
+31.有人气，受欢迎 ninkigaaru
+32.帅气的，酷的 ikemen
+33.果然 yappari
+34.首先 mazu
+35.重的 omoi
+36.什么时候 itsu
+37.多少钱 ikura
+38.不知道，不明白 wakaranai
+39.带路，引导 an nai suru
+40.筷子 o hashi
+41.服务 sa-bisu
+42.年龄 nenrei
+43.公务员 koumuin
+44.秘书 hisho
+45.播音员 anaunsa-
+46.故乡 furusato
+47.教堂 kyoukai
+48.鸡肉 toriniku
+49.拉面 ra-men
+50.烤肉 yakiniku
+51.可乐 ko-ra
+52.教授 kyouju
+53.小学 shougakkou
+54.滑雪 suki-
+55.恋人 koibito
+56.前辈 senbei
+57.后辈 kouhai
+58.上司 joushi
+59.艺人 geinoujin
+60.演员 haiyuu
+61.家庭主妇shufu
+62.律师 bengoshi
+63.作家 sakka
+64.厕所 toire
+65.健身房 jimu
+66.动物园 doubutsuen
+67.头 atama
+68.手 te
+69.肩膀 kata
+70.腰部 koshi
+71.脖子 kubi
+72.膝盖 hiza
+73.眼睛 me
+74.鼻子 hana
+75.牙齿 ha
+76.耳朵 mimi
+77.吵架 kenka
+78.护照 pasupo-to
+79.睡衣 pajama
+80.连衣裙 wanpi-su
+81.手帕 hankachi
+82.耳饰 iyaringu
+83.项链 nekkuresu
+84.笔记 no-to
+85.橡皮 keshigomu
+86.黑板 kokuban
+87.儿童 kodomo
+88.升高 shinchou
+89.一个人 hitori
+90.经济 keizai
+91.头发 kaminoke
+92.舌头 shita
+93.指甲 tsume
+94.恐怖的 kowai
+95.简单的 yasashi
+96.柔软的 yawarakai
+97.单纯的 tanjun na
+98.复杂的 fukuzatsuna
+99.尝尝味道 ajimisuru
+100.庆祝 iwau
