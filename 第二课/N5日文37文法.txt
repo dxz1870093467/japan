@@ -1,0 +1,346 @@
+1.　..あとで　…後で
+　　解说：表示...之后， 相当于 ...てから
+　　接续：名词 + の　+ あとで
+　　　　　动词た形 + あとで
+   例句：shigotonoatode, nominiikimasenka
+        しごとのあとで、　のみにいきせんか
+        仕事の後、　飲みに行きませんか
+        下班后，要不要去喝一杯？
+        hon wo yondaatode, terebi wo mimashita　（読む）
+        ほんを　よんだあとで、　テレビ　を　みました
+        本を　読んだ後で、　テレビ　を　見ました
+2. あまり…ない
+　　解说：表示程度不那么高，翻译为 不太... 没怎么
+   接续：あまり+否定形
+   例句：kinou ha amari benkyou shimasen deshita
+        きのう　は　あまり　べんきょう　しません　でした
+        昨日　は　あまり　勉強　しません　でした
+        昨天没怎么学习（勉強する　勉強しませんでした）
+        ko no eiga ha amari omoshiro kunai desu
+        このえいが　は　あまり　おもしろ　くないです
+        この映画は　あまり　面白い　くないです
+        这部电影不是很有趣 （面白い　面白くない）
+3. ...かた　…方
+　  解说：表示做某事的方法、方式
+   接续：V（ます形）去掉ます　＋　方
+   例句：atm　no tsukai kata ga wakarimasen
+        atm の　使い　かた　が　わかりません
+        我不知道如何使用atm（使う　使います　使い）
+        ko no kanji no yomi kata wo oshie te kudasai
+        この漢字　の　読み方　を　教えて　ください
+        请告诉我这个汉子的读法 （読む　読みます　読み方）
+4. ...から
+　　 解说：表示理由，原因 翻译为 因为
+    接续：文1 + から　+ 文2
+    例句：kono mondai ha muzuka shiikara, watashi ni hawakarimasen
+         この問題　は　難しい から、　私　に　はわかりません
+         这个问题 有点难，我不知道答案
+         ko-hi- wo nonda kara, ima ha nemuku naidesu
+         コーヒーを　飲んだ　から、　今は　眠く　ないです
+         因为喝了咖啡，所以我现在不困了
+5.  ...がいちばん…
+　　解说：表示三个以上事物的比较，程度最高的那个　翻译为：最...
+   接续：N + がいちばん
+   例句：nihondeha. fujisan gaichiban takadesu
+        日本では、　富士山　がいちばん　高いです
+        在日本，富士山是最高的
+        kudamono no nakade, ruhon gaichiban sukidesu
+        果物　の　中で、　レモン（remon）がいちばんすきです
+        水果中， 我最喜欢柠檬le
+6. ...がほしい　がほしい
+　　解说：表示为说话人的愿望，希望， 翻译为：想要..
+   接续：名词 + が欲しい
+   例句：kanojyo gahoshii desu
+        彼女　が欲しい　です
+        我想要女朋友
+        atarashii suma-tofuon gahoshiidesu
+        新しい　スマートフォン　が欲しいです
+        我想要一个新的手机
+7. ...ぐらい
+　　解说：表示大致的程度，翻译大概... ...左右
+   接续：名词 + ぐらい
+   例句：ni nen gurai toukyou ni sun de imashita
+        二年　ぐらい　東京　に　住んで　いました
+        我在东京住了大约两年了
+        hachi jikan gurai nemashita
+        八時間　ぐらい　寝ました
+        我睡觉大约8个小时
+8. ぜひ…
+　　解说：用于强调请求或者愿望 翻译为 无论如何... 务必... 真的...
+   接续：ぜひ　+ Vてください /V　たいです
+   例句：zehi kondo uchi ni aso bi ni kitekudasai
+        ぜひ　今度　うち　に　遊びに　来てください
+        请务必下次来我家玩
+        zehi ichido go ryoushin ni aitaidesu
+        ぜひ　一度　ご　両親　に　会いたいです
+        我非常的想见你的父母
+9. ...たい
+　　解说：用于说话人的行为欲望或者希望 翻译为 想要....想...
+   接续：V(ます形)去掉ます　＋　たい
+   例句：haya ku ie ni kae ritai
+   　　　早く　家　に　帰りたい
+   　　　我想早点回家 （帰る　帰ります）
+        konya ha kare- ga tabetai desu
+        今夜　は　カレー　が　食べたい　です
+        今晚我想吃咖喱 （食べる　食べます）
+10. ..たり...たり
+　　解说：表示从众多事情当中举出2-3个代表性的例子，也可以使用一个tari
+     接续：动词1 （ta形）+ ri + 动词2（ta形）+ ri
+     例句：shuumatsu ha kaimono wo shitari, eiga wo mitari shimashita
+          週末　は　買い物　を　したり、　映画　を　見たり　しました
+          周末我去购物， 看了电影 （する　すた）（見る　見た）
+          hi ma na toki ha hon wo yon dari, ongaku wo kiitari shimasu
+          暇な時　は　本を　読んだり、　音楽　を　聞いたり　します
+          空闲的时候 我会看书或者听音乐
+11. ...だけ
+　　解说：表示限定，翻译为 仅仅... 只...
+   接续：名词 + だけ
+   例句：asagohan ha itsumo yo-guruto dake desu
+        朝ご飯　は　いつも　ヨーグルト　だけです
+         我早上通常吃尤格
+        yasumi ha nichiyoubi dake desu
+        休み　は　日曜日　だけです
+        休息只有周日
+12. ...てから
+　　解说：翻译为 ...之后在 ...然后
+   接续：动词te形 + から
+   例句：daigaku ni haittekara, nihongo wo benkyoushimashita
+        だいがく　に　入ってから、　日本語　を　勉強しました
+        进入大学后，我学习了日语
+        terebi wo mitekara, benkyoushimasu
+        テレビ　を　　見てから、勉強します
+13. ...で
+　　解说：表示手段，方法， 翻译为 用...
+   接续：名词 + で
+   例句：jitensha de gakkou ni ikimasu
+        じてんしゃ で　学校　に　行きます
+        我骑脚踏车去学笑
+        sumato de shashin wo tori masu
+      　スマト　で　写真　を　撮ります
+      　用手机拍照
+14. ...で
+　　解说：表示行为者的数量
+   接续：名词 + de
+   例句：kinou , hitori de eiga wo mini ikimashita
+        昨日、　一人　で　映画　を　見に行きました
+        昨天，我一个人去看了电影
+        kazokuzenin de doraibu shimashita
+        家族全員　で　ドライブ　しました
+15. ...でしょう？
+　　解说：用于向对方确认，或需求对方同意，翻译为 ...吧？
+   接续：普通形 + でしょう？
+   例句：kore，kinou kareshi ni morattanda. iideshou?
+       　これ、昨日　彼氏　に　もらったんだ。　いいでしょう？
+        这个是昨天男朋友送我的， 很棒吧？
+        e-， iinaa
+        ええ、いいなあ
+        嗯，真好
+16. ...てはいけない
+　　解说：表示禁止 翻译为 不能... 不要...
+   接续：动词（de形）+ はいけない
+   例句：koko de bako wo sutte hai kemasen
+        ここ　で　タバコ　を　吸って　はいけません
+        此处禁止吸烟（吸う）
+        jyugyouchuu ni keitaidenwa wo tsukatte haikemasen
+        授業中　に　携帯電話　を　使って　はいけません
+        上课期间 禁止使用手机　（使う）
+17. ...てもいいですか
+　　解说：表示征求同意，需求许可 翻译为 我可以...吗？
+   接续：动词 （te形）+ もいいですか
+   例句：heya ni haitte moiidesuka
+        部屋に　入って　もいいですか
+        我可以进入你的房间吗 （入る）
+        koko ni suwatte moiidesuka
+        ここに　座って　もいいですか
+        我可以坐这里吗？
+18. ...と思う　とおもう
+　　解说：表示陈述意见或者推荐 翻译为： 我承认... 觉得...
+   接续：普通形 + と思う
+   例句：nihongo no benkyou ha totemo omoshiro toomoimasu
+       日本語　の　勉強　は　とても　面白い　と思います
+       我认为学习日语非常有趣
+       sono　hanashi ha　hontou janai toomoimasu
+       その　話　は　本当　じゃない　と思います
+       我认为那件事不是真的
+19. ...とき
+    解说：表示某个动作或者状态的时间，翻译为 ...的时候
+    接续：动词 （普）+ とき
+         i A i + とき
+         na A na + とき
+         n + の + とき
+    例句：gaikoku he iku toki, pasupo-to ga hitsuyou desu
+        　外国人　へ　行く　とき、　パスポート　が　必要　です
+          去外国的时候，需要护照
+          Kodomo no toki, watashi ha yasai ga kiraide shita
+          子供　の　とき、　私は　野菜　が　嫌いでした
+          小的时候就，我最讨厌吃蔬菜
+20. とても
+　　　解说：表示程度很高，翻译为非常
+          口语中常用 とっても
+     例句：kono ryourri ha totemo oishiidesu
+          この　料理　は　とても　美味しいです
+          这道菜非常美味
+          mainichi totemo isogashiidesu
+          毎日　とても　忙しいです
+          每天非常忙
+21. どうやって
+　　　解说：表示询问 翻译为 如何
+     例句：ekimade douyatte ikimasuka
+          駅まで　どうやって　行きますか
+          去车站怎么走呢？
+          kono ryouri ha douyatte tsukurimasuka
+          この　料理　は　どうやって　作りますか
+          这个菜怎么做呢？
+22. どんな
+　　　解说：用于询问人，物或地点的特征
+     翻译为：什么样的
+     接续：どんな　＋　Ｎ
+     例句：nattou ha donna tabemono desuka
+          納豆 は　どんな　食べ物　ですか
+          纳豆是什么样的食物呢？
+          satou san ha donna hito ga suki desuka
+          佐藤さん　は　どんな　人　が　好きですか
+          佐藤先生喜欢什么样的人呢？
+23. AないでB
+    解说：表示在不做A的情况下做B
+    接续：V（nai形）＋　で
+    例句：kesa, asago han wo tabe naide gakkou ni ikimashita
+         今朝、朝ご飯　を　食べ　ないで　学校　に　行きました
+         今天早上我没有吃早饭就来学习了
+         kinou nenaide benkyoushimashita
+         昨日　寝ないで　勉強しました
+         昨天我没有睡觉学习了
+24. ...ないでください
+　　　解说：要求对方不要做某事时使用 翻译为：不要怎么...
+     接续：V(nai形)+ でください
+     例句：kokode ha tabako wo suwanai dekudasai
+          ここで　は　タバコ　を　吸わない　でください
+          请不要在这里吸烟 （吸う）
+          soko ni ha hairanai dekudasai
+          そこに　入らない　でください
+          请不要进入这里 （入る）
+25. ...ながら...
+   　解说：表示同一个人同时做A和B两件事，翻译为 一边...一边
+    接续：V（masu形）去掉masu + ながら
+    例句：ko-hi- wo nomi naigara shinbun wo yomimasu
+         コーヒーを　飲み　ながら　新聞　を　読みます
+         边喝咖啡边看报纸
+         poppuko-n wo tabe nagara eiga wo mimasu
+         ポップコーン　を　食べながら　映画　を　見なす
+         一边吃爆米花，一边看电影
+26. ...なくてもいい
+　　解说：表示么有必要做某事，翻译为：不...也行 不...也没有关系
+   接续：V（nai形）去掉i + くてもいい
+   例句：juusho ha kakanai kutemoiidesu
+        住所　は　書かな　くてもいいです
+        不写住所也没有关系 （書く）
+        kutsu wo nugana kutemoiidesu
+        靴　を　脱がなくてもいいです
+        鞋子不脱也没有关系　（脱ぐ）
+27. ...なければならない
+　　　...なければいけない
+　  解说：表示必须做某事 翻译为 必须...
+    接续：V（nai形）去掉i + けらばならない／けらばいけない
+    例句：konokusuri wo mainichi nomana kerebanaranai
+         この薬　　を　毎日　飲まな　けらばならない
+         这个药每天必须服用 （飲む　飲まない）
+         yakusoku wo mamorana kerebaikenai
+         約束　を　守らな　ければいけない
+         必须遵守约定 （守る　守らない）
+28. ...なる
+　　　解说：表示状态的变化 翻译为：变得，成为
+     接续：i形容词去掉i + くなる
+          na形容词 + になる
+          N + になる
+     例句：keshou wo shitara , kirei ni narimashita
+          化粧を　したら、　綺麗になりました
+          化妆后，变得漂亮的 （綺麗　な形容词）
+          takusan aru itanode, ashiga itaku narimashita
+          たくさん　歩いたので、　足が痛くなりました
+          因为走了很多路，脚痛起来了
+29. に
+　　解说：表示动作的目的
+    接续：V（masu形）去掉masu + に　＋　移动动词
+         动作性名词 + ni + 移动动词
+    例句：kinou tomodachi to eiga wo mi ni ikimashita
+         昨日　友達　と　映画　を　見に行きました
+         昨天，我和朋友去看电影了
+         nihon ni ryokou ni ikimasu
+         日本に　旅行　に　行きます
+         去日本旅游
+30. ...はどうでか
+　　 解说：用于询问对方的意见，印象，感想 翻译为：....怎么样
+    接续：N + はどうでか
+    例句：saikin ha doudesuka
+         最近　は　どうですか
+         最近怎么样
+         gakkou ha doudesuka。tanoshiidesuka
+         学校　は　どうですか。　楽しいですか
+         学校怎么样 开心吗
+31. AはＢより…です
+　　解说：用于比较两个事物，翻译为：A比B更加
+   接续：N1 は　Ｎ２　より…　です
+   例句：densha ha pasu yori hayai desu
+        電車　は　バス　より　速い　です
+        电车比巴士快
+        kyou ha kinou yori isogashii desu
+        今日　は　昨日　より　忙しいです
+        今天比昨天忙
+32. ...前に、
+　　　解说：表示...之前
+     接续：V（辞书形）+ 前に、
+          N + の　＋　前に、
+     例句：kono kusuri ha, shokuji no mae ni non de kudasai
+          この　薬　は、　食事の前に　飲んでください
+          这个药请再饭前服用
+          nerumaeni, sukoshi nihongo wo benkyoushimasu
+          寝る前に、　少し　日本語を勉強します
+          睡前学一点日语
+33.  ...ましょう
+　　　解说：用于向对方提出邀请或提议，翻译为 一起...吧
+     接续：V（masu形）去掉su + しょう
+     例句：issho ni kaerimashou
+          一緒に　帰りましょう
+          一起回去吧
+          mata ai mashou
+          また会いましょう
+          我们再见面吧
+34. ...ませんか
+　　　解说：用于邀请对方一起做某事 翻译为：（一起）...好吗？ 要不要一起...?
+     接续：V（masu形）去掉su + せんか
+     例句：konshuu no doyoubi, issho ni eiga wo mimasenka
+          今週　の　土曜日、　一緒に　映画　を　みませんか
+          这周六要不要一起去看电影呢？ （見る　見ます）
+          natsuyasumi, minna de umi ni ikimasenga
+          夏休み、　みんな　で　海　に　行きませんか
+          暑假大家一起去海边怎么样？（行く　行きます）
+35. ...もらう
+　　　解说：表示从那里得到某物
+     接续：接受者 ha 给予者 に 物 をもらう
+     　　　接受者 ha 给予者 から 物 をもらう
+     例句：senpai kara adobaisu wo morauta
+          先輩 から　アドバイス　を　もらうた
+          我从前辈那里获得到了建议
+          haha kara tanjoubi purezento wo moraimashita
+          母から　誕生日　プレゼント　を　もらいました
+          我从妈妈那里收到了生日礼物
+ 36. を
+ 　　解说：表示移动的出发点
+    接续：场所 + を　＋　具有脱离意思的动词
+    例句：maiasa 7 ji goro ie wo de masu
+         毎朝　七　時　ごろ　家　を　出ます
+         我每天早上7点左右从家里出发
+         mou hitoeki de densha wo orimasu
+         もう　一駅　で　電車　を　降ります
+         もう一駅　で　電車　を　降ります
+         我还有一站下车
+37. ...をください
+    解说：用于请求对方给自己某样东西。在餐厅点单，商品买东西等场所使用
+         翻译为 请给我什么？
+    接续：N + をください
+    例句：hanba-ga- wo futatsu kudasai
+         ハンバーガー　を　二つ　ください
+         请给我两个汉堡包
+         korewo kudasai
+         これをください
+         请给我这个
