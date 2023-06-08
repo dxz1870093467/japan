@@ -4,5 +4,22 @@
 4.房租 yachin やちん 家賃
 5.疼痛 itami いたみ　痛み
 6.洞  ana あな　穴
-7.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
-8.
+7.失去 动词 ushinau うしなう　失う
+8.记忆 名词 kioku  きおく　記憶
+9.生活 名称 kurashi
+10.广告 koukoku
+11.打招呼 aisatsu
+12.批评 shikaru
+13.自豪 jiman
+14.借款，债务 shakkin
+15.担心 shinpai
+16.产品，制品 seihin
+17.不凑巧，偏巧 ainiku
+18.父亲 chichioya
+19.午饭 chuushoku
+20.名，形容动词  tokui
+21.爱，热爱 动词 aisuru
+22.迷 nazo
+23.野餐，郊游 pikunikku
+24.专家 puro
+25.申请 moushikomu
