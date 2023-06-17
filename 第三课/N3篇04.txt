@@ -1,0 +1,100 @@
+1.交涉，谈判 koushou こうしょう　交渉
+2.纠纷，麻烦 toraburu トラブル
+3.嘈杂的，嘈闹的 souzoushii そうぞうしい　騒々しい
+4.购买 kounyuu こうにゅう　購入
+5.准备，预备 youi ようい　用意
+6.叫醒，唤醒 okosu おこす　起こす
+7.文件，资料 shorui しょるい　書類
+8.支持 ouen おうえん　応援
+9.着急 aseru あせる　焦る
+10.活动 ibento イベント
+11.外表 mitame みため　見た目
+12.运动衫 ja-ji ジャージ
+13.禁止 kinshi きんし　禁止
+14.全部 subete すべて　全て
+15.职场 shokuba しょくば　職場
+16.充满 afurer あふれる　溢れる
+17.借口 iiwake いいわけ　言い訳
+18.态度 taido たいど　態度
+19.态度 kekkyoku けっきょく　結局
+20.缩减... 减少 herasu へらす　減らす
+21.比例 wariai わりあい　割合
+22.理解 rikai suru りかいする　理解する
+23.感到.... kanjiru かんじる　感じる
+24.无聊 taikutsu たいくつ　退屈
+25.压力 sutoresu ストレス
+26.学历 gakureki がくれき　学歴
+27.意外的 igai いがい　意外
+28.辛苦的，费力的 taihen たいへん　大変
+29.友情 yuujou ゆうじょう　友情
+30.魅力 miryoku みりょく　魅力
+31.可疑的 ayashii　あやしい　怪しい
+32.把...弄干 kawakasu かわかす　乾かす
+33.痒的 kayui かゆい　痒い
+34.痛苦的 kurushii くるしい　苦しい
+35.幼小的 osanai おさない　幼い
+36.表示 shimesu しめす　示す
+37.尖锐的 surudoi するどい　鋭い
+38.赝品，假货 nisemono にせもの　偽物
+39.不可能 fukanou ふかのう　不可能
+40.如实，真实 arinomama ありのまま　有りのまま
+41.确实的，确切的 tashika たしか　確か
+42.微妙的 bimyou びみょう　微妙
+43.度过 sugosu すごす　過ごす
+44.说话，聊天 shaberu しゃべる　喋る
+45.第二天 yokujitsu よくじつ　翌日
+46.贩卖 hanbai はんばい　販売
+47.一定，必定 kanarazu かならず　必ず
+48.勇气 yuuki ゆうき　勇気
+49.行动 koudou suru こうどうする　行動する
+50.不安 fuan ふあん　不安
+51.乡下 inaka いなか　田舎
+52.成长 seichou せいちょう　成長
+53.答案 kotae こたえ　答え
+54.蛀牙 mushiba むしば　虫歯
+55.伟大的，了不起的 erai えらい　偉い
+56.晚饭 yuuhan ゆうはん　夕飯
+57.挑战 chousen ちょうせん　挑戦
+58.习惯 shuukan しゅうかん　習慣
+59.心脏 shinzou しんぞう　心臓
+60.睡眠 suimin すいみん　睡眠
+61.头痛 zutsuu ずつう　頭痛
+62.成绩 seiseki せいせき　成績
+63.尊敬 sonkei そんけい　尊敬
+64.宝物 takara たから　宝
+65.帮助 tasukeru たすける　助ける
+66.立场 tachiba たちば　立場
+67.上学，去学校 tsuugaku つうがく　通学
+68.通过，经过 toorisugiru とおりすぎｒ　通り過ぎる
+69.突然 totsuzen とつぜん　突然
+70.讨论 hanashiau はなしあう　話し合う
+71.美女 bijin びじん　美人
+72.否定 hitei ひてい　否定
+73.相等的 hitoshii ひとしい　等しい
+74.费用 hiyou ひよう　費用
+75.气氛 funiki 　ふんいき　雰囲気
+76.领域 bunya ぶんや　分野
+77.首先 mazu まず　先ず
+78.越来越... masumasu ますます
+79.伙伴，朋友 mikata みかた　味方
+80.未来 mirai みらい　未来
+81.当然 mochiron もちろん　勿論
+82.丰富的，富裕的 yutaka ゆたか　豊か
+83.喜悦 yorokobi よろこび　喜び
+84.礼貌，礼节 reigi れいぎ　礼儀
+85.使...离开 把...分离 hanasu はなす　離す
+86.把...解开 toku とく　解く
+87.读书 dokusho どくしょ　読書
+88.机会 chansu チャンス
+89.中心 chuushin ちゅうしん　中心
+90.更正，改正 shuusei しゅうせい　修正
+91.事件，案件  jiken じけん　事件
+92.经历 keiken けいけん　経験
+93.倾向，趋势 keikou けいこう　傾向
+94.感谢 kansha かんしゃ　感謝
+95.感动 kandou かんどう　感動
+96.发生，突发 okoru おこる　起こる
+97.污染 osen 汚染　おせん
+98.企业 kigyou きぎょう　企業
+99.记者 kisha きしゃ　記者
+100.希望 kibou きぼう　希望

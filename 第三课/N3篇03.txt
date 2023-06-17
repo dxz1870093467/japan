@@ -1,0 +1,100 @@
+1.聪明的 kashikoi かしこい　賢い
+2.感觉 kanji かんじ　感じ
+3.发觉 kidzuku きづく　気付く
+4.巨大 kyodai きょだい　巨大
+5.极限，界限 genkai げんかい　限界
+6.公平 kouhei こうへい　公平
+7.小麦 komugi こむぎ　小麦
+8.今后 kongo こんご　今後
+9.更加 sarani さらに　更に
+10.住宿 shukuhaku しゅくはく　宿泊
+11.人生 jinsei じんせい　人生
+12.制度 seido せいど　制度
+13.操作 sousa そうさ　操作
+14.给予，提供 ataeru あたえる　与える
+15.到处，四处 achikochi あちこち　あちこち
+16.屡次，再三 tabitabi たびたび
+17.不行，没用 dame だめ　駄目
+18.调查 chousa ちょうさ　調査
+19.操作，处理 atsukau あつかう　扱う
+20.终于，最终 tsuini ついに　遂に
+21.翅膀 tsubasa つばさ　翼
+22.工夫，劳力和时间 tema てま　手間
+23.内容 naiyou  ないよう　内容
+24.淋湿，沾湿 nureru ぬれる　濡れる
+25.安慰 nagusameru なぐさめる　慰める
+26.希望，愿望 nozomi のぞみ　望み
+27.演员 haiyuu はいゆう　俳優
+28.鼓掌 hakushu はくしゅ　拍手
+29.激烈的 hageshii はげしい　激しい
+30.离开 hanareru はなれる　離れる
+31.难得的，值得庆幸的 arigatai ありがたい　有り難い
+32.嘈杂的 sawagashii さわがしい　騒がしい
+33....空出 ..空闲 aku あく　空く
+34.使...活动 使..转动 ugokasu うごかす　動かす
+35.暧昧，模糊不清 aimai あいまい　曖昧
+36.适度，适当 iikagen いいかげん　いい加減
+37.可憎的，可恶的 nikui にくい　憎い
+38.丑陋的 minikui みにくい　醜い
+39.丢失，丧失 nakusu なくす　失くす
+40.击打 utsu うつ　打つ
+41.母亲 hahaoya ははおや　母親
+42.反抗 hankou はんこう　反抗
+43.犯罪 hanzai はんざい　犯罪
+44.追 ou おう　追う
+45.发光，闪耀 kagayaku かがやく　輝く
+46.参加，加入 kuwawaru くわわる　加わる
+47.急速 kyuusoku きゅうそく　急速
+48.不幸 fukou ふこう　不幸
+49.摔倒，跌倒 korobu ころぶ　転ぶ
+50.喧闹，嘈闹 sawagu さわぐ　騒ぐ
+51.随行，随同 tsukisou つきそう　付き添う
+52.自助餐 baikingu バイキング
+53.总之，不管怎么先  toriaezu とりあえず　取り敢えず
+54.视线 shisen しせん　視線
+55.未来的出路 shinro しんろ　進路
+56.时尚 oshare おしゃれ　お洒落
+57.零用钱 okodzukai おこづかい　お小遣い
+58.外出就餐 gaishoku がいしょく　外食
+59.好处，益处 meritto メリット
+60.充裕，从容 yoyuu よゆう　余裕
+61.随意 kigaru きがる　気軽
+62.触摸 さわる　触る
+63.危险的 abunai あぶない　危ない
+64.可靠，牢靠 shikkari しっかり　しっかり
+65.转换心情 kibuntenkan きぶんてんかん　気分転換
+66.宝贵 kichou きちょう　貴重
+67.当然 atarimae  あたりまえ　当たり前
+68.不肯能，不行 muri むり　無理
+69.决心 ketsui けつい　決意
+70.依靠 tayoru たよる　　頼る
+71.夜宵 yashoku やしょく　夜食
+72.完美 kanpeki かんぺき　完璧
+73.特意 wazawaza わざわざ
+74.而且 shikamo しかも　
+75.错号 adana あだな　あだ名
+76.坏话 warukuchi わるくち　悪口
+77.憧憬 akogareru あこがれる　憧れる
+78.大份，盛得很满 oumori おおもり　大盛り
+79.危险 kiken きけん　危険
+80.夸张的 oogesa おおげさ　大袈裟
+81.喧闹，吵闹 sawagu さわぐ　騒ぐ
+82.自拍 jidori じどり　自撮り
+83.半新品 chuuko ちゅうこ　中古
+84....残存 ...剩下 nokoru のこる　残る
+85.抗拒，反对 teikou ていこう　抵抗
+86.攀谈，搭话 hanashikakeru はなしかけ　話しかける
+87.展现，表现 api-ru アピール
+88.尴尬的 kimazui きまずい　気まずい
+89.节约 setsuyaku せつやく　節約
+90.干劲 yaruki やるき　やる気
+91.闹钟 ara-mu アラーム
+92.时机 taimingu たいみんぐ　タイミング
+93.享受....  tanoshimu たのしむ　楽しむ
+94.要求，寻求 motomeru もとめる　求める
+95.年收入 nenshuu ねんしゅう　年収
+96.条件 jouken じょうけん　条件
+97.后悔 koukai こうかい　後悔
+98.奖金 bo-nasu ボーナス
+99.加班费 zangyoudai ざんぎょうだい　残業代
+100.激动，兴奋 wakuwaku わくわく
