@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class NewFile {
     public static void main(String[] args) {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("n3-1000ことば.txt", false))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("n2-1000ことば.txt", false))) {
             for (int i = 1; i <= 1000; i++) {
                 String fullWidthNumber = toFullWidthNumber(i);
                 writer.write(fullWidthNumber + "．");
